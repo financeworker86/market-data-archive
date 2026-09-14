@@ -1,0 +1,71 @@
+name: Sync CSV files
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 23 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-all-csv
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout archive repository
+        uses: actions/checkout@v4
+        with:
+          path: archive
+          fetch-depth: 1
+
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+        with:
+          repository: financeworker86/tw-market-index-tracker
+          ref: main
+          path: source
+          fetch-depth: 1
+
+      - name: Synchronize all CSV files
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          find archive -type f -iname "*.csv" -delete
+          rsync -avm --prune-empty-dirs \
+            --include="*/" \
+            --include="*.csv" \
+            --include="*.CSV" \
+            --exclude="*" \
+            source/ archive/
+
+          csv_count=$(find archive -type f -iname "*.csv" | wc -l | tr -d " ")
+          if [ "$csv_count" -eq 0 ]; then
+            echo "錯誤：來源 repository 找不到 CSV，停止同步以避免清空封存庫。"
+            exit 1
+          fi
+
+          echo "同步完成，共找到 $csv_count 個 CSV。"
+
+      - name: Commit and push changes
+        working-directory: archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- '*.csv'
+
+          if git diff --cached --quiet; then
+            echo "CSV 沒有變化，無需 commit。"
+            exit 0
+          fi
+
+          git commit -m "sync: update CSV archive ($(date -u +%Y-%m-%d))"
+          git push origin main
