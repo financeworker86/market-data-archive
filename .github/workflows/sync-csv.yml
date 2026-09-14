@@ -4,6 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "30 23 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/sync-csv.yml"
 
 permissions:
   contents: write
