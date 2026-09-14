@@ -4,11 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "30 23 * * *"
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/sync-csv.yml"
 
 permissions:
   contents: write
@@ -23,17 +18,29 @@ jobs:
     timeout-minutes: 30
 
     steps:
+      - name: Validate source repository token
+        shell: bash
+        env:
+          SOURCE_REPO_TOKEN: ${{ secrets.SOURCE_REPO_TOKEN }}
+        run: |
+          if [ -z "$SOURCE_REPO_TOKEN" ]; then
+            echo "::error::缺少 SOURCE_REPO_TOKEN。請建立可讀取 financeworker86/tw-market-index-tracker 的 fine-grained PAT，並加入本 repository 的 Actions secret。"
+            exit 1
+          fi
+
       - name: Checkout archive repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           path: archive
           fetch-depth: 1
 
-      - name: Checkout source repository
-        uses: actions/checkout@v4
+      - name: Checkout private source repository
+        uses: actions/checkout@v7
         with:
           repository: financeworker86/tw-market-index-tracker
           ref: main
+          token: ${{ secrets.SOURCE_REPO_TOKEN }}
+          persist-credentials: false
           path: source
           fetch-depth: 1
 
