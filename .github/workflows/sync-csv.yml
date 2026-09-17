@@ -44,7 +44,7 @@ jobs:
           path: source
           fetch-depth: 1
 
-      - name: Synchronize all CSV files
+      - name: Synchronize CSV files except listings
         shell: bash
         run: |
           set -euo pipefail
@@ -52,6 +52,8 @@ jobs:
           find archive -type f -iname "*.csv" -delete
           rsync -avm --prune-empty-dirs \
             --include="*/" \
+            --exclude="*listings*.csv" \
+            --exclude="*listings*.CSV" \
             --include="*.csv" \
             --include="*.CSV" \
             --exclude="*" \
@@ -59,11 +61,11 @@ jobs:
 
           csv_count=$(find archive -type f -iname "*.csv" | wc -l | tr -d " ")
           if [ "$csv_count" -eq 0 ]; then
-            echo "錯誤：來源 repository 找不到 CSV，停止同步以避免清空封存庫。"
+            echo "錯誤：來源 repository 找不到符合條件的 CSV，停止同步以避免清空封存庫。"
             exit 1
           fi
 
-          echo "同步完成，共找到 $csv_count 個 CSV。"
+          echo "同步完成，共找到 $csv_count 個 CSV（已排除 listings 相關檔案）。"
 
       - name: Commit and push changes
         working-directory: archive
