@@ -3,7 +3,8 @@ name: Sync CSV files
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 23 * * *"
+    # 每日台灣時間 00:00（UTC 前一日 16:00）
+    - cron: "0 16 * * *"
 
 permissions:
   contents: write
