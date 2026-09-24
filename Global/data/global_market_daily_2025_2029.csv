@@ -1,4 +1,27 @@
 ﻿trade_date,symbol,asset_class,name,country,unit,open,high,low,close
+2026-07-30,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,87.74,89.5,86.27,86.88
+2026-07-31,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,87.25,91.36,84.62,87.93
+2026-08-03,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,82.8,84.66,81.55,83.77
+2026-08-04,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,83.83,86.33,78.67,79.36
+2026-08-05,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,78.72,80.95,78.11,79.45
+2026-08-06,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,79.06,83.77,78.92,82.49
+2026-08-07,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,83.3,84.44,81.5,83.55
+2026-08-10,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,83.7,87.93,83.33,87.72
+2026-08-11,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,87.74,90.03,86.6,88.91
+2026-08-12,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,89.17,90.07,88.1,88.98
+2026-08-13,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,88.51,89.07,85.85,87.07
+2026-08-14,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,87.11,88.95,86.2,88.52
+2026-08-17,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,88.89,91.21,88.01,90.87
+2026-08-18,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,90.99,92.0,90.61,91.02
+2026-08-19,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,91.35,92.81,90.4,91.62
+2026-08-20,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,91.51,94.71,91.47,93.78
+2026-08-21,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,93.18,94.83,92.74,94.39
+2026-08-24,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,91.9,92.06,90.17,90.54
+2026-08-25,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,90.49,91.29,85.0,87.27
+2026-08-26,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,85.88,88.52,84.56,86.94
+2026-08-27,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,86.5,89.17,85.32,88.52
+2026-08-28,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,88.51,88.75,87.26,88.1
+2026-08-31,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,89.45,91.52,89.03,90.49
 2026-09-01,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,90.81,95.45,90.7,94.65
 2026-09-02,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,95.25,97.04,93.52,95.63
 2026-09-03,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,95.19,97.62,94.03,95.52
@@ -15,6 +38,30 @@
 2026-09-18,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,104.0,105.0,101.92,103.87
 2026-09-21,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,104.71,104.9,98.98,100.34
 2026-09-22,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,100.32,102.3,97.36,99.25
+2026-09-23,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,98.43,103.86,97.91,103.08
+2026-07-30,CL.F,commodity_future,WTI Crude Oil Futures,United States,,84.65,85.94,82.97,83.59
+2026-07-31,CL.F,commodity_future,WTI Crude Oil Futures,United States,,83.92,86.87,81.06,84.67
+2026-08-03,CL.F,commodity_future,WTI Crude Oil Futures,United States,,80.1,81.3,78.43,80.34
+2026-08-04,CL.F,commodity_future,WTI Crude Oil Futures,United States,,80.1,82.33,75.11,75.77
+2026-08-05,CL.F,commodity_future,WTI Crude Oil Futures,United States,,75.17,76.7,74.23,75.22
+2026-08-06,CL.F,commodity_future,WTI Crude Oil Futures,United States,,75.14,78.51,74.57,77.29
+2026-08-07,CL.F,commodity_future,WTI Crude Oil Futures,United States,,78.17,78.77,76.53,78.18
+2026-08-10,CL.F,commodity_future,WTI Crude Oil Futures,United States,,78.42,82.38,77.79,82.13
+2026-08-11,CL.F,commodity_future,WTI Crude Oil Futures,United States,,82.35,84.61,81.27,83.2
+2026-08-12,CL.F,commodity_future,WTI Crude Oil Futures,United States,,83.49,84.35,82.4,83.27
+2026-08-13,CL.F,commodity_future,WTI Crude Oil Futures,United States,,82.7,83.3,80.09,81.25
+2026-08-14,CL.F,commodity_future,WTI Crude Oil Futures,United States,,81.27,82.99,80.71,82.4
+2026-08-17,CL.F,commodity_future,WTI Crude Oil Futures,United States,,81.62,84.17,80.8,83.74
+2026-08-18,CL.F,commodity_future,WTI Crude Oil Futures,United States,,84.1,85.07,83.77,84.06
+2026-08-19,CL.F,commodity_future,WTI Crude Oil Futures,United States,,84.46,85.84,83.45,84.39
+2026-08-20,CL.F,commodity_future,WTI Crude Oil Futures,United States,,84.4,87.69,84.23,86.83
+2026-08-21,CL.F,commodity_future,WTI Crude Oil Futures,United States,,86.27,87.51,85.8,87.06
+2026-08-24,CL.F,commodity_future,WTI Crude Oil Futures,United States,,86.5,86.57,84.36,85.01
+2026-08-25,CL.F,commodity_future,WTI Crude Oil Futures,United States,,85.03,85.84,80.23,82.36
+2026-08-26,CL.F,commodity_future,WTI Crude Oil Futures,United States,,81.11,83.31,79.62,82.23
+2026-08-27,CL.F,commodity_future,WTI Crude Oil Futures,United States,,82.0,84.27,80.65,83.53
+2026-08-28,CL.F,commodity_future,WTI Crude Oil Futures,United States,,83.67,83.78,82.25,83.4
+2026-08-31,CL.F,commodity_future,WTI Crude Oil Futures,United States,,84.69,86.79,84.11,85.76
 2026-09-01,CL.F,commodity_future,WTI Crude Oil Futures,United States,,86.31,90.97,86.13,90.22
 2026-09-02,CL.F,commodity_future,WTI Crude Oil Futures,United States,,90.65,92.29,88.97,91.01
 2026-09-03,CL.F,commodity_future,WTI Crude Oil Futures,United States,,90.7,93.14,89.57,91.3
@@ -29,8 +76,34 @@
 2026-09-16,CL.F,commodity_future,WTI Crude Oil Futures,United States,,105.48,105.63,100.75,102.43
 2026-09-17,CL.F,commodity_future,WTI Crude Oil Futures,United States,,102.18,102.47,99.1,101.91
 2026-09-18,CL.F,commodity_future,WTI Crude Oil Futures,United States,,101.06,103.48,99.19,100.3
-2026-09-21,CL.F,commodity_future,WTI Crude Oil Futures,United States,,101.0,101.08,94.22,95.78
-2026-09-22,CL.F,commodity_future,WTI Crude Oil Futures,United States,,95.39,97.42,92.4,94.59
+2026-09-21,CL.F,commodity_future,WTI Crude Oil Futures,United States,,96.75,97.22,91.19,92.37
+2026-09-22,CL.F,commodity_future,WTI Crude Oil Futures,United States,,91.95,93.84,88.67,90.52
+2026-09-23,CL.F,commodity_future,WTI Crude Oil Futures,United States,,89.94,93.05,88.72,92.7
+2026-07-28,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1148.0,1148.0,1148.0,1148.0
+2026-07-29,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1152.75,1152.75,1152.75,1152.75
+2026-07-30,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1157.0,1157.0,1157.0,1157.0
+2026-07-31,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1149.25,1149.25,1149.25,1149.25
+2026-08-03,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1144.75,1144.75,1144.75,1144.75
+2026-08-04,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1160.25,1160.25,1160.25,1160.25
+2026-08-05,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1165.25,1165.25,1165.25,1165.25
+2026-08-06,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1163.5,1163.5,1163.5,1163.5
+2026-08-07,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1164.75,1164.75,1164.75,1164.75
+2026-08-10,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1177.75,1177.75,1177.75,1177.75
+2026-08-11,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1185.0,1185.0,1185.0,1185.0
+2026-08-12,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1176.25,1176.25,1176.25,1176.25
+2026-08-13,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1184.0,1184.0,1184.0,1184.0
+2026-08-14,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1186.25,1186.25,1186.25,1186.25
+2026-08-17,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1197.5,1197.5,1197.5,1197.5
+2026-08-18,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1209.5,1209.5,1209.5,1209.5
+2026-08-19,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1216.75,1216.75,1216.75,1216.75
+2026-08-20,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1234.75,1234.75,1234.75,1234.75
+2026-08-21,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1249.0,1249.0,1249.0,1249.0
+2026-08-24,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1232.75,1232.75,1232.75,1232.75
+2026-08-25,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1232.75,1232.75,1232.75,1232.75
+2026-08-26,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1216.0,1216.0,1216.0,1216.0
+2026-08-27,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1209.25,1209.25,1209.25,1209.25
+2026-08-28,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1227.75,1227.75,1227.75,1227.75
+2026-08-31,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1227.75,1227.75,1227.75,1227.75
 2026-09-01,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1244.25,1244.25,1244.25,1244.25
 2026-09-02,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1239.5,1239.5,1239.5,1239.5
 2026-09-03,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1229.5,1229.5,1229.5,1229.5
@@ -46,6 +119,29 @@
 2026-09-18,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1249.0,1249.0,1249.0,1249.0
 2026-09-21,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1234.25,1234.25,1234.25,1234.25
 2026-09-22,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1230.0,1230.0,1230.0,1230.0
+2026-07-30,GC.F,commodity_future,Gold Futures,United States,,4060.7,4118.5,4028.5,4100.1
+2026-07-31,GC.F,commodity_future,Gold Futures,United States,,4103.65,4110.5,4021.95,4098.6
+2026-08-03,GC.F,commodity_future,Gold Futures,United States,,4135.2,4145.5,4074.0,4090.5
+2026-08-04,GC.F,commodity_future,Gold Futures,United States,,4109.6,4163.8,4098.1,4152.6
+2026-08-05,GC.F,commodity_future,Gold Futures,United States,,4133.8,4328.2,4121.6,4305.2
+2026-08-06,GC.F,commodity_future,Gold Futures,United States,,4307.0,4363.7,4281.2,4299.6
+2026-08-07,GC.F,commodity_future,Gold Futures,United States,,4298.3,4432.3,4288.0,4399.7
+2026-08-10,GC.F,commodity_future,Gold Futures,United States,,4400.0,4453.8,4373.9,4419.7
+2026-08-11,GC.F,commodity_future,Gold Futures,United States,,4446.9,4495.0,4415.7,4441.1
+2026-08-12,GC.F,commodity_future,Gold Futures,United States,,4430.0,4502.7,4421.4,4467.5
+2026-08-13,GC.F,commodity_future,Gold Futures,United States,,4468.8,4509.1,4400.0,4420.4
+2026-08-14,GC.F,commodity_future,Gold Futures,United States,,4408.2,4454.6,4365.5,4437.3
+2026-08-17,GC.F,commodity_future,Gold Futures,United States,,4440.0,4486.5,4422.3,4473.7
+2026-08-18,GC.F,commodity_future,Gold Futures,United States,,4473.4,4493.1,4383.3,4420.6
+2026-08-19,GC.F,commodity_future,Gold Futures,United States,,4391.4,4582.8,4378.0,4545.3
+2026-08-20,GC.F,commodity_future,Gold Futures,United States,,4580.0,4597.1,4506.0,4571.4
+2026-08-21,GC.F,commodity_future,Gold Futures,United States,,4577.0,4690.4,4565.5,4680.6
+2026-08-24,GC.F,commodity_future,Gold Futures,United States,,4673.4,4738.5,4651.8,4697.8
+2026-08-25,GC.F,commodity_future,Gold Futures,United States,,4710.1,4755.0,4659.5,4694.5
+2026-08-26,GC.F,commodity_future,Gold Futures,United States,,4715.7,4730.9,4638.2,4653.3
+2026-08-27,GC.F,commodity_future,Gold Futures,United States,,4650.0,4697.7,4616.0,4664.0
+2026-08-28,GC.F,commodity_future,Gold Futures,United States,,4656.0,4688.0,4495.0,4529.9
+2026-08-31,GC.F,commodity_future,Gold Futures,United States,,4483.2,4521.5,4445.6,4481.5
 2026-09-01,GC.F,commodity_future,Gold Futures,United States,,4498.7,4510.5,4369.7,4396.4
 2026-09-02,GC.F,commodity_future,Gold Futures,United States,,4377.2,4444.4,4329.2,4414.6
 2026-09-03,GC.F,commodity_future,Gold Futures,United States,,4436.4,4558.5,4426.7,4539.9
@@ -62,6 +158,30 @@
 2026-09-18,GC.F,commodity_future,Gold Futures,United States,,4381.6,4439.8,4372.2,4424.9
 2026-09-21,GC.F,commodity_future,Gold Futures,United States,,4413.0,4422.1,4360.3,4383.9
 2026-09-22,GC.F,commodity_future,Gold Futures,United States,,4382.5,4414.1,4327.6,4376.4
+2026-09-23,GC.F,commodity_future,Gold Futures,United States,,4400.1,4407.1,4311.2,4324.4
+2026-07-30,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.349500000000001,6.508500000000001,6.34,6.474500000000001
+2026-07-31,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.5015,6.5453,6.4303,6.51
+2026-08-03,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.553,6.577500000000001,6.4505,6.5405
+2026-08-04,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.5395,6.6885,6.5345,6.6435
+2026-08-05,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.628500000000001,6.765000000000001,6.6115,6.7275
+2026-08-06,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.747999999999999,6.8665,6.6715,6.709
+2026-08-07,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.7205,6.765499999999999,6.57,6.591
+2026-08-10,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.6000000000000005,6.6545000000000005,6.582999999999999,6.6160000000000005
+2026-08-11,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.633,6.7005,6.609,6.634
+2026-08-12,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.632000000000001,6.714,6.602,6.6155
+2026-08-13,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.605,6.6385000000000005,6.4955,6.608
+2026-08-14,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.5875,6.6243,6.554500000000001,6.61
+2026-08-17,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.6155,6.7415,6.5785,6.6160000000000005
+2026-08-18,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.608,6.6175,6.37,6.4925
+2026-08-19,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.458500000000001,6.511,6.406000000000001,6.496
+2026-08-20,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.511,6.517,6.4025,6.469
+2026-08-21,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.479500000000001,6.6185,6.479,6.587000000000001
+2026-08-24,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.595,6.645499999999999,6.5415,6.605
+2026-08-25,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.611000000000001,6.727,6.5765,6.714
+2026-08-26,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.711,6.778,6.587000000000001,6.599500000000001
+2026-08-27,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.59,6.632000000000001,6.5265,6.589500000000001
+2026-08-28,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.6235,6.673,6.563,6.5915
+2026-08-31,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.640000000000001,6.727,6.594,6.6875
 2026-09-01,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.6905,6.742000000000001,6.5135000000000005,6.600499999999999
 2026-09-02,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.54,6.641,6.507000000000001,6.593
 2026-09-03,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.6135,6.680499999999999,6.5725,6.6645
@@ -78,6 +198,30 @@
 2026-09-18,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.6185,6.7250000000000005,6.6085,6.6915
 2026-09-21,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.722,6.841,6.7015,6.7625
 2026-09-22,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.785,6.9285000000000005,6.7845,6.836
+2026-09-23,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,6.904800000000001,6.912000000000001,6.734,6.785800000000001
+2026-07-30,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.233,4.233,4.0905,4.1291
+2026-07-31,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.1408,4.2293,4.0561,4.0955
+2026-08-03,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,3.978,4.066,3.8569,3.8772
+2026-08-04,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,3.8696,3.9227,3.6725,3.7705
+2026-08-05,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,3.7221,3.8582,3.6743,3.7962
+2026-08-06,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,3.7924,3.9422,3.7325,3.882
+2026-08-07,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,3.9409,3.9534,3.8404,3.9024
+2026-08-10,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,3.9015,4.2178,3.9015,4.1898
+2026-08-11,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.1687,4.285,4.1143,4.2525
+2026-08-12,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.2839,4.324,4.2125,4.304
+2026-08-13,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.2997,4.3165,4.1897,4.2506
+2026-08-14,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.2357,4.2929,4.1764,4.2829
+2026-08-17,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.291,4.4556,4.2402,4.4371
+2026-08-18,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.44,4.4924,4.3955,4.4501
+2026-08-19,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.4925,4.5238,4.3971,4.4523
+2026-08-20,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.4399,4.5097,4.4103,4.4803
+2026-08-21,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.4789,4.5563,4.4293,4.4948
+2026-08-24,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.45,4.4617,4.2555,4.2677
+2026-08-25,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.2885,4.3252,4.1536,4.2438
+2026-08-26,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.1673,4.3152,4.073,4.26
+2026-08-27,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.2348,4.294,4.173,4.2787
+2026-08-28,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.2769,4.3699,4.2614,4.3567
+2026-08-31,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.3,4.4386,4.2684,4.4106
 2026-09-01,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.4309,4.726,4.4005,4.6773
 2026-09-02,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.7045,4.7661,4.5718,4.6822
 2026-09-03,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.6572,4.6986,4.5799,4.5936
@@ -94,6 +238,30 @@
 2026-09-18,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,5.047,5.1712,4.9935,5.0578
 2026-09-21,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,5.1142,5.1918,4.7997,4.8895
 2026-09-22,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.8745,4.9578,4.7074,4.9421
+2026-09-23,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.8777,4.9742,4.5778,4.835
+2026-07-30,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,124.55,124.55,124.55,124.55
+2026-07-31,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,125.75,125.75,125.6,125.6
+2026-08-03,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,122.75,122.75,122.0,122.0
+2026-08-04,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,120.35,120.35,120.35,120.35
+2026-08-05,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,119.8,119.8,117.15,117.15
+2026-08-06,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,119.0,119.35,117.95,117.95
+2026-08-07,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,118.75,118.8,118.75,118.8
+2026-08-10,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,123.0,124.4,123.0,124.4
+2026-08-11,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,123.95,124.75,123.95,124.75
+2026-08-12,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,125.8,125.85,125.7,125.7
+2026-08-13,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,125.25,125.25,125.25,125.25
+2026-08-14,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,125.1,125.1,125.1,125.1
+2026-08-17,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,124.7,124.7,124.7,124.7
+2026-08-18,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,124.15,125.85,124.15,125.85
+2026-08-19,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,124.4,127.1,124.4,127.1
+2026-08-20,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,128.5,128.75,128.3,128.3
+2026-08-21,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,129.0,129.5,128.8,129.15
+2026-08-24,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,130.3,130.3,129.9,129.9
+2026-08-25,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,127.75,128.0,127.45,128.0
+2026-08-26,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,127.15,127.15,127.15,127.15
+2026-08-27,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,130.2,130.2,130.2,130.2
+2026-08-28,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,131.75,131.75,131.75,131.75
+2026-08-31,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,133.25,133.75,133.25,133.75
 2026-09-01,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,136.25,137.05,136.25,137.05
 2026-09-02,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,136.95,137.55,136.75,136.75
 2026-09-03,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,136.2,138.5,135.5,136.8
@@ -110,6 +278,30 @@
 2026-09-18,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,137.45,137.55,137.0,137.5
 2026-09-21,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,133.8,134.8,132.95,134.5
 2026-09-22,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,134.0,137.5,134.0,137.05
+2026-09-23,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,135.5,136.1,135.25,135.25
+2026-07-30,NG.F,commodity_future,Natural Gas Futures,United States,,2.732,2.776,2.68,2.758
+2026-07-31,NG.F,commodity_future,Natural Gas Futures,United States,,2.746,2.802,2.712,2.747
+2026-08-03,NG.F,commodity_future,Natural Gas Futures,United States,,2.745,2.81,2.71,2.781
+2026-08-04,NG.F,commodity_future,Natural Gas Futures,United States,,2.774,2.786,2.659,2.682
+2026-08-05,NG.F,commodity_future,Natural Gas Futures,United States,,2.687,2.708,2.66,2.688
+2026-08-06,NG.F,commodity_future,Natural Gas Futures,United States,,2.671,2.702,2.616,2.64
+2026-08-07,NG.F,commodity_future,Natural Gas Futures,United States,,2.633,2.69,2.617,2.662
+2026-08-10,NG.F,commodity_future,Natural Gas Futures,United States,,2.709,2.806,2.702,2.794
+2026-08-11,NG.F,commodity_future,Natural Gas Futures,United States,,2.778,2.819,2.745,2.767
+2026-08-12,NG.F,commodity_future,Natural Gas Futures,United States,,2.749,2.83,2.747,2.804
+2026-08-13,NG.F,commodity_future,Natural Gas Futures,United States,,2.792,2.799,2.709,2.727
+2026-08-14,NG.F,commodity_future,Natural Gas Futures,United States,,2.736,2.783,2.71,2.733
+2026-08-17,NG.F,commodity_future,Natural Gas Futures,United States,,2.691,2.71,2.638,2.69
+2026-08-18,NG.F,commodity_future,Natural Gas Futures,United States,,2.702,2.796,2.692,2.776
+2026-08-19,NG.F,commodity_future,Natural Gas Futures,United States,,2.786,2.875,2.77,2.814
+2026-08-20,NG.F,commodity_future,Natural Gas Futures,United States,,2.781,2.804,2.711,2.733
+2026-08-21,NG.F,commodity_future,Natural Gas Futures,United States,,2.763,2.798,2.741,2.773
+2026-08-24,NG.F,commodity_future,Natural Gas Futures,United States,,2.793,2.891,2.761,2.835
+2026-08-25,NG.F,commodity_future,Natural Gas Futures,United States,,2.807,2.851,2.747,2.821
+2026-08-26,NG.F,commodity_future,Natural Gas Futures,United States,,2.845,2.927,2.839,2.874
+2026-08-27,NG.F,commodity_future,Natural Gas Futures,United States,,2.903,2.99,2.892,2.914
+2026-08-28,NG.F,commodity_future,Natural Gas Futures,United States,,2.906,2.932,2.836,2.888
+2026-08-31,NG.F,commodity_future,Natural Gas Futures,United States,,2.875,2.947,2.832,2.935
 2026-09-01,NG.F,commodity_future,Natural Gas Futures,United States,,2.931,2.955,2.851,2.904
 2026-09-02,NG.F,commodity_future,Natural Gas Futures,United States,,2.946,3.002,2.91,2.956
 2026-09-03,NG.F,commodity_future,Natural Gas Futures,United States,,2.998,3.026,2.885,2.913
@@ -126,6 +318,30 @@
 2026-09-18,NG.F,commodity_future,Natural Gas Futures,United States,,2.871,2.943,2.846,2.912
 2026-09-21,NG.F,commodity_future,Natural Gas Futures,United States,,2.902,2.906,2.819,2.836
 2026-09-22,NG.F,commodity_future,Natural Gas Futures,United States,,2.83,3.023,2.817,2.965
+2026-09-23,NG.F,commodity_future,Natural Gas Futures,United States,,3.016,3.221,2.959,3.044
+2026-07-30,SI.F,commodity_future,Silver Futures,United States,USD/ozt,57.975,59.57,57.120000000000005,59.017
+2026-07-31,SI.F,commodity_future,Silver Futures,United States,USD/ozt,59.26,59.405,57.22,57.786
+2026-08-03,SI.F,commodity_future,Silver Futures,United States,USD/ozt,58.65,58.88,56.705,57.856
+2026-08-04,SI.F,commodity_future,Silver Futures,United States,USD/ozt,58.38,60.285,58.185,60.245000000000005
+2026-08-05,SI.F,commodity_future,Silver Futures,United States,USD/ozt,59.785,63.025,59.620000000000005,62.288
+2026-08-06,SI.F,commodity_future,Silver Futures,United States,USD/ozt,62.2,63.32,61.120000000000005,61.606
+2026-08-07,SI.F,commodity_future,Silver Futures,United States,USD/ozt,61.855,65.48,61.42,63.499
+2026-08-10,SI.F,commodity_future,Silver Futures,United States,USD/ozt,63.8,66.25,63.195,65.272
+2026-08-11,SI.F,commodity_future,Silver Futures,United States,USD/ozt,65.94500000000001,66.685,64.47,64.935
+2026-08-12,SI.F,commodity_future,Silver Futures,United States,USD/ozt,64.875,66.98,64.81,65.7
+2026-08-13,SI.F,commodity_future,Silver Futures,United States,USD/ozt,65.455,66.465,64.315,64.99300000000001
+2026-08-14,SI.F,commodity_future,Silver Futures,United States,USD/ozt,64.63,65.885,63.645,65.108
+2026-08-17,SI.F,commodity_future,Silver Futures,United States,USD/ozt,65.06,66.735,64.85,66.23100000000001
+2026-08-18,SI.F,commodity_future,Silver Futures,United States,USD/ozt,65.895,66.685,63.27,64.037
+2026-08-19,SI.F,commodity_future,Silver Futures,United States,USD/ozt,63.425,67.285,62.45,65.825
+2026-08-20,SI.F,commodity_future,Silver Futures,United States,USD/ozt,67.08,69.045,65.755,68.105
+2026-08-21,SI.F,commodity_future,Silver Futures,United States,USD/ozt,68.29,70.08,67.96000000000001,69.53
+2026-08-24,SI.F,commodity_future,Silver Futures,United States,USD/ozt,69.345,69.925,68.31,68.594
+2026-08-25,SI.F,commodity_future,Silver Futures,United States,USD/ozt,68.965,69.985,67.385,68.682
+2026-08-26,SI.F,commodity_future,Silver Futures,United States,USD/ozt,68.63,69.75,67.485,68.02600000000001
+2026-08-27,SI.F,commodity_future,Silver Futures,United States,USD/ozt,68.09,69.72,67.58,69.43100000000001
+2026-08-28,SI.F,commodity_future,Silver Futures,United States,USD/ozt,69.35000000000001,71.16,66.23,66.995
+2026-08-31,SI.F,commodity_future,Silver Futures,United States,USD/ozt,66.8,68.18,65.83,66.99
 2026-09-01,SI.F,commodity_future,Silver Futures,United States,USD/ozt,67.275,67.72,64.61,65.369
 2026-09-02,SI.F,commodity_future,Silver Futures,United States,USD/ozt,64.69500000000001,66.175,63.88,65.46300000000001
 2026-09-03,SI.F,commodity_future,Silver Futures,United States,USD/ozt,66.17,68.08,65.775,67.704
@@ -142,6 +358,7 @@
 2026-09-18,SI.F,commodity_future,Silver Futures,United States,USD/ozt,65.765,67.895,65.74,67.149
 2026-09-21,SI.F,commodity_future,Silver Futures,United States,USD/ozt,66.685,67.555,66.2,66.415
 2026-09-22,SI.F,commodity_future,Silver Futures,United States,USD/ozt,66.515,68.105,65.04,66.53
+2026-09-23,SI.F,commodity_future,Silver Futures,United States,USD/ozt,67.72,68.058,64.718,64.9
 2026-01-02,SOXX.US,etf,iShares Semiconductor ETF,United States,,308.56,315.81,308.56,313.69
 2026-01-05,SOXX.US,etf,iShares Semiconductor ETF,United States,,320.7,322.64,316.88,318.06
 2026-01-06,SOXX.US,etf,iShares Semiconductor ETF,United States,,322.07,329.15,322.0,328.35
@@ -323,6 +540,33 @@
 2026-09-18,SOXX.US,etf,iShares Semiconductor ETF,United States,,522.71,533.32,522.38,533.07
 2026-09-21,SOXX.US,etf,iShares Semiconductor ETF,United States,,545.08,562.2,541.47,559.34
 2026-09-22,SOXX.US,etf,iShares Semiconductor ETF,United States,,553.76,573.52,553.36,572.78
+2026-09-23,SOXX.US,etf,iShares Semiconductor ETF,United States,,570.4,571.55,557.05,565.72
+2026-09-21,ZS.F,commodity_future,Soybean Futures,United States,,1304.0,1328.5,1303.5,1328.0
+2026-09-22,ZS.F,commodity_future,Soybean Futures,United States,,1327.0,1331.5,1318.5,1325.5
+2026-09-23,ZS.F,commodity_future,Soybean Futures,United States,,1323.75,1327.13,1311.0,1317.5
+2026-07-30,^AOR,index,All Ordinaries Index,Australia,,9185.5,9185.5,9107.9,9122.695
+2026-07-31,^AOR,index,All Ordinaries Index,Australia,,9207.2,9215.8,9131.7,9136.951
+2026-08-03,^AOR,index,All Ordinaries Index,Australia,,9108.7,9178.4,9099.5,9178.389
+2026-08-04,^AOR,index,All Ordinaries Index,Australia,,9186.1,9311.9,9186.1,9311.882
+2026-08-05,^AOR,index,All Ordinaries Index,Australia,,9345.7,9407.2,9317.1,9405.377
+2026-08-06,^AOR,index,All Ordinaries Index,Australia,,9409.9,9473.9,9409.9,9452.018
+2026-08-07,^AOR,index,All Ordinaries Index,Australia,,9411.3,9455.1,9398.8,9445.084
+2026-08-10,^AOR,index,All Ordinaries Index,Australia,,9437.4,9453.0,9395.8,9424.051
+2026-08-11,^AOR,index,All Ordinaries Index,Australia,,9424.1,9474.8,9424.1,9443.74
+2026-08-12,^AOR,index,All Ordinaries Index,Australia,,9405.5,9419.0,9384.0,9404.705
+2026-08-13,^AOR,index,All Ordinaries Index,Australia,,9390.5,9399.9,9342.2,9381.397
+2026-08-14,^AOR,index,All Ordinaries Index,Australia,,9332.8,9332.9,9288.7,9313.196
+2026-08-17,^AOR,index,All Ordinaries Index,Australia,,9282.0,9315.5,9270.6,9279.043
+2026-08-18,^AOR,index,All Ordinaries Index,Australia,,9268.6,9314.2,9260.8,9274.221
+2026-08-19,^AOR,index,All Ordinaries Index,Australia,,9234.7,9269.2,9225.5,9255.207
+2026-08-20,^AOR,index,All Ordinaries Index,Australia,,9308.1,9317.1,9275.6,9298.468
+2026-08-21,^AOR,index,All Ordinaries Index,Australia,,9283.4,9291.6,9256.4,9269.697
+2026-08-24,^AOR,index,All Ordinaries Index,Australia,,9307.5,9342.7,9284.7,9316.658
+2026-08-25,^AOR,index,All Ordinaries Index,Australia,,9324.5,9387.2,9324.5,9374.856
+2026-08-26,^AOR,index,All Ordinaries Index,Australia,,9393.3,9428.5,9338.8,9338.8
+2026-08-27,^AOR,index,All Ordinaries Index,Australia,,9328.0,9329.7,9232.9,9243.219
+2026-08-28,^AOR,index,All Ordinaries Index,Australia,,9261.4,9294.3,9258.6,9294.25
+2026-08-31,^AOR,index,All Ordinaries Index,Australia,,9294.3,9316.7,9253.6,9271.352
 2026-09-01,^AOR,index,All Ordinaries Index,Australia,,9220.5,9262.9,9214.7,9260.857
 2026-09-02,^AOR,index,All Ordinaries Index,Australia,,9174.0,9174.0,9124.8,9160.333
 2026-09-03,^AOR,index,All Ordinaries Index,Australia,,9160.4,9209.4,9155.6,9198.291
@@ -338,7 +582,31 @@
 2026-09-17,^AOR,index,All Ordinaries Index,Australia,,8920.2,8926.5,8878.0,8910.867
 2026-09-18,^AOR,index,All Ordinaries Index,Australia,,8944.1,8955.4,8905.4,8922.716
 2026-09-21,^AOR,index,All Ordinaries Index,Australia,,8922.7,8925.1,8872.1,8919.146
-2026-09-22,^AOR,index,All Ordinaries Index,Australia,,8936.3,8971.7,8917.4,8951.0
+2026-09-22,^AOR,index,All Ordinaries Index,Australia,,8936.3,8971.7,8917.4,8950.969
+2026-09-23,^AOR,index,All Ordinaries Index,Australia,,8969.4,8985.6,8940.4,8956.2
+2026-07-30,^CAC,index,CAC 40,France,,8409.89,8515.36,8409.89,8485.64
+2026-07-31,^CAC,index,CAC 40,France,,8489.44,8576.55,8483.21,8509.64
+2026-08-03,^CAC,index,CAC 40,France,,8566.74,8642.32,8559.58,8613.82
+2026-08-04,^CAC,index,CAC 40,France,,8650.2,8669.69,8601.92,8666.63
+2026-08-05,^CAC,index,CAC 40,France,,8692.65,8693.89,8656.73,8669.3
+2026-08-06,^CAC,index,CAC 40,France,,8721.14,8742.53,8699.71,8699.71
+2026-08-07,^CAC,index,CAC 40,France,,8712.29,8755.03,8697.19,8714.93
+2026-08-10,^CAC,index,CAC 40,France,,8710.49,8730.03,8692.35,8726.03
+2026-08-11,^CAC,index,CAC 40,France,,8724.63,8749.47,8698.86,8714.94
+2026-08-12,^CAC,index,CAC 40,France,,8719.13,8721.69,8658.92,8674.94
+2026-08-13,^CAC,index,CAC 40,France,,8701.35,8707.39,8649.46,8650.56
+2026-08-14,^CAC,index,CAC 40,France,,8658.94,8662.1,8630.24,8636.8
+2026-08-17,^CAC,index,CAC 40,France,,8632.55,8643.9,8577.49,8579.6
+2026-08-18,^CAC,index,CAC 40,France,,8563.06,8578.1,8509.36,8509.36
+2026-08-19,^CAC,index,CAC 40,France,,8523.25,8558.22,8501.91,8501.91
+2026-08-20,^CAC,index,CAC 40,France,,8504.07,8514.67,8444.76,8453.09
+2026-08-21,^CAC,index,CAC 40,France,,8445.65,8493.55,8441.11,8484.43
+2026-08-24,^CAC,index,CAC 40,France,,8481.79,8490.24,8444.8,8453.01
+2026-08-25,^CAC,index,CAC 40,France,,8500.89,8501.51,8439.2,8439.2
+2026-08-26,^CAC,index,CAC 40,France,,8468.79,8503.65,8462.39,8462.39
+2026-08-27,^CAC,index,CAC 40,France,,8460.91,8460.91,8308.1,8319.87
+2026-08-28,^CAC,index,CAC 40,France,,8388.77,8421.52,8388.77,8401.18
+2026-08-31,^CAC,index,CAC 40,France,,8408.67,8427.1,8334.5,8334.5
 2026-09-01,^CAC,index,CAC 40,France,,8348.35,8372.55,8278.54,8301.85
 2026-09-02,^CAC,index,CAC 40,France,,8292.75,8307.66,8237.92,8280.63
 2026-09-03,^CAC,index,CAC 40,France,,8275.37,8288.82,8240.5,8286.4
@@ -355,6 +623,7 @@
 2026-09-18,^CAC,index,CAC 40,France,,8153.54,8161.07,8046.04,8065.02
 2026-09-21,^CAC,index,CAC 40,France,,8103.85,8154.24,8102.09,8138.94
 2026-09-22,^CAC,index,CAC 40,France,,8157.77,8197.07,8117.27,8154.91
+2026-09-23,^CAC,index,CAC 40,France,,8190.22,8199.66,8112.22,8123.41
 2026-04-07,^DAX,index,DAX,Germany,,23181.6,23397.8,22842.1,22921.5
 2026-04-08,^DAX,index,DAX,Germany,,24021.8,24163.9,23875.7,24080.6
 2026-04-09,^DAX,index,DAX,Germany,,23981.2,23989.0,23673.1,23806.9
@@ -475,6 +744,30 @@
 2026-09-18,^DAX,index,DAX,Germany,,25596.46,25656.22,25285.9,25304.06
 2026-09-21,^DAX,index,DAX,Germany,,25491.35,25617.99,25434.16,25575.01
 2026-09-22,^DAX,index,DAX,Germany,,25592.98,25783.16,25423.07,25578.85
+2026-09-23,^DAX,index,DAX,Germany,,25724.13,25729.05,25365.21,25410.63
+2026-07-30,^FMIB,index,FTSE MIB,Italy,,51217.54,52104.71,51182.43,52104.38
+2026-07-31,^FMIB,index,FTSE MIB,Italy,,52347.37,52655.84,51940.82,52172.53
+2026-08-03,^FMIB,index,FTSE MIB,Italy,,52512.49,52888.77,52417.76,52871.72
+2026-08-04,^FMIB,index,FTSE MIB,Italy,,53095.1,53612.6,53095.1,53540.5
+2026-08-05,^FMIB,index,FTSE MIB,Italy,,53819.72,53870.45,53351.45,53446.8
+2026-08-06,^FMIB,index,FTSE MIB,Italy,,53676.22,54024.32,53602.82,53682.72
+2026-08-07,^FMIB,index,FTSE MIB,Italy,,53806.44,54041.8,53551.1,53717.19
+2026-08-10,^FMIB,index,FTSE MIB,Italy,,53740.48,53870.73,53599.26,53663.88
+2026-08-11,^FMIB,index,FTSE MIB,Italy,,53680.76,53851.8,53591.38,53706.21
+2026-08-12,^FMIB,index,FTSE MIB,Italy,,53900.27,53953.55,53637.45,53698.66
+2026-08-13,^FMIB,index,FTSE MIB,Italy,,53897.8,53977.66,53683.14,53693.27
+2026-08-14,^FMIB,index,FTSE MIB,Italy,,53773.03,53773.03,53517.42,53583.61
+2026-08-17,^FMIB,index,FTSE MIB,Italy,,53735.97,53885.86,53586.98,53586.98
+2026-08-18,^FMIB,index,FTSE MIB,Italy,,53478.79,53517.22,53017.7,53017.84
+2026-08-19,^FMIB,index,FTSE MIB,Italy,,53077.31,53151.66,52618.2,52618.2
+2026-08-20,^FMIB,index,FTSE MIB,Italy,,52669.67,52887.11,52546.75,52665.82
+2026-08-21,^FMIB,index,FTSE MIB,Italy,,52773.61,52988.54,52653.01,52668.04
+2026-08-24,^FMIB,index,FTSE MIB,Italy,,52652.63,52788.18,52468.21,52542.18
+2026-08-25,^FMIB,index,FTSE MIB,Italy,,52827.11,52926.04,52570.14,52720.31
+2026-08-26,^FMIB,index,FTSE MIB,Italy,,52824.92,53116.18,52746.49,52882.99
+2026-08-27,^FMIB,index,FTSE MIB,Italy,,52873.31,52955.61,52176.19,52265.12
+2026-08-28,^FMIB,index,FTSE MIB,Italy,,52682.09,52823.63,52556.33,52616.12
+2026-08-31,^FMIB,index,FTSE MIB,Italy,,52571.35,52931.97,52562.54,52612.69
 2026-09-01,^FMIB,index,FTSE MIB,Italy,,52669.92,52677.05,51805.15,51915.18
 2026-09-02,^FMIB,index,FTSE MIB,Italy,,51856.71,52072.32,51596.62,51792.1
 2026-09-03,^FMIB,index,FTSE MIB,Italy,,51832.95,52247.04,51716.89,52245.47
@@ -491,6 +784,30 @@
 2026-09-18,^FMIB,index,FTSE MIB,Italy,,52341.69,52341.69,51446.5,51545.25
 2026-09-21,^FMIB,index,FTSE MIB,Italy,,51814.92,52407.46,51787.91,52371.54
 2026-09-22,^FMIB,index,FTSE MIB,Italy,,52421.68,52445.68,51931.31,52095.83
+2026-09-23,^FMIB,index,FTSE MIB,Italy,,52349.58,52525.11,51775.49,51987.49
+2026-07-29,^FTM,index,FTSE 250,United Kingdom,,24013.5,24053.48,23905.75,23996.81
+2026-07-30,^FTM,index,FTSE 250,United Kingdom,,23975.6,24183.8,23918.72,24079.14
+2026-07-31,^FTM,index,FTSE 250,United Kingdom,,24094.61,24232.78,23959.24,23975.02
+2026-08-03,^FTM,index,FTSE 250,United Kingdom,,23975.24,24236.17,23975.24,24224.77
+2026-08-04,^FTM,index,FTSE 250,United Kingdom,,24273.94,24469.39,24237.38,24459.3
+2026-08-05,^FTM,index,FTSE 250,United Kingdom,,24480.2,24690.73,24480.2,24632.63
+2026-08-06,^FTM,index,FTSE 250,United Kingdom,,24635.08,24722.15,24603.07,24695.42
+2026-08-07,^FTM,index,FTSE 250,United Kingdom,,24704.74,24880.94,24658.88,24854.86
+2026-08-10,^FTM,index,FTSE 250,United Kingdom,,24870.04,24893.53,24709.92,24744.54
+2026-08-11,^FTM,index,FTSE 250,United Kingdom,,24767.4,24843.69,24651.19,24799.75
+2026-08-12,^FTM,index,FTSE 250,United Kingdom,,24827.9,24954.69,24781.25,24814.88
+2026-08-13,^FTM,index,FTSE 250,United Kingdom,,24841.48,24929.5,24778.05,24837.71
+2026-08-14,^FTM,index,FTSE 250,United Kingdom,,24837.59,24931.82,24812.68,24867.42
+2026-08-17,^FTM,index,FTSE 250,United Kingdom,,24862.47,24871.12,24687.47,24704.4
+2026-08-18,^FTM,index,FTSE 250,United Kingdom,,24716.62,24716.62,24547.46,24561.43
+2026-08-19,^FTM,index,FTSE 250,United Kingdom,,24572.64,24643.52,24469.5,24643.52
+2026-08-20,^FTM,index,FTSE 250,United Kingdom,,24643.42,24653.74,24466.54,24508.66
+2026-08-21,^FTM,index,FTSE 250,United Kingdom,,24522.63,24718.82,24522.63,24718.82
+2026-08-24,^FTM,index,FTSE 250,United Kingdom,,24718.58,24740.21,24652.21,24717.48
+2026-08-25,^FTM,index,FTSE 250,United Kingdom,,24717.72,24888.33,24717.72,24856.05
+2026-08-26,^FTM,index,FTSE 250,United Kingdom,,24862.82,24969.38,24860.08,24897.84
+2026-08-27,^FTM,index,FTSE 250,United Kingdom,,24904.57,24912.16,24833.2,24898.86
+2026-08-28,^FTM,index,FTSE 250,United Kingdom,,24900.16,24997.83,24900.16,24938.79
 2026-09-01,^FTM,index,FTSE 250,United Kingdom,,24942.19,24942.19,24454.33,24521.29
 2026-09-02,^FTM,index,FTSE 250,United Kingdom,,24501.18,24501.18,24267.4,24324.06
 2026-09-03,^FTM,index,FTSE 250,United Kingdom,,24364.2,24496.13,24291.92,24496.13
@@ -507,6 +824,30 @@
 2026-09-18,^FTM,index,FTSE 250,United Kingdom,,24313.14,24373.31,24188.37,24205.42
 2026-09-21,^FTM,index,FTSE 250,United Kingdom,,24224.1,24532.5,24222.07,24491.37
 2026-09-22,^FTM,index,FTSE 250,United Kingdom,,24493.77,24659.9,24443.49,24526.45
+2026-09-23,^FTM,index,FTSE 250,United Kingdom,,24531.71,24591.22,24323.35,24361.58
+2026-07-30,^HSI,index,Hang Seng Index,Hong Kong,,25807.92,25971.63,25657.87,25858.88
+2026-07-31,^HSI,index,Hang Seng Index,Hong Kong,,25858.88,25913.55,25635.16,25884.43
+2026-08-03,^HSI,index,Hang Seng Index,Hong Kong,,25884.43,26131.8,25819.46,26009.4
+2026-08-04,^HSI,index,Hang Seng Index,Hong Kong,,26009.4,26176.96,25771.33,25852.92
+2026-08-05,^HSI,index,Hang Seng Index,Hong Kong,,25852.92,25968.26,25734.46,25915.82
+2026-08-06,^HSI,index,Hang Seng Index,Hong Kong,,25915.82,25915.82,25390.93,25530.28
+2026-08-07,^HSI,index,Hang Seng Index,Hong Kong,,25530.28,25668.03,25402.28,25668.03
+2026-08-10,^HSI,index,Hang Seng Index,Hong Kong,,25668.03,25955.37,25668.03,25937.49
+2026-08-11,^HSI,index,Hang Seng Index,Hong Kong,,25937.49,26060.32,25647.66,25652.82
+2026-08-12,^HSI,index,Hang Seng Index,Hong Kong,,25652.82,25652.82,25323.42,25440.17
+2026-08-13,^HSI,index,Hang Seng Index,Hong Kong,,25440.17,25517.64,25288.07,25396.51
+2026-08-14,^HSI,index,Hang Seng Index,Hong Kong,,25396.51,25396.51,25089.77,25116.85
+2026-08-17,^HSI,index,Hang Seng Index,Hong Kong,,25116.85,25578.27,25116.85,25453.23
+2026-08-18,^HSI,index,Hang Seng Index,Hong Kong,,25453.23,25514.72,25243.69,25471.15
+2026-08-19,^HSI,index,Hang Seng Index,Hong Kong,,25471.15,25533.38,25328.49,25495.07
+2026-08-20,^HSI,index,Hang Seng Index,Hong Kong,,25495.07,25841.61,25495.07,25698.49
+2026-08-21,^HSI,index,Hang Seng Index,Hong Kong,,25698.49,26009.46,25698.49,26009.46
+2026-08-24,^HSI,index,Hang Seng Index,Hong Kong,,26009.46,26009.46,25431.91,25517.33
+2026-08-25,^HSI,index,Hang Seng Index,Hong Kong,,25517.33,25637.69,25407.48,25511.1
+2026-08-26,^HSI,index,Hang Seng Index,Hong Kong,,25511.1,25797.47,25511.1,25652.97
+2026-08-27,^HSI,index,Hang Seng Index,Hong Kong,,25652.97,25774.87,25500.96,25565.74
+2026-08-28,^HSI,index,Hang Seng Index,Hong Kong,,25565.74,25694.14,25410.46,25584.79
+2026-08-31,^HSI,index,Hang Seng Index,Hong Kong,,25584.79,25584.79,25293.2,25566.99
 2026-09-01,^HSI,index,Hang Seng Index,Hong Kong,,25566.99,25566.99,25243.08,25329.73
 2026-09-02,^HSI,index,Hang Seng Index,Hong Kong,,25329.73,25329.73,25010.55,25311.21
 2026-09-03,^HSI,index,Hang Seng Index,Hong Kong,,25311.21,25533.39,25160.38,25213.31
@@ -523,6 +864,30 @@
 2026-09-18,^HSI,index,Hang Seng Index,Hong Kong,,24604.29,24858.75,24604.29,24750.78
 2026-09-21,^HSI,index,Hang Seng Index,Hong Kong,,24750.78,25042.71,24744.3,25042.71
 2026-09-22,^HSI,index,Hang Seng Index,Hong Kong,,25042.71,25251.01,25042.71,25087.75
+2026-09-23,^HSI,index,Hang Seng Index,Hong Kong,,25087.75,25087.75,24814.01,24834.12
+2026-07-30,^IBEX,index,IBEX 35,Spain,,19346.5,19779.8,19346.5,19757.7
+2026-07-31,^IBEX,index,IBEX 35,Spain,,19761.6,19953.5,19702.5,19782.9
+2026-08-03,^IBEX,index,IBEX 35,Spain,,19917.7,19987.4,19855.4,19982.6
+2026-08-04,^IBEX,index,IBEX 35,Spain,,19991.2,20078.3,19937.5,20023.6
+2026-08-05,^IBEX,index,IBEX 35,Spain,,20056.2,20152.8,20037.2,20057.0
+2026-08-06,^IBEX,index,IBEX 35,Spain,,20139.7,20326.7,20139.7,20180.4
+2026-08-07,^IBEX,index,IBEX 35,Spain,,20216.0,20288.4,20055.0,20176.0
+2026-08-10,^IBEX,index,IBEX 35,Spain,,20161.8,20256.1,20092.2,20173.0
+2026-08-11,^IBEX,index,IBEX 35,Spain,,20186.3,20295.0,20184.7,20213.6
+2026-08-12,^IBEX,index,IBEX 35,Spain,,20260.1,20307.6,20154.7,20204.4
+2026-08-13,^IBEX,index,IBEX 35,Spain,,20264.9,20356.5,20168.6,20168.6
+2026-08-14,^IBEX,index,IBEX 35,Spain,,20211.2,20212.8,20097.6,20156.6
+2026-08-17,^IBEX,index,IBEX 35,Spain,,20124.8,20169.3,19981.9,19981.9
+2026-08-18,^IBEX,index,IBEX 35,Spain,,19988.5,20074.0,19929.0,19934.9
+2026-08-19,^IBEX,index,IBEX 35,Spain,,19939.2,19983.2,19821.2,19847.5
+2026-08-20,^IBEX,index,IBEX 35,Spain,,19834.1,19916.5,19783.8,19811.0
+2026-08-21,^IBEX,index,IBEX 35,Spain,,19868.2,20020.8,19863.0,19961.5
+2026-08-24,^IBEX,index,IBEX 35,Spain,,19978.7,20117.4,19957.3,20098.6
+2026-08-25,^IBEX,index,IBEX 35,Spain,,20189.0,20202.0,20000.3,20056.6
+2026-08-26,^IBEX,index,IBEX 35,Spain,,20109.9,20178.5,20065.9,20067.3
+2026-08-27,^IBEX,index,IBEX 35,Spain,,20073.6,20091.6,19845.6,19881.6
+2026-08-28,^IBEX,index,IBEX 35,Spain,,20024.3,20085.6,19944.7,20041.9
+2026-08-31,^IBEX,index,IBEX 35,Spain,,20070.6,20135.6,19974.1,19974.1
 2026-09-01,^IBEX,index,IBEX 35,Spain,,19984.8,19999.0,19734.7,19824.0
 2026-09-02,^IBEX,index,IBEX 35,Spain,,19790.8,19882.7,19739.3,19779.0
 2026-09-03,^IBEX,index,IBEX 35,Spain,,19817.4,20000.2,19797.9,20000.2
@@ -539,6 +904,30 @@
 2026-09-18,^IBEX,index,IBEX 35,Spain,,19809.1,19809.1,19485.0,19513.8
 2026-09-21,^IBEX,index,IBEX 35,Spain,,19599.8,19771.9,19599.8,19724.4
 2026-09-22,^IBEX,index,IBEX 35,Spain,,19785.9,19942.8,19666.0,19754.1
+2026-09-23,^IBEX,index,IBEX 35,Spain,,19867.7,19890.9,19622.2,19632.2
+2026-07-29,^KOSPI,index,KOSPI,South Korea,,6089.11,6228.52,5262.77,5663.24
+2026-07-30,^KOSPI,index,KOSPI,South Korea,,5681.77,5976.82,5547.41,5593.56
+2026-07-31,^KOSPI,index,KOSPI,South Korea,,5657.79,6630.77,5629.76,6595.45
+2026-08-03,^KOSPI,index,KOSPI,South Korea,,6358.27,6393.0,6223.29,6257.45
+2026-08-04,^KOSPI,index,KOSPI,South Korea,,6351.38,6389.4,6080.25,6358.95
+2026-08-05,^KOSPI,index,KOSPI,South Korea,,6603.48,6674.66,6540.27,6598.26
+2026-08-06,^KOSPI,index,KOSPI,South Korea,,6478.75,6550.94,6238.32,6296.38
+2026-08-07,^KOSPI,index,KOSPI,South Korea,,6365.07,6415.6,6158.73,6258.77
+2026-08-10,^KOSPI,index,KOSPI,South Korea,,6306.33,6394.06,6232.45,6299.66
+2026-08-11,^KOSPI,index,KOSPI,South Korea,,6240.06,6405.81,6213.78,6345.53
+2026-08-12,^KOSPI,index,KOSPI,South Korea,,6438.5,6668.43,6413.5,6579.04
+2026-08-13,^KOSPI,index,KOSPI,South Korea,,6773.92,6895.63,6748.13,6813.34
+2026-08-14,^KOSPI,index,KOSPI,South Korea,,6995.67,7010.86,6848.43,6977.94
+2026-08-18,^KOSPI,index,KOSPI,South Korea,,7127.77,7216.62,6788.78,6869.83
+2026-08-19,^KOSPI,index,KOSPI,South Korea,,6528.77,6614.39,6400.81,6471.17
+2026-08-20,^KOSPI,index,KOSPI,South Korea,,6680.34,6904.55,6600.09,6852.58
+2026-08-21,^KOSPI,index,KOSPI,South Korea,,6759.95,6954.12,6742.44,6912.95
+2026-08-24,^KOSPI,index,KOSPI,South Korea,,6881.07,6884.57,6656.07,6696.96
+2026-08-25,^KOSPI,index,KOSPI,South Korea,,6535.93,6747.16,6408.82,6742.74
+2026-08-26,^KOSPI,index,KOSPI,South Korea,,6727.25,6887.18,6704.1,6808.21
+2026-08-27,^KOSPI,index,KOSPI,South Korea,,6996.12,6996.12,6841.88,6912.37
+2026-08-28,^KOSPI,index,KOSPI,South Korea,,6846.54,6901.78,6780.13,6788.88
+2026-08-31,^KOSPI,index,KOSPI,South Korea,,6613.58,6820.1,6547.76,6820.02
 2026-09-01,^KOSPI,index,KOSPI,South Korea,,6784.29,6857.35,6732.47,6835.8
 2026-09-02,^KOSPI,index,KOSPI,South Korea,,6625.47,6694.57,6558.3,6562.72
 2026-09-03,^KOSPI,index,KOSPI,South Korea,,6650.33,6682.97,6439.49,6579.48
@@ -555,6 +944,7 @@
 2026-09-18,^KOSPI,index,KOSPI,South Korea,,6885.7,6914.08,6830.95,6894.23
 2026-09-21,^KOSPI,index,KOSPI,South Korea,,6938.34,7027.58,6938.34,7007.72
 2026-09-22,^KOSPI,index,KOSPI,South Korea,,7161.61,7171.44,6986.27,7017.91
+2026-09-23,^KOSPI,index,KOSPI,South Korea,,7153.99,7153.99,7014.98,7080.92
 2026-01-02,^NDX,index,NASDAQ-100,United States,,25524.27,25597.65,25086.36,25206.17
 2026-01-05,^NDX,index,NASDAQ-100,United States,,25471.79,25520.52,25354.66,25401.32
 2026-01-06,^NDX,index,NASDAQ-100,United States,,25462.06,25655.12,25428.08,25639.71
@@ -736,6 +1126,33 @@
 2026-09-18,^NDX,index,NASDAQ-100,United States,,29529.64,29647.8,29371.89,29644.17
 2026-09-21,^NDX,index,NASDAQ-100,United States,,29947.16,30557.33,29933.22,30482.35
 2026-09-22,^NDX,index,NASDAQ-100,United States,,30496.43,30770.63,30496.43,30732.4
+2026-09-23,^NDX,index,NASDAQ-100,United States,,30706.23,30706.23,30353.88,30470.29
+2026-07-24,^NKX,index,Nikkei 225,Japan,,65584.25,65720.81,64201.03,64611.15
+2026-07-27,^NKX,index,Nikkei 225,Japan,,65164.98,65220.69,64123.4,64931.19
+2026-07-28,^NKX,index,Nikkei 225,Japan,,64539.92,64573.18,61923.6,62364.92
+2026-07-29,^NKX,index,Nikkei 225,Japan,,62734.68,63138.04,60448.9,61434.19
+2026-07-30,^NKX,index,Nikkei 225,Japan,,61258.34,62924.84,61049.7,61867.43
+2026-07-31,^NKX,index,Nikkei 225,Japan,,61957.1,65364.73,61948.23,64362.02
+2026-08-03,^NKX,index,Nikkei 225,Japan,,63834.95,63905.12,62703.47,63754.9
+2026-08-04,^NKX,index,Nikkei 225,Japan,,63995.28,64240.5,62864.43,63957.53
+2026-08-05,^NKX,index,Nikkei 225,Japan,,64565.27,66302.52,64555.52,66300.44
+2026-08-06,^NKX,index,Nikkei 225,Japan,,65896.0,65983.13,64942.07,65683.26
+2026-08-07,^NKX,index,Nikkei 225,Japan,,65746.13,65990.72,64651.49,65606.71
+2026-08-10,^NKX,index,Nikkei 225,Japan,,65905.1,67006.84,65848.58,66970.22
+2026-08-12,^NKX,index,Nikkei 225,Japan,,66994.05,67569.36,66735.76,67524.06
+2026-08-13,^NKX,index,Nikkei 225,Japan,,68033.17,68799.71,68006.17,68308.59
+2026-08-14,^NKX,index,Nikkei 225,Japan,,68811.17,69608.24,68471.15,68713.8
+2026-08-17,^NKX,index,Nikkei 225,Japan,,68882.06,69225.57,68492.04,69220.25
+2026-08-18,^NKX,index,Nikkei 225,Japan,,68847.35,69093.2,67368.96,67460.73
+2026-08-19,^NKX,index,Nikkei 225,Japan,,66812.27,66833.51,65133.98,65326.42
+2026-08-20,^NKX,index,Nikkei 225,Japan,,65732.79,66325.32,65652.25,66216.79
+2026-08-21,^NKX,index,Nikkei 225,Japan,,65427.69,66125.88,65260.22,66016.36
+2026-08-24,^NKX,index,Nikkei 225,Japan,,65978.95,66257.73,65470.95,65528.09
+2026-08-25,^NKX,index,Nikkei 225,Japan,,65195.26,65904.24,64609.47,65856.43
+2026-08-26,^NKX,index,Nikkei 225,Japan,,65604.49,66442.34,65390.55,66262.16
+2026-08-27,^NKX,index,Nikkei 225,Japan,,66775.78,66954.69,65782.59,66131.98
+2026-08-28,^NKX,index,Nikkei 225,Japan,,66104.49,66842.82,66012.2,66405.56
+2026-08-31,^NKX,index,Nikkei 225,Japan,,65668.51,66311.93,64832.1,66311.93
 2026-09-01,^NKX,index,Nikkei 225,Japan,,65885.47,66525.7,65576.61,66215.34
 2026-09-02,^NKX,index,Nikkei 225,Japan,,65195.43,65195.43,64215.47,64325.64
 2026-09-03,^NKX,index,Nikkei 225,Japan,,64724.81,64724.81,63772.8,64214.48
@@ -750,6 +1167,29 @@
 2026-09-16,^NKX,index,Nikkei 225,Japan,,63672.13,63923.0,63209.92,63923.0
 2026-09-17,^NKX,index,Nikkei 225,Japan,,64643.58,64643.58,63824.56,64136.25
 2026-09-18,^NKX,index,Nikkei 225,Japan,,64681.55,65436.57,64403.85,65018.95
+2026-07-30,^SHC,index,Shanghai Composite Index,China,,3812.111,3839.3407,3767.5033,3804.6926
+2026-07-31,^SHC,index,Shanghai Composite Index,China,,3833.5359,3847.0926,3822.3736,3832.2624
+2026-08-03,^SHC,index,Shanghai Composite Index,China,,3812.6129,3827.6359,3797.6431,3809.6629
+2026-08-04,^SHC,index,Shanghai Composite Index,China,,3816.3699,3831.94,3799.5244,3822.2846
+2026-08-05,^SHC,index,Shanghai Composite Index,China,,3815.1217,3884.3971,3815.1217,3878.4296
+2026-08-06,^SHC,index,Shanghai Composite Index,China,,3864.2734,3902.0543,3864.2734,3900.3523
+2026-08-07,^SHC,index,Shanghai Composite Index,China,,3896.4854,3940.9347,3885.6248,3940.0371
+2026-08-10,^SHC,index,Shanghai Composite Index,China,,3943.816,3967.5919,3938.625,3966.5935
+2026-08-11,^SHC,index,Shanghai Composite Index,China,,3950.7078,3966.391,3930.6386,3934.0929
+2026-08-12,^SHC,index,Shanghai Composite Index,China,,3933.5533,3950.6213,3927.5489,3946.6752
+2026-08-13,^SHC,index,Shanghai Composite Index,China,,3957.1612,3968.4758,3924.6418,3926.9648
+2026-08-14,^SHC,index,Shanghai Composite Index,China,,3930.0215,3932.6405,3903.7048,3927.1764
+2026-08-17,^SHC,index,Shanghai Composite Index,China,,3930.1044,3983.5066,3924.4738,3982.6535
+2026-08-18,^SHC,index,Shanghai Composite Index,China,,3979.4898,3994.1812,3955.6012,3990.3037
+2026-08-19,^SHC,index,Shanghai Composite Index,China,,3952.1219,3961.1368,3879.5785,3894.4224
+2026-08-20,^SHC,index,Shanghai Composite Index,China,,3907.2058,3925.0615,3888.0989,3903.721
+2026-08-21,^SHC,index,Shanghai Composite Index,China,,3891.1751,3912.1314,3883.787,3905.2026
+2026-08-24,^SHC,index,Shanghai Composite Index,China,,3902.6963,3910.2394,3855.3524,3882.0079
+2026-08-25,^SHC,index,Shanghai Composite Index,China,,3863.3695,3896.206,3850.8628,3889.4449
+2026-08-26,^SHC,index,Shanghai Composite Index,China,,3881.7408,3926.435,3881.7408,3912.5235
+2026-08-27,^SHC,index,Shanghai Composite Index,China,,3911.8908,3958.0328,3909.3122,3956.571
+2026-08-28,^SHC,index,Shanghai Composite Index,China,,3950.2368,3970.3095,3947.7981,3952.179
+2026-08-31,^SHC,index,Shanghai Composite Index,China,,3926.5312,3986.298,3926.5039,3986.298
 2026-09-01,^SHC,index,Shanghai Composite Index,China,,3979.8814,3995.1751,3976.4685,3979.8877
 2026-09-02,^SHC,index,Shanghai Composite Index,China,,3963.0661,3965.8078,3932.2515,3941.3862
 2026-09-03,^SHC,index,Shanghai Composite Index,China,,3952.7948,3968.112,3930.4472,3942.0879
@@ -766,6 +1206,31 @@
 2026-09-18,^SHC,index,Shanghai Composite Index,China,,3891.9608,3919.6691,3888.4959,3911.8714
 2026-09-21,^SHC,index,Shanghai Composite Index,China,,3920.2731,3950.9394,3918.1282,3949.9068
 2026-09-22,^SHC,index,Shanghai Composite Index,China,,3963.8073,3967.6812,3945.4165,3952.128
+2026-09-23,^SHC,index,Shanghai Composite Index,China,,3951.3663,3951.5229,3934.4585,3936.5199
+2026-07-29,^SNX,index,BSE SENSEX 30,India,,77423.77,77765.43,77362.19,77654.6
+2026-07-30,^SNX,index,BSE SENSEX 30,India,,77638.86,77959.97,77458.76,77928.15
+2026-07-31,^SNX,index,BSE SENSEX 30,India,,77998.66,78268.91,77811.28,78094.64
+2026-08-03,^SNX,index,BSE SENSEX 30,India,,78883.34,78883.34,78505.65,78639.03
+2026-08-04,^SNX,index,BSE SENSEX 30,India,,79132.97,79132.97,78214.06,78428.95
+2026-08-05,^SNX,index,BSE SENSEX 30,India,,79055.38,79055.38,78286.55,78581.0
+2026-08-06,^SNX,index,BSE SENSEX 30,India,,78782.43,79127.67,78597.33,78954.76
+2026-08-07,^SNX,index,BSE SENSEX 30,India,,78516.08,78751.36,78388.15,78499.17
+2026-08-10,^SNX,index,BSE SENSEX 30,India,,78501.59,78671.75,78305.94,78542.44
+2026-08-11,^SNX,index,BSE SENSEX 30,India,,78509.77,78509.77,78048.26,78154.25
+2026-08-12,^SNX,index,BSE SENSEX 30,India,,78263.33,78263.33,77498.33,77966.35
+2026-08-13,^SNX,index,BSE SENSEX 30,India,,78111.91,78111.91,77667.97,78079.96
+2026-08-14,^SNX,index,BSE SENSEX 30,India,,77903.43,78047.95,77685.32,78009.25
+2026-08-17,^SNX,index,BSE SENSEX 30,India,,77892.92,77916.87,77453.91,77728.16
+2026-08-18,^SNX,index,BSE SENSEX 30,India,,77418.97,77573.02,77235.46,77235.46
+2026-08-19,^SNX,index,BSE SENSEX 30,India,,77218.05,77262.15,76823.72,76909.68
+2026-08-20,^SNX,index,BSE SENSEX 30,India,,77468.45,77610.49,77372.78,77537.72
+2026-08-21,^SNX,index,BSE SENSEX 30,India,,77701.07,77701.07,77386.3,77540.83
+2026-08-24,^SNX,index,BSE SENSEX 30,India,,77629.56,77785.55,77201.66,77369.11
+2026-08-25,^SNX,index,BSE SENSEX 30,India,,77295.49,77656.09,77126.41,77656.09
+2026-08-26,^SNX,index,BSE SENSEX 30,India,,77892.1,77986.84,77422.25,77472.94
+2026-08-27,^SNX,index,BSE SENSEX 30,India,,77576.76,77689.84,76933.59,76933.59
+2026-08-28,^SNX,index,BSE SENSEX 30,India,,77128.05,77357.44,76990.62,77264.51
+2026-08-31,^SNX,index,BSE SENSEX 30,India,,77130.73,77145.63,76751.32,76957.27
 2026-09-01,^SNX,index,BSE SENSEX 30,India,,76994.11,77231.87,76657.34,76944.28
 2026-09-02,^SNX,index,BSE SENSEX 30,India,,76471.32,76570.4,76139.91,76570.35
 2026-09-03,^SNX,index,BSE SENSEX 30,India,,76724.95,76916.87,74268.47,76152.86
@@ -780,7 +1245,31 @@
 2026-09-17,^SNX,index,BSE SENSEX 30,India,,74182.62,74676.31,74182.62,74314.59
 2026-09-18,^SNX,index,BSE SENSEX 30,India,,74575.24,74726.01,73416.0,74294.96
 2026-09-21,^SNX,index,BSE SENSEX 30,India,,74535.18,74985.11,74490.63,74858.99
-2026-09-22,^SNX,index,BSE SENSEX 30,India,,74901.5,75031.32,74423.71,74637.17
+2026-09-22,^SNX,index,BSE SENSEX 30,India,,74901.5,75031.32,74423.71,74529.08
+2026-09-23,^SNX,index,BSE SENSEX 30,India,,74648.32,74973.66,74604.92,74853.59
+2026-07-30,^TWSE,index,TAIEX,Taiwan,,40048.94,41155.42,39404.65,39933.3
+2026-07-31,^TWSE,index,TAIEX,Taiwan,,41610.41,43214.36,41610.41,43119.75
+2026-08-03,^TWSE,index,TAIEX,Taiwan,,42780.42,43784.19,42780.42,43386.41
+2026-08-04,^TWSE,index,TAIEX,Taiwan,,43092.49,43912.77,42895.81,43360.66
+2026-08-05,^TWSE,index,TAIEX,Taiwan,,43809.83,44980.31,43809.83,44611.6
+2026-08-06,^TWSE,index,TAIEX,Taiwan,,44487.94,44601.24,44024.32,44396.7
+2026-08-07,^TWSE,index,TAIEX,Taiwan,,44450.19,44827.13,43941.56,44225.91
+2026-08-10,^TWSE,index,TAIEX,Taiwan,,44540.71,45219.4,44540.71,44928.76
+2026-08-11,^TWSE,index,TAIEX,Taiwan,,44883.9,45195.41,44652.06,45120.72
+2026-08-12,^TWSE,index,TAIEX,Taiwan,,45175.7,45529.48,45175.7,45518.07
+2026-08-13,^TWSE,index,TAIEX,Taiwan,,45676.54,46216.41,45676.54,46021.48
+2026-08-14,^TWSE,index,TAIEX,Taiwan,,46103.81,46402.6,45798.31,45811.01
+2026-08-17,^TWSE,index,TAIEX,Taiwan,,45841.17,46189.3,45765.07,45857.27
+2026-08-18,^TWSE,index,TAIEX,Taiwan,,45922.4,46064.09,45225.42,45308.68
+2026-08-19,^TWSE,index,TAIEX,Taiwan,,45071.34,45071.34,44308.71,44719.35
+2026-08-20,^TWSE,index,TAIEX,Taiwan,,44942.01,45160.05,44446.36,44933.74
+2026-08-21,^TWSE,index,TAIEX,Taiwan,,44923.34,45254.84,44583.87,45224.29
+2026-08-24,^TWSE,index,TAIEX,Taiwan,,45240.3,45362.3,44761.88,44762.32
+2026-08-25,^TWSE,index,TAIEX,Taiwan,,44728.36,45169.46,44210.31,45169.46
+2026-08-26,^TWSE,index,TAIEX,Taiwan,,45157.64,45878.39,44925.84,45832.62
+2026-08-27,^TWSE,index,TAIEX,Taiwan,,45890.18,46401.78,45890.18,45975.22
+2026-08-28,^TWSE,index,TAIEX,Taiwan,,46070.83,46574.52,46070.83,46331.45
+2026-08-31,^TWSE,index,TAIEX,Taiwan,,46224.69,46224.69,45450.21,46128.47
 2026-09-01,^TWSE,index,TAIEX,Taiwan,,46177.11,46948.72,46081.11,46948.72
 2026-09-02,^TWSE,index,TAIEX,Taiwan,,46901.32,46946.6,46164.72,46164.72
 2026-09-03,^TWSE,index,TAIEX,Taiwan,,46325.48,46517.45,45839.36,45857.66
@@ -797,6 +1286,7 @@
 2026-09-18,^TWSE,index,TAIEX,Taiwan,,46449.56,47180.75,46449.56,47180.75
 2026-09-21,^TWSE,index,TAIEX,Taiwan,,47207.3,47750.98,47207.3,47718.84
 2026-09-22,^TWSE,index,TAIEX,Taiwan,,47981.04,48601.53,47800.17,47800.17
+2026-09-23,^TWSE,index,TAIEX,Taiwan,,47894.77,48341.56,47894.77,48157.29
 2026-01-01,^USBC,index,Dow Jones Industrial Average,United States,,48135.5,48168.0,48100.0,48146.5
 2026-01-02,^USBC,index,Dow Jones Industrial Average,United States,,48147.0,48406.0,47832.0,48370.5
 2026-01-05,^USBC,index,Dow Jones Industrial Average,United States,,48374.0,49214.5,48320.5,48961.5
@@ -985,6 +1475,7 @@
 2026-09-18,^USBC,index,Dow Jones Industrial Average,United States,,51764.0,51960.0,51451.0,51700.0
 2026-09-21,^USBC,index,Dow Jones Industrial Average,United States,,51700.0,52153.0,51675.5,52048.0
 2026-09-22,^USBC,index,Dow Jones Industrial Average,United States,,52049.5,52433.0,51712.0,51837.0
+2026-09-23,^USBC,index,Dow Jones Industrial Average,United States,,51888.5,51970.0,51445.0,51466.5
 2026-01-01,^USLC,index,S&P 500,United States,,6855.5,6859.46,6851.57,6857.46
 2026-01-02,^USLC,index,S&P 500,United States,,6857.16,6895.06,6824.05,6860.66
 2026-01-05,^USLC,index,S&P 500,United States,,6865.66,6921.65,6860.87,6900.16
@@ -1173,3 +1664,4 @@
 2026-09-18,^USLC,index,S&P 500,United States,,7633.77,7669.63,7605.6,7655.68
 2026-09-21,^USLC,index,S&P 500,United States,,7651.7,7780.13,7646.86,7761.91
 2026-09-22,^USLC,index,S&P 500,United States,,7762.84,7781.16,7743.59,7760.06
+2026-09-23,^USLC,index,S&P 500,United States,,7766.26,7776.12,7692.19,7705.4
