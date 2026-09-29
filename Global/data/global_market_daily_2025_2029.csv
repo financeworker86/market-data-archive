@@ -359,6 +359,256 @@
 2026-09-21,SI.F,commodity_future,Silver Futures,United States,USD/ozt,66.685,67.555,66.2,66.415
 2026-09-22,SI.F,commodity_future,Silver Futures,United States,USD/ozt,66.515,68.105,65.04,66.53
 2026-09-23,SI.F,commodity_future,Silver Futures,United States,USD/ozt,67.72,68.058,64.718,64.9
+2025-01-02,SOXX.US,etf,iShares Semiconductor ETF,United States,,217.68,220.22,214.96,216.82
+2025-01-03,SOXX.US,etf,iShares Semiconductor ETF,United States,,218.25,223.04,217.96,222.47
+2025-01-06,SOXX.US,etf,iShares Semiconductor ETF,United States,,227.26,231.8,227.26,228.91
+2025-01-07,SOXX.US,etf,iShares Semiconductor ETF,United States,,231.7,231.89,224.56,225.79
+2025-01-08,SOXX.US,etf,iShares Semiconductor ETF,United States,,225.05,225.46,221.11,223.54
+2025-01-10,SOXX.US,etf,iShares Semiconductor ETF,United States,,220.74,220.88,216.78,218.2
+2025-01-13,SOXX.US,etf,iShares Semiconductor ETF,United States,,213.85,217.84,213.66,217.53
+2025-01-14,SOXX.US,etf,iShares Semiconductor ETF,United States,,219.35,220.75,216.121,218.96
+2025-01-15,SOXX.US,etf,iShares Semiconductor ETF,United States,,222.48,224.65,221.67,223.21
+2025-01-16,SOXX.US,etf,iShares Semiconductor ETF,United States,,227.25,227.79,223.53,223.54
+2025-01-17,SOXX.US,etf,iShares Semiconductor ETF,United States,,228.58,230.32,227.3591,229.74
+2025-01-21,SOXX.US,etf,iShares Semiconductor ETF,United States,,231.81,234.58,229.8,232.45
+2025-01-22,SOXX.US,etf,iShares Semiconductor ETF,United States,,234.83,238.34,234.32,235.81
+2025-01-23,SOXX.US,etf,iShares Semiconductor ETF,United States,,232.03,235.38,231.18,235.37
+2025-01-24,SOXX.US,etf,iShares Semiconductor ETF,United States,,235.475,235.475,229.71,230.64
+2025-01-27,SOXX.US,etf,iShares Semiconductor ETF,United States,,219.0,219.61,209.74,212.55
+2025-01-28,SOXX.US,etf,iShares Semiconductor ETF,United States,,213.62,214.77,208.98,213.5
+2025-01-29,SOXX.US,etf,iShares Semiconductor ETF,United States,,215.56,216.18,212.15,214.38
+2025-01-30,SOXX.US,etf,iShares Semiconductor ETF,United States,,217.01,219.99,215.76,218.74
+2025-01-31,SOXX.US,etf,iShares Semiconductor ETF,United States,,219.99,224.29,217.47,218.13
+2025-02-03,SOXX.US,etf,iShares Semiconductor ETF,United States,,212.39,216.85,210.96,214.2
+2025-02-04,SOXX.US,etf,iShares Semiconductor ETF,United States,,213.72,217.27,213.425,216.4
+2025-02-05,SOXX.US,etf,iShares Semiconductor ETF,United States,,215.83,221.04,214.48,220.59
+2025-02-06,SOXX.US,etf,iShares Semiconductor ETF,United States,,219.05,220.7,217.88,220.3
+2025-02-07,SOXX.US,etf,iShares Semiconductor ETF,United States,,220.81,222.08,215.39,216.87
+2025-02-10,SOXX.US,etf,iShares Semiconductor ETF,United States,,218.45,220.25,218.42,219.7
+2025-02-11,SOXX.US,etf,iShares Semiconductor ETF,United States,,217.89,221.17,217.89,219.9
+2025-02-12,SOXX.US,etf,iShares Semiconductor ETF,United States,,216.44,220.22,215.95,220.14
+2025-02-13,SOXX.US,etf,iShares Semiconductor ETF,United States,,219.95,222.99,219.885,222.84
+2025-02-14,SOXX.US,etf,iShares Semiconductor ETF,United States,,222.82,223.77,221.92,223.07
+2025-02-18,SOXX.US,etf,iShares Semiconductor ETF,United States,,224.7,227.47,223.47,226.76
+2025-02-19,SOXX.US,etf,iShares Semiconductor ETF,United States,,227.15,231.62,226.26,230.53
+2025-02-20,SOXX.US,etf,iShares Semiconductor ETF,United States,,231.995,233.44,228.75,231.07
+2025-02-21,SOXX.US,etf,iShares Semiconductor ETF,United States,,231.76,231.85,223.13,223.98
+2025-02-24,SOXX.US,etf,iShares Semiconductor ETF,United States,,224.97,225.34,218.54,218.67
+2025-02-25,SOXX.US,etf,iShares Semiconductor ETF,United States,,218.45,219.2225,213.58,214.21
+2025-02-26,SOXX.US,etf,iShares Semiconductor ETF,United States,,216.95,219.8,215.58,217.94
+2025-02-27,SOXX.US,etf,iShares Semiconductor ETF,United States,,219.18,219.5,204.92,205.25
+2025-02-28,SOXX.US,etf,iShares Semiconductor ETF,United States,,205.37,210.05,203.12,208.52
+2025-03-03,SOXX.US,etf,iShares Semiconductor ETF,United States,,211.51,211.65,199.32,201.15
+2025-03-04,SOXX.US,etf,iShares Semiconductor ETF,United States,,200.8,207.62,196.7,202.27
+2025-03-05,SOXX.US,etf,iShares Semiconductor ETF,United States,,204.54,207.29,200.57,206.63
+2025-03-06,SOXX.US,etf,iShares Semiconductor ETF,United States,,199.58,203.72,197.33,198.04
+2025-03-07,SOXX.US,etf,iShares Semiconductor ETF,United States,,198.8,204.54,196.48,203.85
+2025-03-10,SOXX.US,etf,iShares Semiconductor ETF,United States,,198.82,200.28,191.5608,194.42
+2025-03-11,SOXX.US,etf,iShares Semiconductor ETF,United States,,194.52,196.31,189.11,192.12
+2025-03-12,SOXX.US,etf,iShares Semiconductor ETF,United States,,196.7,198.69,194.32,196.08
+2025-03-13,SOXX.US,etf,iShares Semiconductor ETF,United States,,196.07,199.24,193.18,195.1
+2025-03-14,SOXX.US,etf,iShares Semiconductor ETF,United States,,198.5,201.705,198.32,201.12
+2025-03-17,SOXX.US,etf,iShares Semiconductor ETF,United States,,200.31,206.26,200.21,204.44
+2025-03-18,SOXX.US,etf,iShares Semiconductor ETF,United States,,202.11,203.05,200.18,201.47
+2025-03-19,SOXX.US,etf,iShares Semiconductor ETF,United States,,201.495,206.43,200.0,203.11
+2025-03-20,SOXX.US,etf,iShares Semiconductor ETF,United States,,200.52,203.72,200.36,201.49
+2025-03-21,SOXX.US,etf,iShares Semiconductor ETF,United States,,197.94,200.14,196.37,199.38
+2025-03-24,SOXX.US,etf,iShares Semiconductor ETF,United States,,203.57,206.66,203.33,205.3
+2025-03-25,SOXX.US,etf,iShares Semiconductor ETF,United States,,205.05,205.71,203.56,204.19
+2025-03-26,SOXX.US,etf,iShares Semiconductor ETF,United States,,203.22,204.06,196.44,198.47
+2025-03-27,SOXX.US,etf,iShares Semiconductor ETF,United States,,195.87,197.04,193.38,194.56
+2025-03-28,SOXX.US,etf,iShares Semiconductor ETF,United States,,193.29,194.24,187.44,188.68
+2025-03-31,SOXX.US,etf,iShares Semiconductor ETF,United States,,184.7,188.3,182.12,188.17
+2025-04-01,SOXX.US,etf,iShares Semiconductor ETF,United States,,187.45,188.34,183.8,188.27
+2025-04-02,SOXX.US,etf,iShares Semiconductor ETF,United States,,185.39,192.02,184.73,189.48
+2025-04-03,SOXX.US,etf,iShares Semiconductor ETF,United States,,179.75,181.14,169.99,170.36
+2025-04-04,SOXX.US,etf,iShares Semiconductor ETF,United States,,163.92,165.765,154.61,157.63
+2025-04-07,SOXX.US,etf,iShares Semiconductor ETF,United States,,152.03,170.42,148.31,161.27
+2025-04-08,SOXX.US,etf,iShares Semiconductor ETF,United States,,167.64,169.85,151.11,154.86
+2025-04-09,SOXX.US,etf,iShares Semiconductor ETF,United States,,156.1,185.56,154.94,183.62
+2025-04-10,SOXX.US,etf,iShares Semiconductor ETF,United States,,174.56,175.65,162.39,168.61
+2025-04-11,SOXX.US,etf,iShares Semiconductor ETF,United States,,166.975,173.11,164.42,172.26
+2025-04-14,SOXX.US,etf,iShares Semiconductor ETF,United States,,177.55,177.55,170.79,173.4
+2025-04-15,SOXX.US,etf,iShares Semiconductor ETF,United States,,174.32,176.625,173.25,174.11
+2025-04-16,SOXX.US,etf,iShares Semiconductor ETF,United States,,166.33,169.58,161.83,167.39
+2025-04-17,SOXX.US,etf,iShares Semiconductor ETF,United States,,168.57,168.75,164.81,166.55
+2025-04-21,SOXX.US,etf,iShares Semiconductor ETF,United States,,163.14,163.9,160.26,163.64
+2025-04-22,SOXX.US,etf,iShares Semiconductor ETF,United States,,165.23,168.02,164.62,166.82
+2025-04-23,SOXX.US,etf,iShares Semiconductor ETF,United States,,175.25,177.14,172.35,173.07
+2025-04-24,SOXX.US,etf,iShares Semiconductor ETF,United States,,177.8,183.56,176.54,183.03
+2025-04-25,SOXX.US,etf,iShares Semiconductor ETF,United States,,181.2,186.12,180.66,184.81
+2025-04-28,SOXX.US,etf,iShares Semiconductor ETF,United States,,183.89,185.76,180.44,184.48
+2025-04-29,SOXX.US,etf,iShares Semiconductor ETF,United States,,182.24,184.54,181.2516,182.51
+2025-04-30,SOXX.US,etf,iShares Semiconductor ETF,United States,,178.0,184.38,176.7686,183.84
+2025-05-01,SOXX.US,etf,iShares Semiconductor ETF,United States,,186.0,187.35,183.47,183.59
+2025-05-02,SOXX.US,etf,iShares Semiconductor ETF,United States,,187.95,191.87,187.83,190.03
+2025-05-05,SOXX.US,etf,iShares Semiconductor ETF,United States,,188.19,190.46,187.925,188.57
+2025-05-06,SOXX.US,etf,iShares Semiconductor ETF,United States,,185.26,188.25,184.268,186.77
+2025-05-07,SOXX.US,etf,iShares Semiconductor ETF,United States,,186.58,190.58,184.81,190.04
+2025-05-08,SOXX.US,etf,iShares Semiconductor ETF,United States,,192.51,195.035,190.47,191.74
+2025-05-09,SOXX.US,etf,iShares Semiconductor ETF,United States,,194.475,195.63,192.28,193.94
+2025-05-12,SOXX.US,etf,iShares Semiconductor ETF,United States,,206.8,209.39,204.99,207.87
+2025-05-13,SOXX.US,etf,iShares Semiconductor ETF,United States,,208.7,214.82,208.41,213.76
+2025-05-14,SOXX.US,etf,iShares Semiconductor ETF,United States,,215.21,216.7,213.21,214.79
+2025-05-15,SOXX.US,etf,iShares Semiconductor ETF,United States,,212.69,215.0,210.91,213.41
+2025-05-16,SOXX.US,etf,iShares Semiconductor ETF,United States,,213.56,213.56,210.68,213.13
+2025-05-19,SOXX.US,etf,iShares Semiconductor ETF,United States,,208.22,212.39,208.17,211.85
+2025-05-20,SOXX.US,etf,iShares Semiconductor ETF,United States,,210.04,211.62,209.41,211.54
+2025-05-21,SOXX.US,etf,iShares Semiconductor ETF,United States,,209.75,213.9,206.35,207.67
+2025-05-22,SOXX.US,etf,iShares Semiconductor ETF,United States,,207.525,209.47,205.58,205.75
+2025-05-23,SOXX.US,etf,iShares Semiconductor ETF,United States,,200.47,203.66,199.93,202.56
+2025-05-27,SOXX.US,etf,iShares Semiconductor ETF,United States,,206.96,210.23,205.27,209.29
+2025-05-28,SOXX.US,etf,iShares Semiconductor ETF,United States,,209.84,210.46,207.75,208.24
+2025-05-29,SOXX.US,etf,iShares Semiconductor ETF,United States,,213.025,213.17,207.75,209.09
+2025-05-30,SOXX.US,etf,iShares Semiconductor ETF,United States,,207.815,207.87,201.115,204.94
+2025-06-02,SOXX.US,etf,iShares Semiconductor ETF,United States,,204.42,208.83,204.29,208.03
+2025-06-03,SOXX.US,etf,iShares Semiconductor ETF,United States,,208.145,214.14,206.71,213.62
+2025-06-04,SOXX.US,etf,iShares Semiconductor ETF,United States,,215.39,217.62,213.54,216.8
+2025-06-05,SOXX.US,etf,iShares Semiconductor ETF,United States,,218.47,220.28,214.41,215.89
+2025-06-06,SOXX.US,etf,iShares Semiconductor ETF,United States,,218.0,220.23,217.21,217.34
+2025-06-09,SOXX.US,etf,iShares Semiconductor ETF,United States,,219.325,224.41,219.13,222.46
+2025-06-10,SOXX.US,etf,iShares Semiconductor ETF,United States,,223.54,228.08,222.99,227.32
+2025-06-11,SOXX.US,etf,iShares Semiconductor ETF,United States,,228.9,229.8,224.27,226.56
+2025-06-12,SOXX.US,etf,iShares Semiconductor ETF,United States,,224.94,228.0,224.6,226.87
+2025-06-13,SOXX.US,etf,iShares Semiconductor ETF,United States,,221.99,224.58,220.3,220.96
+2025-06-16,SOXX.US,etf,iShares Semiconductor ETF,United States,,223.585,228.58,223.24,227.44
+2025-06-17,SOXX.US,etf,iShares Semiconductor ETF,United States,,226.45,229.64,225.48,225.64
+2025-06-18,SOXX.US,etf,iShares Semiconductor ETF,United States,,226.85,229.19,225.1,226.56
+2025-06-20,SOXX.US,etf,iShares Semiconductor ETF,United States,,228.79,229.08,222.16,225.11
+2025-06-23,SOXX.US,etf,iShares Semiconductor ETF,United States,,225.015,227.89,221.86,226.51
+2025-06-24,SOXX.US,etf,iShares Semiconductor ETF,United States,,230.57,235.36,230.46,235.1
+2025-06-25,SOXX.US,etf,iShares Semiconductor ETF,United States,,236.66,237.24,234.8,237.21
+2025-06-26,SOXX.US,etf,iShares Semiconductor ETF,United States,,239.035,239.65,237.18,239.07
+2025-06-27,SOXX.US,etf,iShares Semiconductor ETF,United States,,239.31,241.2338,236.37,238.86
+2025-06-30,SOXX.US,etf,iShares Semiconductor ETF,United States,,240.165,240.165,237.56,238.7
+2025-07-01,SOXX.US,etf,iShares Semiconductor ETF,United States,,236.7,239.18,234.08,237.62
+2025-07-02,SOXX.US,etf,iShares Semiconductor ETF,United States,,237.09,243.12,237.0,242.14
+2025-07-03,SOXX.US,etf,iShares Semiconductor ETF,United States,,243.15,244.198,242.7,243.34
+2025-07-07,SOXX.US,etf,iShares Semiconductor ETF,United States,,241.29,242.13,237.75,238.78
+2025-07-08,SOXX.US,etf,iShares Semiconductor ETF,United States,,241.06,245.4,240.11,243.34
+2025-07-09,SOXX.US,etf,iShares Semiconductor ETF,United States,,244.01,246.53,241.88,244.12
+2025-07-10,SOXX.US,etf,iShares Semiconductor ETF,United States,,246.415,247.52,244.2701,246.55
+2025-07-11,SOXX.US,etf,iShares Semiconductor ETF,United States,,245.01,247.0695,244.055,246.17
+2025-07-14,SOXX.US,etf,iShares Semiconductor ETF,United States,,244.15,244.735,240.35,243.83
+2025-07-15,SOXX.US,etf,iShares Semiconductor ETF,United States,,248.79,249.96,246.1,246.26
+2025-07-16,SOXX.US,etf,iShares Semiconductor ETF,United States,,244.28,245.67,239.215,245.59
+2025-07-17,SOXX.US,etf,iShares Semiconductor ETF,United States,,245.535,247.13,243.905,246.53
+2025-07-18,SOXX.US,etf,iShares Semiconductor ETF,United States,,247.95,248.37,244.88,246.73
+2025-07-21,SOXX.US,etf,iShares Semiconductor ETF,United States,,247.355,250.19,246.95,246.95
+2025-07-22,SOXX.US,etf,iShares Semiconductor ETF,United States,,246.04,246.5,240.69,243.54
+2025-07-23,SOXX.US,etf,iShares Semiconductor ETF,United States,,241.715,242.4,239.06,242.06
+2025-07-24,SOXX.US,etf,iShares Semiconductor ETF,United States,,241.59,242.09,239.46,241.56
+2025-07-25,SOXX.US,etf,iShares Semiconductor ETF,United States,,240.1,241.67,239.0963,241.54
+2025-07-28,SOXX.US,etf,iShares Semiconductor ETF,United States,,244.21,246.0,243.91,245.75
+2025-07-29,SOXX.US,etf,iShares Semiconductor ETF,United States,,247.29,249.53,244.5,246.19
+2025-07-30,SOXX.US,etf,iShares Semiconductor ETF,United States,,248.36,249.5,245.87,247.95
+2025-07-31,SOXX.US,etf,iShares Semiconductor ETF,United States,,245.04,245.2946,237.66,240.03
+2025-08-01,SOXX.US,etf,iShares Semiconductor ETF,United States,,235.505,239.61,232.33,237.24
+2025-08-04,SOXX.US,etf,iShares Semiconductor ETF,United States,,238.76,240.855,237.77,240.4
+2025-08-05,SOXX.US,etf,iShares Semiconductor ETF,United States,,241.76,242.45,235.88,238.73
+2025-08-06,SOXX.US,etf,iShares Semiconductor ETF,United States,,236.56,237.46,233.67,236.93
+2025-08-07,SOXX.US,etf,iShares Semiconductor ETF,United States,,242.04,243.37,238.89,240.84
+2025-08-08,SOXX.US,etf,iShares Semiconductor ETF,United States,,241.005,243.18,240.29,242.87
+2025-08-11,SOXX.US,etf,iShares Semiconductor ETF,United States,,243.78,246.51,241.95,242.41
+2025-08-12,SOXX.US,etf,iShares Semiconductor ETF,United States,,244.24,250.38,242.71,250.16
+2025-08-13,SOXX.US,etf,iShares Semiconductor ETF,United States,,252.133,254.1,251.04,253.88
+2025-08-14,SOXX.US,etf,iShares Semiconductor ETF,United States,,250.36,255.06,250.05,254.14
+2025-08-15,SOXX.US,etf,iShares Semiconductor ETF,United States,,252.19,252.27,247.62,248.32
+2025-08-18,SOXX.US,etf,iShares Semiconductor ETF,United States,,247.54,249.34,247.48,249.05
+2025-08-19,SOXX.US,etf,iShares Semiconductor ETF,United States,,249.07,250.04,244.72,245.15
+2025-08-20,SOXX.US,etf,iShares Semiconductor ETF,United States,,244.635,244.635,237.1,243.74
+2025-08-21,SOXX.US,etf,iShares Semiconductor ETF,United States,,242.47,244.12,241.0,242.36
+2025-08-22,SOXX.US,etf,iShares Semiconductor ETF,United States,,243.12,251.99,242.44,249.09
+2025-08-25,SOXX.US,etf,iShares Semiconductor ETF,United States,,248.85,249.63,247.27,248.51
+2025-08-26,SOXX.US,etf,iShares Semiconductor ETF,United States,,249.57,251.61,249.51,250.85
+2025-08-27,SOXX.US,etf,iShares Semiconductor ETF,United States,,249.88,251.6599,248.82,251.34
+2025-08-28,SOXX.US,etf,iShares Semiconductor ETF,United States,,252.315,254.32,250.9,252.55
+2025-08-29,SOXX.US,etf,iShares Semiconductor ETF,United States,,248.94,248.94,244.17,245.32
+2025-09-02,SOXX.US,etf,iShares Semiconductor ETF,United States,,238.67,242.93,238.15,242.83
+2025-09-03,SOXX.US,etf,iShares Semiconductor ETF,United States,,243.23,243.42,239.23,241.68
+2025-09-04,SOXX.US,etf,iShares Semiconductor ETF,United States,,240.06,244.52,238.75,244.17
+2025-09-05,SOXX.US,etf,iShares Semiconductor ETF,United States,,247.85,248.5,244.13,247.05
+2025-09-08,SOXX.US,etf,iShares Semiconductor ETF,United States,,248.405,249.92,247.56,248.85
+2025-09-09,SOXX.US,etf,iShares Semiconductor ETF,United States,,249.105,249.675,247.23,249.06
+2025-09-10,SOXX.US,etf,iShares Semiconductor ETF,United States,,253.03,254.21,251.86,253.45
+2025-09-11,SOXX.US,etf,iShares Semiconductor ETF,United States,,254.81,256.51,254.62,255.19
+2025-09-12,SOXX.US,etf,iShares Semiconductor ETF,United States,,255.81,256.4,254.16,255.64
+2025-09-15,SOXX.US,etf,iShares Semiconductor ETF,United States,,255.2,257.84,254.53,257.8
+2025-09-16,SOXX.US,etf,iShares Semiconductor ETF,United States,,258.29,259.05,256.58,258.58
+2025-09-17,SOXX.US,etf,iShares Semiconductor ETF,United States,,257.94,260.74,254.83,258.53
+2025-09-18,SOXX.US,etf,iShares Semiconductor ETF,United States,,265.06,268.98,264.14,267.57
+2025-09-19,SOXX.US,etf,iShares Semiconductor ETF,United States,,267.295,267.4,263.6,265.86
+2025-09-22,SOXX.US,etf,iShares Semiconductor ETF,United States,,266.65,270.66,266.58,269.83
+2025-09-23,SOXX.US,etf,iShares Semiconductor ETF,United States,,270.79,272.13,267.91,269.51
+2025-09-24,SOXX.US,etf,iShares Semiconductor ETF,United States,,268.74,269.755,265.61,269.1
+2025-09-25,SOXX.US,etf,iShares Semiconductor ETF,United States,,264.58,268.94,261.8,268.24
+2025-09-26,SOXX.US,etf,iShares Semiconductor ETF,United States,,268.53,269.42,265.74,268.83
+2025-09-29,SOXX.US,etf,iShares Semiconductor ETF,United States,,271.72,272.8,268.865,268.93
+2025-09-30,SOXX.US,etf,iShares Semiconductor ETF,United States,,268.85,271.445,267.76,271.12
+2025-10-01,SOXX.US,etf,iShares Semiconductor ETF,United States,,269.38,276.695,268.88,276.34
+2025-10-02,SOXX.US,etf,iShares Semiconductor ETF,United States,,281.5,282.54,279.61,281.69
+2025-10-03,SOXX.US,etf,iShares Semiconductor ETF,United States,,282.95,284.34,278.48,279.96
+2025-10-06,SOXX.US,etf,iShares Semiconductor ETF,United States,,290.99,292.51,288.35,288.36
+2025-10-07,SOXX.US,etf,iShares Semiconductor ETF,United States,,290.975,291.48,281.53,281.91
+2025-10-08,SOXX.US,etf,iShares Semiconductor ETF,United States,,281.995,291.86,281.48,291.54
+2025-10-09,SOXX.US,etf,iShares Semiconductor ETF,United States,,291.085,291.6125,287.47,290.19
+2025-10-10,SOXX.US,etf,iShares Semiconductor ETF,United States,,290.82,291.63,271.46,271.99
+2025-10-13,SOXX.US,etf,iShares Semiconductor ETF,United States,,282.78,285.95,280.34,284.87
+2025-10-14,SOXX.US,etf,iShares Semiconductor ETF,United States,,278.5,284.77,277.36,279.03
+2025-10-15,SOXX.US,etf,iShares Semiconductor ETF,United States,,286.25,288.015,281.84,287.64
+2025-10-16,SOXX.US,etf,iShares Semiconductor ETF,United States,,291.075,292.26,285.94,288.98
+2025-10-17,SOXX.US,etf,iShares Semiconductor ETF,United States,,286.89,289.635,283.7193,288.17
+2025-10-20,SOXX.US,etf,iShares Semiconductor ETF,United States,,290.61,295.0,290.495,292.97
+2025-10-21,SOXX.US,etf,iShares Semiconductor ETF,United States,,292.5,292.7,289.22,291.33
+2025-10-22,SOXX.US,etf,iShares Semiconductor ETF,United States,,288.11,289.825,278.46,284.13
+2025-10-23,SOXX.US,etf,iShares Semiconductor ETF,United States,,282.49,291.86,282.25,291.06
+2025-10-24,SOXX.US,etf,iShares Semiconductor ETF,United States,,296.33,298.22,295.44,295.86
+2025-10-27,SOXX.US,etf,iShares Semiconductor ETF,United States,,301.43,305.01,300.405,304.08
+2025-10-28,SOXX.US,etf,iShares Semiconductor ETF,United States,,303.46,305.97,302.38,304.45
+2025-10-29,SOXX.US,etf,iShares Semiconductor ETF,United States,,309.865,312.7897,306.97,309.6
+2025-10-30,SOXX.US,etf,iShares Semiconductor ETF,United States,,307.94,311.12,305.38,305.41
+2025-10-31,SOXX.US,etf,iShares Semiconductor ETF,United States,,308.7,311.3225,304.26,306.55
+2025-11-03,SOXX.US,etf,iShares Semiconductor ETF,United States,,310.4,311.7525,307.13,308.38
+2025-11-04,SOXX.US,etf,iShares Semiconductor ETF,United States,,300.34,304.745,295.55,296.26
+2025-11-05,SOXX.US,etf,iShares Semiconductor ETF,United States,,297.21,309.17,296.89,305.47
+2025-11-06,SOXX.US,etf,iShares Semiconductor ETF,United States,,305.0,305.89,295.35,297.5
+2025-11-07,SOXX.US,etf,iShares Semiconductor ETF,United States,,292.64,294.45,283.59,294.38
+2025-11-10,SOXX.US,etf,iShares Semiconductor ETF,United States,,302.44,303.36,298.54,302.0
+2025-11-11,SOXX.US,etf,iShares Semiconductor ETF,United States,,299.04,300.02,294.69,295.15
+2025-11-12,SOXX.US,etf,iShares Semiconductor ETF,United States,,300.22,301.69,297.5,299.67
+2025-11-13,SOXX.US,etf,iShares Semiconductor ETF,United States,,295.94,297.13,286.45,289.38
+2025-11-14,SOXX.US,etf,iShares Semiconductor ETF,United States,,280.62,292.8,279.41,288.52
+2025-11-17,SOXX.US,etf,iShares Semiconductor ETF,United States,,286.07,291.53,280.24,283.56
+2025-11-18,SOXX.US,etf,iShares Semiconductor ETF,United States,,279.54,281.405,274.09,276.98
+2025-11-19,SOXX.US,etf,iShares Semiconductor ETF,United States,,278.14,285.14,276.82,281.61
+2025-11-20,SOXX.US,etf,iShares Semiconductor ETF,United States,,288.9,289.99,267.0,268.1
+2025-11-21,SOXX.US,etf,iShares Semiconductor ETF,United States,,268.265,274.76,260.44,270.83
+2025-11-24,SOXX.US,etf,iShares Semiconductor ETF,United States,,273.78,284.05,273.615,282.7
+2025-11-25,SOXX.US,etf,iShares Semiconductor ETF,United States,,278.955,284.34,272.76,283.58
+2025-11-26,SOXX.US,etf,iShares Semiconductor ETF,United States,,286.72,294.08,286.61,291.39
+2025-11-28,SOXX.US,etf,iShares Semiconductor ETF,United States,,293.25,296.99,291.83,296.74
+2025-12-01,SOXX.US,etf,iShares Semiconductor ETF,United States,,292.87,299.42,292.53,296.92
+2025-12-02,SOXX.US,etf,iShares Semiconductor ETF,United States,,300.445,304.84,298.69,302.84
+2025-12-03,SOXX.US,etf,iShares Semiconductor ETF,United States,,304.5,309.57,301.465,309.36
+2025-12-04,SOXX.US,etf,iShares Semiconductor ETF,United States,,307.84,308.27,304.5919,306.28
+2025-12-05,SOXX.US,etf,iShares Semiconductor ETF,United States,,309.295,312.83,308.93,309.4
+2025-12-08,SOXX.US,etf,iShares Semiconductor ETF,United States,,311.925,314.0799,309.865,312.76
+2025-12-09,SOXX.US,etf,iShares Semiconductor ETF,United States,,310.78,312.85,309.435,312.18
+2025-12-10,SOXX.US,etf,iShares Semiconductor ETF,United States,,312.005,317.35,310.56,316.33
+2025-12-11,SOXX.US,etf,iShares Semiconductor ETF,United States,,312.8,314.775,305.79,314.52
+2025-12-12,SOXX.US,etf,iShares Semiconductor ETF,United States,,310.8,311.6,297.96,299.48
+2025-12-15,SOXX.US,etf,iShares Semiconductor ETF,United States,,302.595,303.5,297.23,298.01
+2025-12-16,SOXX.US,etf,iShares Semiconductor ETF,United States,,296.705,298.92,293.08,296.2
+2025-12-17,SOXX.US,etf,iShares Semiconductor ETF,United States,,297.32,298.18,284.43,285.23
+2025-12-18,SOXX.US,etf,iShares Semiconductor ETF,United States,,295.72,296.96,290.835,292.04
+2025-12-19,SOXX.US,etf,iShares Semiconductor ETF,United States,,294.67,301.69,294.5,299.81
+2025-12-22,SOXX.US,etf,iShares Semiconductor ETF,United States,,306.725,306.938,302.55,303.84
+2025-12-23,SOXX.US,etf,iShares Semiconductor ETF,United States,,302.21,305.12,301.37,304.96
+2025-12-24,SOXX.US,etf,iShares Semiconductor ETF,United States,,304.995,306.5,304.71,306.14
+2025-12-26,SOXX.US,etf,iShares Semiconductor ETF,United States,,307.4,307.5399,305.29,306.04
+2025-12-29,SOXX.US,etf,iShares Semiconductor ETF,United States,,303.37,306.46,301.885,305.32
+2025-12-30,SOXX.US,etf,iShares Semiconductor ETF,United States,,306.08,307.48,304.7,304.92
+2025-12-31,SOXX.US,etf,iShares Semiconductor ETF,United States,,305.635,306.12,301.11,301.15
 2026-01-02,SOXX.US,etf,iShares Semiconductor ETF,United States,,308.56,315.81,308.56,313.69
 2026-01-05,SOXX.US,etf,iShares Semiconductor ETF,United States,,320.7,322.64,316.88,318.06
 2026-01-06,SOXX.US,etf,iShares Semiconductor ETF,United States,,322.07,329.15,322.0,328.35
@@ -584,6 +834,326 @@
 2026-09-21,^AOR,index,All Ordinaries Index,Australia,,8922.7,8925.1,8872.1,8919.146
 2026-09-22,^AOR,index,All Ordinaries Index,Australia,,8936.3,8971.7,8917.4,8950.969
 2026-09-23,^AOR,index,All Ordinaries Index,Australia,,8969.4,8985.6,8940.4,8956.2
+2025-04-29,^CAC,index,CAC 40,France,,7570.06,7588.43,7533.57,7555.87
+2025-04-30,^CAC,index,CAC 40,France,,7586.81,7609.32,7512.23,7593.87
+2025-05-02,^CAC,index,CAC 40,France,,7710.08,7779.7,7679.01,7770.48
+2025-05-05,^CAC,index,CAC 40,France,,7735.59,7747.49,7713.16,7727.93
+2025-05-06,^CAC,index,CAC 40,France,,7743.07,7746.28,7647.78,7696.92
+2025-05-07,^CAC,index,CAC 40,France,,7668.18,7678.95,7613.2,7626.84
+2025-05-08,^CAC,index,CAC 40,France,,7657.03,7719.83,7646.01,7694.44
+2025-05-09,^CAC,index,CAC 40,France,,7732.02,7767.07,7723.14,7743.75
+2025-05-12,^CAC,index,CAC 40,France,,7818.6,7880.29,7783.69,7850.1
+2025-05-13,^CAC,index,CAC 40,France,,7842.79,7879.39,7840.86,7873.83
+2025-05-14,^CAC,index,CAC 40,France,,7875.39,7877.74,7805.7,7836.79
+2025-05-15,^CAC,index,CAC 40,France,,7806.12,7853.47,7800.37,7853.47
+2025-05-16,^CAC,index,CAC 40,France,,7874.93,7915.43,7855.72,7886.69
+2025-05-19,^CAC,index,CAC 40,France,,7854.11,7883.63,7824.42,7883.63
+2025-05-20,^CAC,index,CAC 40,France,,7899.21,7955.53,7878.57,7942.42
+2025-05-21,^CAC,index,CAC 40,France,,7913.74,7930.61,7873.17,7910.49
+2025-05-22,^CAC,index,CAC 40,France,,7870.57,7887.1,7807.05,7864.44
+2025-05-23,^CAC,index,CAC 40,France,,7876.87,7888.97,7620.4,7734.4
+2025-05-26,^CAC,index,CAC 40,France,,7833.13,7840.3,7799.81,7828.13
+2025-05-27,^CAC,index,CAC 40,France,,7817.84,7856.4,7808.12,7826.79
+2025-05-28,^CAC,index,CAC 40,France,,7825.42,7853.66,7787.58,7788.1
+2025-05-29,^CAC,index,CAC 40,France,,7866.77,7869.92,7779.72,7779.72
+2025-05-30,^CAC,index,CAC 40,France,,7776.04,7811.49,7747.9,7751.89
+2025-06-02,^CAC,index,CAC 40,France,,7714.91,7744.28,7668.9,7737.2
+2025-06-03,^CAC,index,CAC 40,France,,7752.28,7765.46,7699.24,7763.84
+2025-06-04,^CAC,index,CAC 40,France,,7795.06,7843.21,7779.36,7804.67
+2025-06-05,^CAC,index,CAC 40,France,,7811.18,7848.09,7761.54,7790.27
+2025-06-06,^CAC,index,CAC 40,France,,7794.88,7815.0,7769.84,7804.87
+2025-06-09,^CAC,index,CAC 40,France,,7796.26,7812.73,7772.09,7791.47
+2025-06-10,^CAC,index,CAC 40,France,,7784.58,7815.44,7769.51,7804.33
+2025-06-11,^CAC,index,CAC 40,France,,7810.84,7840.02,7775.9,7775.9
+2025-06-12,^CAC,index,CAC 40,France,,7741.04,7783.64,7698.23,7765.11
+2025-06-13,^CAC,index,CAC 40,France,,7670.04,7713.68,7659.13,7684.68
+2025-06-16,^CAC,index,CAC 40,France,,7708.84,7769.32,7705.28,7742.24
+2025-06-17,^CAC,index,CAC 40,France,,7688.43,7702.75,7646.76,7683.73
+2025-06-18,^CAC,index,CAC 40,France,,7687.42,7710.14,7641.13,7656.12
+2025-06-19,^CAC,index,CAC 40,France,,7605.88,7618.76,7553.45,7553.45
+2025-06-20,^CAC,index,CAC 40,France,,7597.18,7636.83,7575.99,7589.66
+2025-06-23,^CAC,index,CAC 40,France,,7551.39,7597.94,7505.27,7537.57
+2025-06-24,^CAC,index,CAC 40,France,,7656.54,7678.78,7606.32,7615.99
+2025-06-25,^CAC,index,CAC 40,France,,7630.34,7658.5,7557.24,7558.16
+2025-06-26,^CAC,index,CAC 40,France,,7587.24,7594.9,7532.25,7557.31
+2025-06-27,^CAC,index,CAC 40,France,,7610.38,7691.55,7609.96,7691.55
+2025-06-30,^CAC,index,CAC 40,France,,7712.66,7714.56,7660.78,7665.91
+2025-07-01,^CAC,index,CAC 40,France,,7674.91,7675.69,7612.39,7662.59
+2025-07-02,^CAC,index,CAC 40,France,,7706.75,7770.45,7674.23,7738.42
+2025-07-03,^CAC,index,CAC 40,France,,7762.15,7766.92,7717.07,7754.55
+2025-07-04,^CAC,index,CAC 40,France,,7713.54,7713.54,7656.69,7696.27
+2025-07-07,^CAC,index,CAC 40,France,,7704.21,7730.98,7682.12,7723.47
+2025-07-08,^CAC,index,CAC 40,France,,7743.57,7771.62,7696.38,7766.71
+2025-07-09,^CAC,index,CAC 40,France,,7799.03,7886.79,7790.55,7878.46
+2025-07-10,^CAC,index,CAC 40,France,,7909.86,7940.62,7885.87,7902.25
+2025-07-11,^CAC,index,CAC 40,France,,7873.43,7881.19,7815.19,7829.29
+2025-07-14,^CAC,index,CAC 40,France,,7774.04,7810.55,7764.8,7808.17
+2025-07-15,^CAC,index,CAC 40,France,,7818.09,7836.13,7766.21,7766.21
+2025-07-16,^CAC,index,CAC 40,France,,7740.15,7778.13,7722.09,7722.09
+2025-07-17,^CAC,index,CAC 40,France,,7795.95,7822.02,7783.65,7822.0
+2025-07-18,^CAC,index,CAC 40,France,,7858.87,7873.3,7815.23,7822.67
+2025-07-21,^CAC,index,CAC 40,France,,7825.73,7838.61,7757.68,7798.22
+2025-07-22,^CAC,index,CAC 40,France,,7775.04,7782.66,7726.74,7744.41
+2025-07-23,^CAC,index,CAC 40,France,,7839.71,7869.96,7816.27,7850.43
+2025-07-24,^CAC,index,CAC 40,France,,7869.26,7898.03,7797.28,7818.28
+2025-07-25,^CAC,index,CAC 40,France,,7782.39,7851.46,7759.59,7834.58
+2025-07-28,^CAC,index,CAC 40,France,,7924.53,7931.15,7794.66,7800.88
+2025-07-29,^CAC,index,CAC 40,France,,7833.02,7924.62,7833.02,7857.36
+2025-07-30,^CAC,index,CAC 40,France,,7856.01,7921.61,7853.54,7861.96
+2025-07-31,^CAC,index,CAC 40,France,,7876.59,7906.37,7771.97,7771.97
+2025-08-01,^CAC,index,CAC 40,France,,7670.48,7691.12,7523.61,7546.16
+2025-08-04,^CAC,index,CAC 40,France,,7583.03,7632.77,7571.76,7632.01
+2025-08-05,^CAC,index,CAC 40,France,,7670.2,7670.2,7610.57,7621.04
+2025-08-06,^CAC,index,CAC 40,France,,7658.92,7672.15,7620.97,7635.03
+2025-08-07,^CAC,index,CAC 40,France,,7651.4,7737.63,7645.21,7709.32
+2025-08-08,^CAC,index,CAC 40,France,,7733.71,7770.89,7710.67,7743.0
+2025-08-11,^CAC,index,CAC 40,France,,7759.92,7764.24,7694.34,7698.52
+2025-08-12,^CAC,index,CAC 40,France,,7730.22,7759.74,7702.51,7753.42
+2025-08-13,^CAC,index,CAC 40,France,,7775.23,7819.69,7769.07,7804.97
+2025-08-14,^CAC,index,CAC 40,France,,7821.7,7871.39,7818.57,7870.34
+2025-08-15,^CAC,index,CAC 40,France,,7917.93,7945.27,7896.56,7923.45
+2025-08-18,^CAC,index,CAC 40,France,,7925.35,7929.42,7856.9,7884.05
+2025-08-19,^CAC,index,CAC 40,France,,7894.0,7986.81,7892.72,7979.08
+2025-08-20,^CAC,index,CAC 40,France,,7949.14,8004.34,7932.06,7973.03
+2025-08-21,^CAC,index,CAC 40,France,,7970.75,7970.75,7910.34,7938.29
+2025-08-22,^CAC,index,CAC 40,France,,7923.39,7997.35,7923.39,7969.69
+2025-08-25,^CAC,index,CAC 40,France,,7943.0,7946.07,7836.96,7843.04
+2025-08-26,^CAC,index,CAC 40,France,,7726.24,7749.24,7668.08,7709.81
+2025-08-27,^CAC,index,CAC 40,France,,7718.29,7765.17,7703.93,7743.93
+2025-08-28,^CAC,index,CAC 40,France,,7772.84,7833.04,7734.96,7762.6
+2025-08-29,^CAC,index,CAC 40,France,,7743.44,7764.29,7702.21,7703.9
+2025-09-01,^CAC,index,CAC 40,France,,7724.96,7744.64,7697.82,7707.9
+2025-09-02,^CAC,index,CAC 40,France,,7730.61,7738.18,7648.13,7654.25
+2025-09-03,^CAC,index,CAC 40,France,,7699.0,7736.76,7671.53,7719.71
+2025-09-04,^CAC,index,CAC 40,France,,7695.13,7727.76,7676.84,7698.92
+2025-09-05,^CAC,index,CAC 40,France,,7723.97,7732.04,7649.4,7674.78
+2025-09-08,^CAC,index,CAC 40,France,,7710.4,7745.05,7682.31,7734.84
+2025-09-09,^CAC,index,CAC 40,France,,7752.46,7791.65,7729.88,7749.39
+2025-09-10,^CAC,index,CAC 40,France,,7774.36,7823.34,7750.6,7761.32
+2025-09-11,^CAC,index,CAC 40,France,,7781.8,7848.38,7773.57,7823.52
+2025-09-12,^CAC,index,CAC 40,France,,7830.7,7842.62,7768.91,7825.24
+2025-09-15,^CAC,index,CAC 40,France,,7843.46,7935.31,7843.46,7896.93
+2025-09-16,^CAC,index,CAC 40,France,,7890.53,7903.04,7811.12,7818.22
+2025-09-17,^CAC,index,CAC 40,France,,7841.55,7846.09,7777.96,7786.98
+2025-09-18,^CAC,index,CAC 40,France,,7822.57,7887.11,7818.74,7854.61
+2025-09-19,^CAC,index,CAC 40,France,,7873.37,7934.92,7853.59,7853.59
+2025-09-22,^CAC,index,CAC 40,France,,7847.76,7850.22,7801.17,7830.11
+2025-09-23,^CAC,index,CAC 40,France,,7860.6,7919.07,7857.11,7872.02
+2025-09-24,^CAC,index,CAC 40,France,,7871.22,7872.57,7810.05,7827.45
+2025-09-25,^CAC,index,CAC 40,France,,7797.97,7819.7,7760.07,7795.42
+2025-09-26,^CAC,index,CAC 40,France,,7822.17,7875.04,7821.25,7870.68
+2025-09-29,^CAC,index,CAC 40,France,,7899.02,7901.23,7870.47,7880.87
+2025-09-30,^CAC,index,CAC 40,France,,7868.23,7895.94,7831.08,7895.94
+2025-10-01,^CAC,index,CAC 40,France,,7894.29,7984.82,7865.4,7966.95
+2025-10-02,^CAC,index,CAC 40,France,,8025.5,8088.53,8023.02,8056.63
+2025-10-03,^CAC,index,CAC 40,France,,8093.01,8097.24,8040.36,8081.54
+2025-10-06,^CAC,index,CAC 40,France,,8035.33,8035.72,7909.46,7971.78
+2025-10-07,^CAC,index,CAC 40,France,,7974.91,8005.74,7934.13,7974.85
+2025-10-08,^CAC,index,CAC 40,France,,7983.37,8070.64,7983.37,8060.13
+2025-10-09,^CAC,index,CAC 40,France,,8074.12,8109.77,8041.36,8041.36
+2025-10-10,^CAC,index,CAC 40,France,,8049.57,8082.53,7905.83,7918.0
+2025-10-13,^CAC,index,CAC 40,France,,7959.27,7995.49,7902.12,7934.26
+2025-10-14,^CAC,index,CAC 40,France,,7862.91,7932.88,7825.97,7919.62
+2025-10-15,^CAC,index,CAC 40,France,,8029.97,8130.72,8024.54,8077.0
+2025-10-16,^CAC,index,CAC 40,France,,8093.46,8188.59,8053.07,8188.59
+2025-10-17,^CAC,index,CAC 40,France,,8091.89,8224.56,8080.83,8174.2
+2025-10-20,^CAC,index,CAC 40,France,,8213.2,8239.67,8151.35,8206.07
+2025-10-21,^CAC,index,CAC 40,France,,8205.99,8271.48,8198.27,8258.86
+2025-10-22,^CAC,index,CAC 40,France,,8222.73,8248.9,8193.35,8206.87
+2025-10-23,^CAC,index,CAC 40,France,,8224.92,8257.47,8215.53,8225.78
+2025-10-24,^CAC,index,CAC 40,France,,8263.91,8263.91,8169.23,8225.63
+2025-10-27,^CAC,index,CAC 40,France,,8237.2,8252.64,8202.72,8239.18
+2025-10-28,^CAC,index,CAC 40,France,,8219.53,8243.64,8204.01,8216.58
+2025-10-29,^CAC,index,CAC 40,France,,8198.71,8226.32,8186.01,8200.88
+2025-10-30,^CAC,index,CAC 40,France,,8180.35,8206.84,8114.74,8157.29
+2025-10-31,^CAC,index,CAC 40,France,,8150.22,8161.81,8106.95,8121.07
+2025-11-03,^CAC,index,CAC 40,France,,8118.84,8151.0,8094.41,8109.79
+2025-11-04,^CAC,index,CAC 40,France,,8010.67,8067.58,7963.69,8067.53
+2025-11-05,^CAC,index,CAC 40,France,,8008.06,8097.84,8005.82,8074.23
+2025-11-06,^CAC,index,CAC 40,France,,8019.26,8044.86,7950.8,7964.77
+2025-11-07,^CAC,index,CAC 40,France,,7986.07,8000.99,7908.59,7950.18
+2025-11-10,^CAC,index,CAC 40,France,,8044.09,8077.18,8017.47,8055.51
+2025-11-11,^CAC,index,CAC 40,France,,8079.8,8169.8,8078.22,8156.23
+2025-11-12,^CAC,index,CAC 40,France,,8188.83,8280.97,8185.03,8241.24
+2025-11-13,^CAC,index,CAC 40,France,,8270.85,8314.23,8227.88,8232.49
+2025-11-14,^CAC,index,CAC 40,France,,8186.14,8202.48,8084.23,8170.09
+2025-11-17,^CAC,index,CAC 40,France,,8155.93,8176.1,8109.82,8119.02
+2025-11-18,^CAC,index,CAC 40,France,,8017.73,8032.51,7925.06,7967.93
+2025-11-19,^CAC,index,CAC 40,France,,7967.37,8005.75,7919.36,7953.77
+2025-11-20,^CAC,index,CAC 40,France,,8042.13,8057.7,7981.07,7981.07
+2025-11-21,^CAC,index,CAC 40,France,,7878.81,7996.46,7875.87,7982.65
+2025-11-24,^CAC,index,CAC 40,France,,8030.46,8033.38,7958.61,7959.67
+2025-11-25,^CAC,index,CAC 40,France,,7981.89,8038.67,7942.72,8025.8
+2025-11-26,^CAC,index,CAC 40,France,,8075.47,8098.67,8027.61,8096.43
+2025-11-27,^CAC,index,CAC 40,France,,8098.68,8115.46,8080.84,8099.47
+2025-11-28,^CAC,index,CAC 40,France,,8105.01,8132.17,8084.23,8122.71
+2025-12-01,^CAC,index,CAC 40,France,,8078.4,8114.14,8043.81,8097.0
+2025-12-02,^CAC,index,CAC 40,France,,8084.77,8135.8,8072.06,8074.61
+2025-12-03,^CAC,index,CAC 40,France,,8071.78,8103.14,8051.45,8087.42
+2025-12-04,^CAC,index,CAC 40,France,,8115.17,8137.65,8098.09,8122.03
+2025-12-05,^CAC,index,CAC 40,France,,8148.07,8160.81,8114.74,8114.74
+2025-12-08,^CAC,index,CAC 40,France,,8102.09,8110.76,8080.85,8108.43
+2025-12-09,^CAC,index,CAC 40,France,,8117.43,8135.98,8044.99,8052.51
+2025-12-10,^CAC,index,CAC 40,France,,8035.09,8045.22,8005.11,8022.69
+2025-12-11,^CAC,index,CAC 40,France,,8046.17,8104.76,8009.04,8085.76
+2025-12-12,^CAC,index,CAC 40,France,,8104.42,8155.39,8068.62,8068.62
+2025-12-15,^CAC,index,CAC 40,France,,8087.07,8161.03,8086.07,8124.88
+2025-12-16,^CAC,index,CAC 40,France,,8114.39,8150.22,8086.7,8106.16
+2025-12-17,^CAC,index,CAC 40,France,,8116.26,8136.07,8074.04,8086.05
+2025-12-18,^CAC,index,CAC 40,France,,8087.43,8166.72,8086.59,8150.64
+2025-12-19,^CAC,index,CAC 40,France,,8131.24,8177.75,8131.06,8151.38
+2025-12-22,^CAC,index,CAC 40,France,,8135.52,8143.38,8099.45,8121.07
+2025-12-23,^CAC,index,CAC 40,France,,8116.96,8127.07,8088.41,8103.85
+2025-12-24,^CAC,index,CAC 40,France,,8109.3,8135.71,8103.58,8103.58
+2025-12-29,^CAC,index,CAC 40,France,,8127.59,8132.59,8087.48,8112.02
+2025-12-30,^CAC,index,CAC 40,France,,8097.44,8184.03,8095.02,8168.15
+2025-12-31,^CAC,index,CAC 40,France,,8147.05,8149.5,8118.48,8149.5
+2026-01-02,^CAC,index,CAC 40,France,,8127.27,8221.78,8113.34,8195.21
+2026-01-05,^CAC,index,CAC 40,France,,8247.16,8253.87,8174.44,8211.5
+2026-01-06,^CAC,index,CAC 40,France,,8214.28,8255.77,8158.09,8237.43
+2026-01-07,^CAC,index,CAC 40,France,,8251.44,8257.33,8211.62,8233.92
+2026-01-08,^CAC,index,CAC 40,France,,8210.9,8255.52,8203.71,8243.47
+2026-01-09,^CAC,index,CAC 40,France,,8271.65,8362.09,8271.65,8362.09
+2026-01-12,^CAC,index,CAC 40,France,,8342.38,8378.09,8313.31,8358.76
+2026-01-13,^CAC,index,CAC 40,France,,8346.81,8352.8,8308.67,8347.2
+2026-01-14,^CAC,index,CAC 40,France,,8368.99,8396.72,8327.22,8330.97
+2026-01-15,^CAC,index,CAC 40,France,,8366.3,8366.3,8290.61,8313.12
+2026-01-16,^CAC,index,CAC 40,France,,8299.71,8313.64,8234.27,8258.94
+2026-01-19,^CAC,index,CAC 40,France,,8125.51,8165.46,8092.05,8112.02
+2026-01-20,^CAC,index,CAC 40,France,,8050.0,8062.58,7996.59,8062.58
+2026-01-21,^CAC,index,CAC 40,France,,8060.68,8090.49,8014.14,8069.17
+2026-01-22,^CAC,index,CAC 40,France,,8163.56,8190.08,8142.44,8148.89
+2026-01-23,^CAC,index,CAC 40,France,,8116.81,8156.05,8095.0,8143.05
+2026-01-26,^CAC,index,CAC 40,France,,8130.55,8159.29,8106.06,8131.15
+2026-01-27,^CAC,index,CAC 40,France,,8142.73,8173.57,8117.58,8152.82
+2026-01-28,^CAC,index,CAC 40,France,,8096.43,8112.5,8020.75,8066.68
+2026-01-29,^CAC,index,CAC 40,France,,8127.95,8145.44,8068.93,8071.36
+2026-01-30,^CAC,index,CAC 40,France,,8070.86,8143.32,8070.86,8126.53
+2026-02-02,^CAC,index,CAC 40,France,,8084.91,8201.88,8080.66,8181.17
+2026-02-03,^CAC,index,CAC 40,France,,8219.26,8234.5,8129.33,8179.5
+2026-02-04,^CAC,index,CAC 40,France,,8219.96,8298.41,8203.27,8262.16
+2026-02-05,^CAC,index,CAC 40,France,,8288.47,8312.68,8193.2,8238.17
+2026-02-06,^CAC,index,CAC 40,France,,8217.96,8287.92,8175.09,8273.84
+2026-02-09,^CAC,index,CAC 40,France,,8298.35,8323.28,8258.75,8323.28
+2026-02-10,^CAC,index,CAC 40,France,,8348.82,8369.71,8316.61,8327.88
+2026-02-11,^CAC,index,CAC 40,France,,8341.52,8358.23,8277.96,8313.24
+2026-02-12,^CAC,index,CAC 40,France,,8432.15,8437.35,8332.73,8340.56
+2026-02-13,^CAC,index,CAC 40,France,,8315.5,8331.96,8275.04,8311.74
+2026-02-16,^CAC,index,CAC 40,France,,8322.85,8354.75,8313.94,8316.5
+2026-02-17,^CAC,index,CAC 40,France,,8310.89,8368.25,8292.13,8361.46
+2026-02-18,^CAC,index,CAC 40,France,,8370.48,8438.52,8365.63,8429.03
+2026-02-19,^CAC,index,CAC 40,France,,8412.25,8415.88,8350.36,8398.78
+2026-02-20,^CAC,index,CAC 40,France,,8442.18,8529.0,8421.11,8515.49
+2026-02-23,^CAC,index,CAC 40,France,,8492.21,8532.95,8485.23,8497.17
+2026-02-24,^CAC,index,CAC 40,France,,8462.23,8548.29,8461.88,8519.21
+2026-02-25,^CAC,index,CAC 40,France,,8539.62,8560.91,8528.63,8559.07
+2026-02-26,^CAC,index,CAC 40,France,,8568.76,8642.23,8562.86,8620.93
+2026-02-27,^CAC,index,CAC 40,France,,8609.46,8638.93,8553.94,8580.75
+2026-03-02,^CAC,index,CAC 40,France,,8410.24,8461.75,8378.18,8394.32
+2026-03-03,^CAC,index,CAC 40,France,,8292.42,8298.31,8086.68,8103.84
+2026-03-04,^CAC,index,CAC 40,France,,8122.6,8210.41,8089.81,8167.73
+2026-03-05,^CAC,index,CAC 40,France,,8135.07,8215.02,8028.13,8045.8
+2026-03-06,^CAC,index,CAC 40,France,,8083.67,8104.77,7913.02,7993.49
+2026-03-09,^CAC,index,CAC 40,France,,7812.66,7929.53,7768.11,7915.36
+2026-03-10,^CAC,index,CAC 40,France,,8064.82,8107.19,7995.81,8057.36
+2026-03-11,^CAC,index,CAC 40,France,,7992.66,8057.22,7961.32,8041.81
+2026-03-12,^CAC,index,CAC 40,France,,8006.73,8037.83,7916.5,7984.44
+2026-03-13,^CAC,index,CAC 40,France,,7907.82,8016.43,7872.73,7911.53
+2026-03-16,^CAC,index,CAC 40,France,,7924.19,7968.65,7856.61,7935.97
+2026-03-17,^CAC,index,CAC 40,France,,7925.58,8022.27,7919.87,7974.49
+2026-03-18,^CAC,index,CAC 40,France,,8008.93,8066.62,7944.34,7969.88
+2026-03-19,^CAC,index,CAC 40,France,,7871.76,7887.95,7774.44,7807.87
+2026-03-20,^CAC,index,CAC 40,France,,7869.68,7883.27,7660.47,7665.62
+2026-03-23,^CAC,index,CAC 40,France,,7542.36,7876.7,7505.27,7726.2
+2026-03-24,^CAC,index,CAC 40,France,,7743.55,7773.63,7660.24,7743.92
+2026-03-25,^CAC,index,CAC 40,France,,7831.02,7884.14,7792.37,7846.55
+2026-03-26,^CAC,index,CAC 40,France,,7795.78,7843.07,7756.17,7769.31
+2026-03-27,^CAC,index,CAC 40,France,,7774.4,7785.46,7677.32,7701.95
+2026-03-30,^CAC,index,CAC 40,France,,7689.05,7775.26,7680.21,7772.45
+2026-03-31,^CAC,index,CAC 40,France,,7765.16,7850.14,7751.57,7816.94
+2026-04-01,^CAC,index,CAC 40,France,,8004.81,8006.47,7918.52,7981.27
+2026-04-02,^CAC,index,CAC 40,France,,7877.5,7993.08,7856.89,7962.39
+2026-04-07,^CAC,index,CAC 40,France,,7997.91,8075.18,7881.04,7908.74
+2026-04-08,^CAC,index,CAC 40,France,,8111.17,8305.47,8111.17,8263.87
+2026-04-09,^CAC,index,CAC 40,France,,8250.75,8254.56,8183.36,8245.8
+2026-04-10,^CAC,index,CAC 40,France,,8250.99,8320.39,8242.75,8259.6
+2026-04-13,^CAC,index,CAC 40,France,,8176.06,8235.98,8163.37,8235.98
+2026-04-14,^CAC,index,CAC 40,France,,8254.38,8336.05,8249.79,8327.86
+2026-04-15,^CAC,index,CAC 40,France,,8281.96,8295.28,8258.29,8274.57
+2026-04-16,^CAC,index,CAC 40,France,,8281.55,8331.08,8262.7,8262.7
+2026-04-17,^CAC,index,CAC 40,France,,8265.27,8455.65,8263.57,8425.13
+2026-04-20,^CAC,index,CAC 40,France,,8313.78,8356.81,8310.73,8331.05
+2026-04-21,^CAC,index,CAC 40,France,,8320.07,8357.95,8230.79,8235.72
+2026-04-22,^CAC,index,CAC 40,France,,8266.91,8266.91,8156.43,8156.43
+2026-04-23,^CAC,index,CAC 40,France,,8186.2,8242.22,8142.49,8227.32
+2026-04-24,^CAC,index,CAC 40,France,,8167.06,8224.22,8116.95,8157.82
+2026-04-27,^CAC,index,CAC 40,France,,8160.18,8214.63,8127.83,8141.92
+2026-04-28,^CAC,index,CAC 40,France,,8129.35,8172.89,8090.7,8104.09
+2026-04-29,^CAC,index,CAC 40,France,,8088.98,8110.62,8036.46,8072.13
+2026-04-30,^CAC,index,CAC 40,France,,7964.53,8115.08,7957.83,8114.84
+2026-05-04,^CAC,index,CAC 40,France,,8122.1,8122.1,7962.76,7976.12
+2026-05-05,^CAC,index,CAC 40,France,,7959.92,8062.31,7956.04,8062.31
+2026-05-06,^CAC,index,CAC 40,France,,8134.95,8344.89,8131.53,8299.42
+2026-05-07,^CAC,index,CAC 40,France,,8320.33,8361.0,8202.08,8202.08
+2026-05-08,^CAC,index,CAC 40,France,,8141.94,8158.93,8095.69,8112.57
+2026-05-11,^CAC,index,CAC 40,France,,8069.63,8080.63,8012.39,8056.38
+2026-05-12,^CAC,index,CAC 40,France,,7969.45,8026.81,7962.75,7979.92
+2026-05-13,^CAC,index,CAC 40,France,,8024.97,8029.94,7931.78,8007.97
+2026-05-14,^CAC,index,CAC 40,France,,8063.17,8083.99,8030.63,8082.27
+2026-05-15,^CAC,index,CAC 40,France,,8003.06,8043.57,7942.45,7952.55
+2026-05-18,^CAC,index,CAC 40,France,,7861.32,8009.47,7854.28,7987.49
+2026-05-19,^CAC,index,CAC 40,France,,7995.81,8073.58,7969.85,7981.76
+2026-05-20,^CAC,index,CAC 40,France,,7956.15,8175.24,7954.57,8117.42
+2026-05-21,^CAC,index,CAC 40,France,,8109.77,8153.55,8055.89,8086.0
+2026-05-22,^CAC,index,CAC 40,France,,8138.97,8158.79,8095.71,8115.75
+2026-05-25,^CAC,index,CAC 40,France,,8185.44,8280.98,8183.71,8258.26
+2026-05-26,^CAC,index,CAC 40,France,,8237.84,8240.98,8168.13,8173.11
+2026-05-27,^CAC,index,CAC 40,France,,8190.88,8271.76,8190.88,8207.89
+2026-05-28,^CAC,index,CAC 40,France,,8172.8,8220.37,8150.55,8188.87
+2026-05-29,^CAC,index,CAC 40,France,,8224.61,8286.47,8183.34,8183.34
+2026-06-01,^CAC,index,CAC 40,France,,8171.23,8222.24,8101.15,8146.59
+2026-06-02,^CAC,index,CAC 40,France,,8193.39,8244.61,8166.53,8209.09
+2026-06-03,^CAC,index,CAC 40,France,,8178.43,8199.03,8150.42,8150.42
+2026-06-04,^CAC,index,CAC 40,France,,8151.55,8256.79,8150.89,8244.29
+2026-06-05,^CAC,index,CAC 40,France,,8262.94,8296.01,8218.24,8218.24
+2026-06-08,^CAC,index,CAC 40,France,,8132.98,8230.47,8121.4,8199.29
+2026-06-09,^CAC,index,CAC 40,France,,8179.22,8290.7,8175.61,8203.43
+2026-06-10,^CAC,index,CAC 40,France,,8223.05,8240.63,8113.0,8161.83
+2026-06-11,^CAC,index,CAC 40,France,,8154.54,8249.79,8150.06,8200.8
+2026-06-12,^CAC,index,CAC 40,France,,8315.31,8397.63,8302.69,8350.87
+2026-06-15,^CAC,index,CAC 40,France,,8462.07,8506.65,8384.01,8384.01
+2026-06-16,^CAC,index,CAC 40,France,,8406.74,8461.94,8401.59,8447.27
+2026-06-17,^CAC,index,CAC 40,France,,8435.12,8476.79,8408.9,8430.79
+2026-06-18,^CAC,index,CAC 40,France,,8433.09,8473.24,8406.17,8467.98
+2026-06-19,^CAC,index,CAC 40,France,,8471.43,8501.36,8419.2,8421.14
+2026-06-22,^CAC,index,CAC 40,France,,8434.07,8435.81,8353.06,8400.11
+2026-06-23,^CAC,index,CAC 40,France,,8332.3,8379.29,8304.57,8340.71
+2026-06-24,^CAC,index,CAC 40,France,,8353.68,8395.88,8334.77,8385.49
+2026-06-25,^CAC,index,CAC 40,France,,8387.21,8452.38,8374.5,8431.61
+2026-06-26,^CAC,index,CAC 40,France,,8410.36,8421.1,8342.62,8384.87
+2026-06-29,^CAC,index,CAC 40,France,,8379.12,8391.56,8341.26,8367.33
+2026-06-30,^CAC,index,CAC 40,France,,8376.28,8420.58,8363.23,8403.99
+2026-07-01,^CAC,index,CAC 40,France,,8391.69,8391.69,8316.53,8337.29
+2026-07-02,^CAC,index,CAC 40,France,,8343.65,8503.24,8342.26,8474.86
+2026-07-03,^CAC,index,CAC 40,France,,8486.89,8520.85,8457.68,8508.07
+2026-07-06,^CAC,index,CAC 40,France,,8519.86,8561.38,8465.79,8479.87
+2026-07-07,^CAC,index,CAC 40,France,,8500.08,8545.68,8436.24,8436.24
+2026-07-08,^CAC,index,CAC 40,France,,8389.29,8389.29,8235.35,8252.66
+2026-07-09,^CAC,index,CAC 40,France,,8307.51,8329.0,8262.86,8326.62
+2026-07-10,^CAC,index,CAC 40,France,,8323.76,8350.83,8284.24,8338.97
+2026-07-13,^CAC,index,CAC 40,France,,8306.64,8375.37,8306.64,8364.65
+2026-07-14,^CAC,index,CAC 40,France,,8288.5,8375.79,8274.89,8366.85
+2026-07-15,^CAC,index,CAC 40,France,,8371.69,8398.43,8320.13,8382.43
+2026-07-16,^CAC,index,CAC 40,France,,8380.84,8380.84,8281.27,8377.86
+2026-07-17,^CAC,index,CAC 40,France,,8326.74,8350.19,8282.17,8338.81
+2026-07-20,^CAC,index,CAC 40,France,,8317.62,8391.04,8316.38,8340.11
+2026-07-21,^CAC,index,CAC 40,France,,8348.75,8375.31,8299.87,8363.14
+2026-07-22,^CAC,index,CAC 40,France,,8355.13,8468.0,8350.84,8437.89
+2026-07-23,^CAC,index,CAC 40,France,,8368.45,8376.54,8279.58,8299.09
+2026-07-24,^CAC,index,CAC 40,France,,8284.68,8372.41,8278.64,8372.28
+2026-07-27,^CAC,index,CAC 40,France,,8442.75,8463.71,8402.81,8406.06
+2026-07-28,^CAC,index,CAC 40,France,,8447.09,8472.81,8400.33,8458.78
+2026-07-29,^CAC,index,CAC 40,France,,8494.4,8502.48,8379.78,8408.27
 2026-07-30,^CAC,index,CAC 40,France,,8409.89,8515.36,8409.89,8485.64
 2026-07-31,^CAC,index,CAC 40,France,,8489.44,8576.55,8483.21,8509.64
 2026-08-03,^CAC,index,CAC 40,France,,8566.74,8642.32,8559.58,8613.82
@@ -624,6 +1194,324 @@
 2026-09-21,^CAC,index,CAC 40,France,,8103.85,8154.24,8102.09,8138.94
 2026-09-22,^CAC,index,CAC 40,France,,8157.77,8197.07,8117.27,8154.91
 2026-09-23,^CAC,index,CAC 40,France,,8190.22,8199.66,8112.22,8123.41
+2025-01-02,^DAX,index,DAX,Germany,,19923.0,20024.7,19833.8,20024.6
+2025-01-03,^DAX,index,DAX,Germany,,20028.4,20031.1,19868.1,19906.0
+2025-01-06,^DAX,index,DAX,Germany,,19982.6,20216.1,19921.1,20216.1
+2025-01-07,^DAX,index,DAX,Germany,,20206.0,20391.1,20152.7,20340.5
+2025-01-08,^DAX,index,DAX,Germany,,20322.1,20480.4,20242.5,20329.9
+2025-01-09,^DAX,index,DAX,Germany,,20284.2,20360.3,20245.9,20317.1
+2025-01-10,^DAX,index,DAX,Germany,,20316.5,20400.5,20187.9,20214.7
+2025-01-13,^DAX,index,DAX,Germany,,20157.2,20176.1,20025.2,20132.8
+2025-01-14,^DAX,index,DAX,Germany,,20266.1,20362.5,20234.2,20271.3
+2025-01-15,^DAX,index,DAX,Germany,,20305.2,20629.7,20290.6,20574.6
+2025-01-16,^DAX,index,DAX,Germany,,20665.6,20675.0,20580.0,20655.3
+2025-01-17,^DAX,index,DAX,Germany,,20732.0,20924.5,20716.3,20903.3
+2025-01-20,^DAX,index,DAX,Germany,,20900.6,21054.6,20880.5,20990.3
+2025-01-21,^DAX,index,DAX,Germany,,20925.7,21045.6,20922.8,21042.0
+2025-01-22,^DAX,index,DAX,Germany,,21169.6,21330.8,21162.3,21254.2
+2025-01-23,^DAX,index,DAX,Germany,,21277.5,21423.0,21254.0,21411.5
+2025-01-24,^DAX,index,DAX,Germany,,21463.1,21520.5,21353.0,21394.9
+2025-01-27,^DAX,index,DAX,Germany,,21201.9,21344.9,21081.6,21282.1
+2025-01-28,^DAX,index,DAX,Germany,,21374.2,21475.9,21296.3,21430.5
+2025-01-29,^DAX,index,DAX,Germany,,21511.4,21671.5,21475.6,21637.5
+2025-01-30,^DAX,index,DAX,Germany,,21676.2,21732.0,21650.7,21727.2
+2025-01-31,^DAX,index,DAX,Germany,,21771.4,21800.5,21689.2,21732.0
+2025-02-03,^DAX,index,DAX,Germany,,21301.5,21462.7,21252.7,21428.2
+2025-02-04,^DAX,index,DAX,Germany,,21474.7,21518.5,21298.7,21505.7
+2025-02-05,^DAX,index,DAX,Germany,,21429.8,21585.9,21387.7,21585.9
+2025-02-06,^DAX,index,DAX,Germany,,21718.1,21921.0,21691.5,21902.4
+2025-02-07,^DAX,index,DAX,Germany,,21908.4,21945.3,21759.9,21787.0
+2025-02-10,^DAX,index,DAX,Germany,,21830.9,21945.5,21785.0,21911.7
+2025-02-11,^DAX,index,DAX,Germany,,21909.9,22046.4,21884.3,22037.8
+2025-02-12,^DAX,index,DAX,Germany,,22077.8,22193.6,21971.6,22148.0
+2025-02-13,^DAX,index,DAX,Germany,,22410.5,22624.5,22306.3,22612.0
+2025-02-14,^DAX,index,DAX,Germany,,22526.8,22609.9,22467.3,22513.4
+2025-02-17,^DAX,index,DAX,Germany,,22589.9,22804.2,22550.7,22798.0
+2025-02-18,^DAX,index,DAX,Germany,,22851.3,22882.7,22715.2,22844.5
+2025-02-19,^DAX,index,DAX,Germany,,22875.9,22935.0,22416.1,22433.6
+2025-02-20,^DAX,index,DAX,Germany,,22501.2,22574.5,22280.2,22314.6
+2025-02-21,^DAX,index,DAX,Germany,,22329.2,22393.5,22226.3,22287.5
+2025-02-24,^DAX,index,DAX,Germany,,22470.6,22515.3,22235.2,22425.9
+2025-02-25,^DAX,index,DAX,Germany,,22362.8,22576.1,22332.1,22410.2
+2025-02-26,^DAX,index,DAX,Germany,,22571.9,22833.2,22554.3,22794.1
+2025-02-27,^DAX,index,DAX,Germany,,22587.2,22686.4,22378.0,22550.8
+2025-02-28,^DAX,index,DAX,Germany,,22409.2,22551.4,22329.0,22551.4
+2025-03-03,^DAX,index,DAX,Germany,,22682.9,23307.9,22531.6,23147.0
+2025-03-04,^DAX,index,DAX,Germany,,22852.7,22869.9,22320.0,22326.8
+2025-03-05,^DAX,index,DAX,Germany,,22804.8,23176.3,22790.8,23081.0
+2025-03-06,^DAX,index,DAX,Germany,,23245.3,23475.8,23061.5,23419.4
+2025-03-07,^DAX,index,DAX,Germany,,23195.2,23234.2,22860.0,23008.9
+2025-03-10,^DAX,index,DAX,Germany,,23163.7,23164.2,22519.2,22620.9
+2025-03-11,^DAX,index,DAX,Germany,,22680.3,22835.1,22258.3,22328.7
+2025-03-12,^DAX,index,DAX,Germany,,22525.7,22813.8,22461.7,22676.4
+2025-03-13,^DAX,index,DAX,Germany,,22578.1,22752.8,22417.5,22567.1
+2025-03-14,^DAX,index,DAX,Germany,,22501.3,23049.4,22465.1,22986.8
+2025-03-17,^DAX,index,DAX,Germany,,22998.5,23154.5,22933.5,23154.5
+2025-03-18,^DAX,index,DAX,Germany,,23266.6,23476.0,23240.5,23380.7
+2025-03-19,^DAX,index,DAX,Germany,,23272.1,23372.0,23136.5,23288.0
+2025-03-20,^DAX,index,DAX,Germany,,23295.7,23315.4,22819.7,22999.1
+2025-03-21,^DAX,index,DAX,Germany,,22926.4,22956.9,22723.1,22891.6
+2025-03-24,^DAX,index,DAX,Germany,,23075.7,23137.4,22813.1,22852.6
+2025-03-25,^DAX,index,DAX,Germany,,22913.4,23182.7,22845.5,23109.7
+2025-03-26,^DAX,index,DAX,Germany,,23202.2,23204.5,22826.3,22839.0
+2025-03-27,^DAX,index,DAX,Germany,,22574.4,22740.4,22469.8,22678.7
+2025-03-28,^DAX,index,DAX,Germany,,22558.8,22614.9,22377.9,22461.5
+2025-03-31,^DAX,index,DAX,Germany,,22253.0,22320.0,21978.4,22163.4
+2025-04-01,^DAX,index,DAX,Germany,,22343.4,22573.7,22297.3,22539.9
+2025-04-02,^DAX,index,DAX,Germany,,22483.9,22485.4,22139.2,22390.8
+2025-04-03,^DAX,index,DAX,Germany,,21842.0,22147.4,21670.9,21717.3
+2025-04-04,^DAX,index,DAX,Germany,,21543.4,21642.1,20437.3,20641.7
+2025-04-07,^DAX,index,DAX,Germany,,18751.7,20799.6,18489.9,19789.6
+2025-04-08,^DAX,index,DAX,Germany,,20039.6,20468.4,19884.4,20280.2
+2025-04-09,^DAX,index,DAX,Germany,,19833.5,20025.3,19384.3,19670.8
+2025-04-10,^DAX,index,DAX,Germany,,21207.7,21300.3,20562.7,20562.7
+2025-04-11,^DAX,index,DAX,Germany,,20787.0,20796.4,20114.5,20374.1
+2025-04-14,^DAX,index,DAX,Germany,,20802.4,21048.3,20698.9,20954.8
+2025-04-15,^DAX,index,DAX,Germany,,21076.0,21288.1,21042.2,21253.7
+2025-04-16,^DAX,index,DAX,Germany,,21117.7,21315.9,20956.3,21311.0
+2025-04-17,^DAX,index,DAX,Germany,,21433.5,21436.6,21142.2,21205.8
+2025-04-22,^DAX,index,DAX,Germany,,21150.5,21296.9,21044.6,21293.5
+2025-04-23,^DAX,index,DAX,Germany,,21801.6,22043.7,21722.8,21961.9
+2025-04-24,^DAX,index,DAX,Germany,,21890.1,22081.5,21731.7,22064.5
+2025-04-25,^DAX,index,DAX,Germany,,22210.5,22318.3,22078.3,22242.4
+2025-04-28,^DAX,index,DAX,Germany,,22339.8,22443.4,22255.3,22271.6
+2025-04-29,^DAX,index,DAX,Germany,,22377.1,22455.6,22319.2,22425.8
+2025-04-30,^DAX,index,DAX,Germany,,22520.4,22607.3,22235.7,22496.9
+2025-05-02,^DAX,index,DAX,Germany,,22818.1,23086.6,22764.5,23086.6
+2025-05-05,^DAX,index,DAX,Germany,,23064.2,23364.2,23064.2,23344.5
+2025-05-06,^DAX,index,DAX,Germany,,23387.3,23389.8,22861.4,23249.6
+2025-05-07,^DAX,index,DAX,Germany,,23252.9,23300.8,23100.9,23115.9
+2025-05-08,^DAX,index,DAX,Germany,,23265.7,23408.5,23238.4,23352.6
+2025-05-09,^DAX,index,DAX,Germany,,23480.3,23543.2,23428.8,23499.3
+2025-05-12,^DAX,index,DAX,Germany,,23758.5,23911.9,23361.7,23566.5
+2025-05-13,^DAX,index,DAX,Germany,,23583.7,23649.8,23543.0,23638.5
+2025-05-14,^DAX,index,DAX,Germany,,23679.0,23702.2,23444.4,23527.0
+2025-05-15,^DAX,index,DAX,Germany,,23422.1,23696.6,23338.8,23695.5
+2025-05-16,^DAX,index,DAX,Germany,,23775.6,23887.1,23664.3,23767.4
+2025-05-19,^DAX,index,DAX,Germany,,23705.9,23935.0,23676.3,23934.9
+2025-05-20,^DAX,index,DAX,Germany,,24004.3,24082.4,23898.8,24036.1
+2025-05-21,^DAX,index,DAX,Germany,,23966.4,24152.2,23871.4,24122.4
+2025-05-22,^DAX,index,DAX,Germany,,24017.0,24040.2,23843.0,23999.1
+2025-05-23,^DAX,index,DAX,Germany,,24026.6,24149.0,23274.8,23629.5
+2025-05-26,^DAX,index,DAX,Germany,,24009.1,24050.6,23932.0,24027.6
+2025-05-27,^DAX,index,DAX,Germany,,24054.1,24300.9,24027.7,24226.4
+2025-05-28,^DAX,index,DAX,Germany,,24250.9,24325.9,24038.1,24038.1
+2025-05-29,^DAX,index,DAX,Germany,,24255.0,24255.0,23917.0,23933.2
+2025-05-30,^DAX,index,DAX,Germany,,23963.4,24181.5,23958.4,23997.4
+2025-06-02,^DAX,index,DAX,Germany,,23865.3,23993.2,23740.0,23930.6
+2025-06-03,^DAX,index,DAX,Germany,,24031.9,24101.5,23826.3,24091.6
+2025-06-04,^DAX,index,DAX,Germany,,24253.6,24346.1,24129.3,24276.4
+2025-06-05,^DAX,index,DAX,Germany,,24281.2,24479.4,24220.7,24323.5
+2025-06-06,^DAX,index,DAX,Germany,,24304.3,24355.0,24214.5,24304.4
+2025-06-09,^DAX,index,DAX,Germany,,24252.2,24289.5,24097.0,24174.3
+2025-06-10,^DAX,index,DAX,Germany,,24156.5,24168.5,23964.7,23987.5
+2025-06-11,^DAX,index,DAX,Germany,,23996.6,24151.3,23948.5,23948.9
+2025-06-12,^DAX,index,DAX,Germany,,23768.0,23885.0,23618.8,23771.4
+2025-06-13,^DAX,index,DAX,Germany,,23448.1,23557.7,23360.1,23516.2
+2025-06-16,^DAX,index,DAX,Germany,,23589.4,23711.7,23505.5,23699.1
+2025-06-17,^DAX,index,DAX,Germany,,23495.0,23550.9,23315.0,23434.6
+2025-06-18,^DAX,index,DAX,Germany,,23426.9,23502.9,23262.6,23317.8
+2025-06-19,^DAX,index,DAX,Germany,,23178.6,23254.8,23051.5,23057.3
+2025-06-20,^DAX,index,DAX,Germany,,23197.1,23481.9,23187.4,23350.5
+2025-06-23,^DAX,index,DAX,Germany,,23242.9,23385.6,23080.2,23269.0
+2025-06-24,^DAX,index,DAX,Germany,,23689.1,23812.7,23580.2,23641.5
+2025-06-25,^DAX,index,DAX,Germany,,23713.2,23713.2,23466.7,23498.3
+2025-06-26,^DAX,index,DAX,Germany,,23609.3,23710.5,23521.1,23649.3
+2025-06-27,^DAX,index,DAX,Germany,,23864.6,24040.5,23784.6,24033.2
+2025-06-30,^DAX,index,DAX,Germany,,24109.1,24120.8,23854.3,23909.6
+2025-07-01,^DAX,index,DAX,Germany,,23966.9,23978.3,23671.2,23673.2
+2025-07-02,^DAX,index,DAX,Germany,,23789.0,23824.5,23620.4,23790.1
+2025-07-03,^DAX,index,DAX,Germany,,23884.8,23944.1,23762.4,23934.1
+2025-07-04,^DAX,index,DAX,Germany,,23833.1,23868.9,23702.6,23787.4
+2025-07-07,^DAX,index,DAX,Germany,,23845.8,24073.6,23836.5,24073.6
+2025-07-08,^DAX,index,DAX,Germany,,24135.7,24244.0,24063.4,24206.9
+2025-07-09,^DAX,index,DAX,Germany,,24278.8,24609.1,24261.0,24549.5
+2025-07-10,^DAX,index,DAX,Germany,,24638.5,24639.1,24450.9,24456.8
+2025-07-11,^DAX,index,DAX,Germany,,24333.1,24369.0,24166.6,24255.3
+2025-07-14,^DAX,index,DAX,Germany,,24038.2,24168.1,23975.4,24160.6
+2025-07-15,^DAX,index,DAX,Germany,,24220.5,24266.8,24060.2,24060.2
+2025-07-16,^DAX,index,DAX,Germany,,24011.9,24207.8,23968.9,24009.3
+2025-07-17,^DAX,index,DAX,Germany,,24227.5,24374.5,24174.7,24370.9
+2025-07-18,^DAX,index,DAX,Germany,,24483.6,24494.8,24251.3,24289.5
+2025-07-21,^DAX,index,DAX,Germany,,24309.3,24335.2,24191.6,24307.8
+2025-07-22,^DAX,index,DAX,Germany,,24236.0,24237.4,23921.8,24041.9
+2025-07-23,^DAX,index,DAX,Germany,,24246.8,24310.9,24122.1,24240.8
+2025-07-24,^DAX,index,DAX,Germany,,24502.9,24514.9,24235.4,24295.9
+2025-07-25,^DAX,index,DAX,Germany,,24097.3,24252.5,24065.1,24217.5
+2025-07-28,^DAX,index,DAX,Germany,,24424.6,24444.4,23942.1,23970.3
+2025-07-29,^DAX,index,DAX,Germany,,24051.7,24310.0,24051.7,24217.3
+2025-07-30,^DAX,index,DAX,Germany,,24169.2,24302.7,24138.2,24262.2
+2025-07-31,^DAX,index,DAX,Germany,,24340.2,24433.4,24039.9,24065.4
+2025-08-01,^DAX,index,DAX,Germany,,23786.9,23802.7,23380.9,23425.9
+2025-08-04,^DAX,index,DAX,Germany,,23523.2,23783.7,23521.6,23757.6
+2025-08-05,^DAX,index,DAX,Germany,,23914.3,23979.5,23785.0,23846.0
+2025-08-06,^DAX,index,DAX,Germany,,23972.0,23996.8,23806.9,23924.3
+2025-08-07,^DAX,index,DAX,Germany,,23910.8,24392.0,23899.4,24192.5
+2025-08-08,^DAX,index,DAX,Germany,,24165.8,24268.8,24095.9,24162.8
+2025-08-11,^DAX,index,DAX,Germany,,24206.2,24219.0,24030.0,24081.3
+2025-08-12,^DAX,index,DAX,Germany,,24147.0,24156.2,23940.2,24024.7
+2025-08-13,^DAX,index,DAX,Germany,,24156.5,24247.3,24138.7,24185.5
+2025-08-14,^DAX,index,DAX,Germany,,24205.5,24409.3,24205.3,24377.5
+2025-08-15,^DAX,index,DAX,Germany,,24530.7,24536.1,24327.6,24359.3
+2025-08-18,^DAX,index,DAX,Germany,,24313.8,24336.7,24245.1,24314.7
+2025-08-19,^DAX,index,DAX,Germany,,24357.2,24441.0,24283.5,24423.0
+2025-08-20,^DAX,index,DAX,Germany,,24252.7,24369.8,24217.5,24276.9
+2025-08-21,^DAX,index,DAX,Germany,,24274.4,24306.0,24179.9,24293.3
+2025-08-22,^DAX,index,DAX,Germany,,24254.8,24444.4,24222.5,24363.0
+2025-08-25,^DAX,index,DAX,Germany,,24232.0,24377.3,24224.1,24273.1
+2025-08-26,^DAX,index,DAX,Germany,,24110.0,24263.1,24036.8,24152.8
+2025-08-27,^DAX,index,DAX,Germany,,24174.6,24198.3,23977.9,24046.2
+2025-08-28,^DAX,index,DAX,Germany,,24180.6,24206.5,23972.5,24039.9
+2025-08-29,^DAX,index,DAX,Germany,,23949.4,24063.5,23881.9,23902.2
+2025-09-01,^DAX,index,DAX,Germany,,24012.0,24046.8,23969.3,24037.3
+2025-09-02,^DAX,index,DAX,Germany,,23975.3,23990.8,23482.6,23487.3
+2025-09-03,^DAX,index,DAX,Germany,,23606.6,23705.9,23507.1,23594.8
+2025-09-04,^DAX,index,DAX,Germany,,23664.7,23800.1,23610.4,23770.3
+2025-09-05,^DAX,index,DAX,Germany,,23851.9,23854.6,23546.7,23596.9
+2025-09-08,^DAX,index,DAX,Germany,,23771.8,23830.1,23655.4,23807.1
+2025-09-09,^DAX,index,DAX,Germany,,23802.6,23859.5,23633.9,23718.4
+2025-09-10,^DAX,index,DAX,Germany,,23837.1,23883.5,23600.4,23632.9
+2025-09-11,^DAX,index,DAX,Germany,,23654.9,23787.1,23563.3,23703.6
+2025-09-12,^DAX,index,DAX,Germany,,23767.3,23793.0,23604.3,23698.1
+2025-09-15,^DAX,index,DAX,Germany,,23785.2,23855.3,23664.1,23748.8
+2025-09-16,^DAX,index,DAX,Germany,,23711.9,23717.6,23317.3,23329.2
+2025-09-17,^DAX,index,DAX,Germany,,23407.3,23476.7,23284.6,23359.1
+2025-09-18,^DAX,index,DAX,Germany,,23577.0,23690.4,23557.8,23674.5
+2025-09-19,^DAX,index,DAX,Germany,,23723.3,23785.2,23599.2,23639.4
+2025-09-22,^DAX,index,DAX,Germany,,23567.4,23589.2,23424.4,23527.0
+2025-09-23,^DAX,index,DAX,Germany,,23604.3,23723.2,23564.9,23611.3
+2025-09-24,^DAX,index,DAX,Germany,,23601.5,23736.6,23499.9,23666.8
+2025-09-25,^DAX,index,DAX,Germany,,23620.4,23629.3,23383.8,23534.8
+2025-09-26,^DAX,index,DAX,Germany,,23601.1,23756.0,23579.2,23739.4
+2025-09-29,^DAX,index,DAX,Germany,,23835.6,23835.6,23666.8,23745.0
+2025-09-30,^DAX,index,DAX,Germany,,23726.4,23887.7,23676.3,23880.7
+2025-10-01,^DAX,index,DAX,Germany,,23755.2,24162.2,23753.0,24113.6
+2025-10-02,^DAX,index,DAX,Germany,,24293.8,24502.3,24247.4,24422.5
+2025-10-03,^DAX,index,DAX,Germany,,24511.5,24524.1,24343.2,24378.8
+2025-10-06,^DAX,index,DAX,Germany,,24357.5,24482.9,24269.9,24378.2
+2025-10-07,^DAX,index,DAX,Germany,,24400.7,24452.9,24308.0,24385.7
+2025-10-08,^DAX,index,DAX,Germany,,24382.6,24630.9,24360.6,24597.1
+2025-10-09,^DAX,index,DAX,Germany,,24674.6,24771.3,24602.1,24611.2
+2025-10-10,^DAX,index,DAX,Germany,,24664.2,24690.7,24241.4,24241.4
+2025-10-13,^DAX,index,DAX,Germany,,24372.9,24448.7,24260.7,24387.9
+2025-10-14,^DAX,index,DAX,Germany,,24169.0,24242.8,23986.9,24236.9
+2025-10-15,^DAX,index,DAX,Germany,,24263.7,24339.2,24179.9,24181.3
+2025-10-16,^DAX,index,DAX,Germany,,24188.1,24283.5,24051.8,24272.1
+2025-10-17,^DAX,index,DAX,Germany,,23833.1,23987.7,23684.3,23830.9
+2025-10-20,^DAX,index,DAX,Germany,,24035.1,24296.3,24026.5,24258.8
+2025-10-21,^DAX,index,DAX,Germany,,24310.4,24384.2,24201.2,24330.0
+2025-10-22,^DAX,index,DAX,Germany,,24296.1,24342.1,24138.2,24151.1
+2025-10-23,^DAX,index,DAX,Germany,,24202.7,24222.8,24035.2,24207.7
+2025-10-24,^DAX,index,DAX,Germany,,24275.9,24275.9,24145.2,24239.8
+2025-10-27,^DAX,index,DAX,Germany,,24332.8,24348.5,24185.8,24308.7
+2025-10-28,^DAX,index,DAX,Germany,,24228.1,24339.9,24188.3,24278.6
+2025-10-29,^DAX,index,DAX,Germany,,24261.0,24322.9,24090.5,24124.2
+2025-10-30,^DAX,index,DAX,Germany,,24187.8,24215.3,24034.7,24118.8
+2025-10-31,^DAX,index,DAX,Germany,,24115.3,24119.6,23922.9,23958.3
+2025-11-03,^DAX,index,DAX,Germany,,23990.3,24248.6,23982.2,24132.4
+2025-11-04,^DAX,index,DAX,Germany,,23801.2,23974.3,23674.6,23949.1
+2025-11-05,^DAX,index,DAX,Germany,,23774.5,24103.5,23732.3,24049.7
+2025-11-06,^DAX,index,DAX,Germany,,23996.2,24058.7,23721.9,23734.0
+2025-11-07,^DAX,index,DAX,Germany,,23801.9,23837.1,23452.8,23569.9
+2025-11-10,^DAX,index,DAX,Germany,,23925.3,24022.6,23854.4,23959.9
+2025-11-11,^DAX,index,DAX,Germany,,23990.1,24108.4,23952.4,24088.0
+2025-11-12,^DAX,index,DAX,Germany,,24245.8,24441.2,24234.9,24381.4
+2025-11-13,^DAX,index,DAX,Germany,,24367.7,24416.3,24027.9,24041.6
+2025-11-14,^DAX,index,DAX,Germany,,23977.7,23992.1,23609.0,23876.5
+2025-11-17,^DAX,index,DAX,Germany,,23890.4,23928.4,23529.7,23590.5
+2025-11-18,^DAX,index,DAX,Germany,,23238.3,23358.7,23085.3,23180.5
+2025-11-19,^DAX,index,DAX,Germany,,23180.9,23379.3,23105.5,23162.9
+2025-11-20,^DAX,index,DAX,Germany,,23387.4,23512.4,23277.0,23278.8
+2025-11-21,^DAX,index,DAX,Germany,,22963.1,23256.2,22943.0,23091.8
+2025-11-24,^DAX,index,DAX,Germany,,23280.3,23392.2,23149.7,23239.1
+2025-11-25,^DAX,index,DAX,Germany,,23254.4,23487.2,23139.2,23464.6
+2025-11-26,^DAX,index,DAX,Germany,,23585.2,23727.2,23445.2,23726.2
+2025-11-27,^DAX,index,DAX,Germany,,23732.8,23830.9,23708.4,23767.9
+2025-11-28,^DAX,index,DAX,Germany,,23780.7,23883.9,23720.5,23836.7
+2025-12-01,^DAX,index,DAX,Germany,,23731.2,23734.2,23433.4,23589.4
+2025-12-02,^DAX,index,DAX,Germany,,23637.4,23792.0,23607.7,23710.8
+2025-12-03,^DAX,index,DAX,Germany,,23788.8,23838.0,23646.4,23693.7
+2025-12-04,^DAX,index,DAX,Germany,,23836.2,23930.5,23797.7,23882.0
+2025-12-05,^DAX,index,DAX,Germany,,23942.7,24130.9,23929.2,24028.1
+2025-12-08,^DAX,index,DAX,Germany,,24015.9,24116.9,23985.2,24046.0
+2025-12-09,^DAX,index,DAX,Germany,,24094.9,24186.9,24092.5,24162.6
+2025-12-10,^DAX,index,DAX,Germany,,24131.3,24168.7,24001.4,24130.1
+2025-12-11,^DAX,index,DAX,Germany,,24055.1,24364.0,24007.9,24294.6
+2025-12-12,^DAX,index,DAX,Germany,,24368.9,24474.6,24173.2,24186.4
+2025-12-15,^DAX,index,DAX,Germany,,24297.6,24318.3,24170.4,24229.9
+2025-12-16,^DAX,index,DAX,Germany,,24124.1,24191.6,24011.8,24076.8
+2025-12-17,^DAX,index,DAX,Germany,,24159.6,24185.4,23949.1,23960.5
+2025-12-18,^DAX,index,DAX,Germany,,23947.0,24215.9,23923.9,24199.5
+2025-12-19,^DAX,index,DAX,Germany,,24196.1,24305.8,24153.2,24288.4
+2025-12-22,^DAX,index,DAX,Germany,,24291.8,24356.1,24203.3,24283.9
+2025-12-23,^DAX,index,DAX,Germany,,24297.6,24362.0,24257.4,24340.0
+2025-12-29,^DAX,index,DAX,Germany,,24370.9,24389.1,24253.7,24351.1
+2025-12-30,^DAX,index,DAX,Germany,,24343.1,24527.9,24328.4,24490.4
+2026-01-02,^DAX,index,DAX,Germany,,24499.5,24676.7,24448.9,24539.3
+2026-01-05,^DAX,index,DAX,Germany,,24681.3,24872.9,24639.6,24868.6
+2026-01-06,^DAX,index,DAX,Germany,,24904.6,24969.1,24836.3,24892.2
+2026-01-07,^DAX,index,DAX,Germany,,24995.0,25122.4,24982.6,25122.2
+2026-01-08,^DAX,index,DAX,Germany,,25128.4,25217.5,25024.6,25127.4
+2026-01-09,^DAX,index,DAX,Germany,,25124.0,25281.1,25107.9,25261.6
+2026-01-12,^DAX,index,DAX,Germany,,25248.3,25421.4,25236.8,25405.3
+2026-01-13,^DAX,index,DAX,Germany,,25408.3,25507.7,25338.3,25420.6
+2026-01-14,^DAX,index,DAX,Germany,,25429.7,25461.3,25268.2,25286.2
+2026-01-15,^DAX,index,DAX,Germany,,25275.8,25378.5,25233.3,25352.3
+2026-01-16,^DAX,index,DAX,Germany,,25336.0,25354.1,25198.5,25297.1
+2026-01-19,^DAX,index,DAX,Germany,,24940.4,25070.6,24911.5,24959.0
+2026-01-20,^DAX,index,DAX,Germany,,24747.3,24758.3,24507.1,24703.1
+2026-01-21,^DAX,index,DAX,Germany,,24636.5,24656.7,24349.5,24560.9
+2026-01-22,^DAX,index,DAX,Germany,,24877.6,24937.0,24772.5,24856.4
+2026-01-23,^DAX,index,DAX,Germany,,24819.9,24930.1,24796.9,24900.7
+2026-01-26,^DAX,index,DAX,Germany,,24890.3,24985.1,24790.7,24933.0
+2026-01-27,^DAX,index,DAX,Germany,,25008.0,25020.2,24848.5,24894.4
+2026-01-28,^DAX,index,DAX,Germany,,24878.2,24926.0,24707.1,24822.7
+2026-01-29,^DAX,index,DAX,Germany,,24697.3,24758.7,24266.3,24309.4
+2026-01-30,^DAX,index,DAX,Germany,,24376.1,24585.4,24366.3,24538.8
+2026-02-02,^DAX,index,DAX,Germany,,24392.0,24851.7,24384.2,24797.5
+2026-02-03,^DAX,index,DAX,Germany,,24956.7,25098.7,24703.6,24780.7
+2026-02-04,^DAX,index,DAX,Germany,,24845.5,24877.9,24602.8,24603.0
+2026-02-05,^DAX,index,DAX,Germany,,24607.4,24663.8,24272.6,24491.0
+2026-02-06,^DAX,index,DAX,Germany,,24452.1,24737.9,24393.1,24721.4
+2026-02-09,^DAX,index,DAX,Germany,,24860.6,25016.0,24714.8,25014.8
+2026-02-10,^DAX,index,DAX,Germany,,24960.5,25075.7,24935.3,24987.8
+2026-02-11,^DAX,index,DAX,Germany,,24956.4,25001.5,24834.7,24856.1
+2026-02-12,^DAX,index,DAX,Germany,,25060.8,25239.0,24813.2,24852.6
+2026-02-13,^DAX,index,DAX,Germany,,24822.3,24953.1,24750.4,24914.8
+2026-02-16,^DAX,index,DAX,Germany,,24988.6,25020.8,24793.5,24800.9
+2026-02-17,^DAX,index,DAX,Germany,,24796.8,25020.6,24734.0,24998.4
+2026-02-18,^DAX,index,DAX,Germany,,25127.1,25315.0,25100.9,25278.2
+2026-02-19,^DAX,index,DAX,Germany,,25198.3,25228.9,24983.8,25043.5
+2026-02-20,^DAX,index,DAX,Germany,,25070.0,25331.0,25004.8,25260.6
+2026-02-23,^DAX,index,DAX,Germany,,25114.3,25194.9,24937.5,24991.9
+2026-02-24,^DAX,index,DAX,Germany,,24952.1,25091.9,24878.1,24986.2
+2026-02-25,^DAX,index,DAX,Germany,,25051.8,25184.4,24988.6,25175.9
+2026-02-26,^DAX,index,DAX,Germany,,25095.8,25318.9,25088.4,25289.0
+2026-02-27,^DAX,index,DAX,Germany,,25294.3,25405.9,25188.3,25284.2
+2026-03-02,^DAX,index,DAX,Germany,,24695.4,24897.6,24577.4,24638.0
+2026-03-03,^DAX,index,DAX,Germany,,24207.4,24239.5,23601.1,23790.6
+2026-03-04,^DAX,index,DAX,Germany,,23901.3,24242.4,23814.8,24205.3
+2026-03-05,^DAX,index,DAX,Germany,,24145.4,24366.8,23754.6,23815.7
+2026-03-06,^DAX,index,DAX,Germany,,23942.8,24028.4,23342.8,23591.0
+2026-03-09,^DAX,index,DAX,Germany,,22998.9,23470.8,22927.5,23409.3
+2026-03-10,^DAX,index,DAX,Germany,,23886.3,24061.1,23765.2,23968.6
+2026-03-11,^DAX,index,DAX,Germany,,23725.2,23824.7,23533.7,23640.0
+2026-03-12,^DAX,index,DAX,Germany,,23577.8,23703.5,23368.0,23589.6
+2026-03-13,^DAX,index,DAX,Germany,,23381.9,23762.1,23293.5,23447.2
+2026-03-16,^DAX,index,DAX,Germany,,23480.5,23699.5,23334.9,23564.0
+2026-03-17,^DAX,index,DAX,Germany,,23500.3,23820.5,23464.8,23730.9
+2026-03-18,^DAX,index,DAX,Germany,,23837.2,23957.1,23449.5,23502.2
+2026-03-19,^DAX,index,DAX,Germany,,23160.5,23180.1,22759.4,22839.5
+2026-03-20,^DAX,index,DAX,Germany,,23083.8,23176.1,22369.4,22380.1
+2026-03-23,^DAX,index,DAX,Germany,,21946.9,23178.7,21863.8,22653.8
+2026-03-24,^DAX,index,DAX,Germany,,22677.0,22730.8,22350.3,22636.9
+2026-03-25,^DAX,index,DAX,Germany,,22961.8,23079.3,22815.7,22957.0
+2026-03-26,^DAX,index,DAX,Germany,,22740.7,22813.4,22557.1,22612.9
+2026-03-27,^DAX,index,DAX,Germany,,22612.9,22631.7,22215.8,22300.7
+2026-03-30,^DAX,index,DAX,Germany,,22213.8,22562.8,22209.4,22562.8
+2026-03-31,^DAX,index,DAX,Germany,,22578.8,22850.7,22491.5,22680.0
+2026-04-01,^DAX,index,DAX,Germany,,23326.8,23377.6,23027.0,23298.8
+2026-04-02,^DAX,index,DAX,Germany,,22935.2,23235.1,22677.9,23168.0
 2026-04-07,^DAX,index,DAX,Germany,,23181.6,23397.8,22842.1,22921.5
 2026-04-08,^DAX,index,DAX,Germany,,24021.8,24163.9,23875.7,24080.6
 2026-04-09,^DAX,index,DAX,Germany,,23981.2,23989.0,23673.1,23806.9
@@ -945,6 +1833,256 @@
 2026-09-21,^KOSPI,index,KOSPI,South Korea,,6938.34,7027.58,6938.34,7007.72
 2026-09-22,^KOSPI,index,KOSPI,South Korea,,7161.61,7171.44,6986.27,7017.91
 2026-09-23,^KOSPI,index,KOSPI,South Korea,,7153.99,7153.99,7014.98,7080.92
+2025-01-02,^NDX,index,NASDAQ-100,United States,,21120.05,21236.59,20800.5,20975.62
+2025-01-03,^NDX,index,NASDAQ-100,United States,,21096.79,21359.63,21075.89,21326.16
+2025-01-06,^NDX,index,NASDAQ-100,United States,,21551.18,21703.49,21462.52,21559.5
+2025-01-07,^NDX,index,NASDAQ-100,United States,,21619.89,21621.25,21101.09,21173.04
+2025-01-08,^NDX,index,NASDAQ-100,United States,,21156.76,21242.61,20992.09,21180.96
+2025-01-10,^NDX,index,NASDAQ-100,United States,,21012.29,21015.51,20718.78,20847.58
+2025-01-13,^NDX,index,NASDAQ-100,United States,,20593.65,20797.1,20538.33,20784.72
+2025-01-14,^NDX,index,NASDAQ-100,United States,,20896.36,20969.52,20622.72,20757.41
+2025-01-15,^NDX,index,NASDAQ-100,United States,,21067.8,21286.01,21024.27,21237.85
+2025-01-16,^NDX,index,NASDAQ-100,United States,,21324.97,21330.59,21087.85,21091.25
+2025-01-17,^NDX,index,NASDAQ-100,United States,,21461.9,21515.76,21334.63,21441.15
+2025-01-21,^NDX,index,NASDAQ-100,United States,,21557.82,21620.23,21379.06,21566.51
+2025-01-22,^NDX,index,NASDAQ-100,United States,,21756.23,21943.04,21756.23,21853.0
+2025-01-23,^NDX,index,NASDAQ-100,United States,,21737.24,21900.93,21722.04,21900.93
+2025-01-24,^NDX,index,NASDAQ-100,United States,,21915.48,21945.48,21709.06,21774.01
+2025-01-27,^NDX,index,NASDAQ-100,United States,,21000.17,21292.54,20974.9,21127.28
+2025-01-28,^NDX,index,NASDAQ-100,United States,,21186.08,21500.73,21043.13,21463.04
+2025-01-29,^NDX,index,NASDAQ-100,United States,,21473.02,21477.88,21251.8,21411.46
+2025-01-30,^NDX,index,NASDAQ-100,United States,,21519.81,21623.45,21308.69,21508.12
+2025-01-31,^NDX,index,NASDAQ-100,United States,,21661.56,21846.01,21425.79,21478.05
+2025-02-03,^NDX,index,NASDAQ-100,United States,,21084.64,21406.58,21004.35,21297.58
+2025-02-04,^NDX,index,NASDAQ-100,United States,,21319.58,21582.4,21308.24,21566.92
+2025-02-05,^NDX,index,NASDAQ-100,United States,,21453.87,21662.98,21408.64,21658.16
+2025-02-06,^NDX,index,NASDAQ-100,United States,,21674.17,21776.08,21618.25,21774.06
+2025-02-07,^NDX,index,NASDAQ-100,United States,,21776.28,21869.32,21465.46,21491.31
+2025-02-10,^NDX,index,NASDAQ-100,United States,,21670.06,21793.13,21645.17,21756.73
+2025-02-11,^NDX,index,NASDAQ-100,United States,,21629.11,21776.25,21625.51,21693.52
+2025-02-12,^NDX,index,NASDAQ-100,United States,,21475.41,21745.66,21454.19,21719.26
+2025-02-13,^NDX,index,NASDAQ-100,United States,,21786.16,22038.15,21758.04,22030.71
+2025-02-14,^NDX,index,NASDAQ-100,United States,,22038.61,22139.43,22010.35,22114.69
+2025-02-18,^NDX,index,NASDAQ-100,United States,,22176.02,22191.37,22029.58,22164.61
+2025-02-19,^NDX,index,NASDAQ-100,United States,,22121.73,22222.61,22045.75,22175.6
+2025-02-20,^NDX,index,NASDAQ-100,United States,,22132.71,22148.44,21878.75,22068.06
+2025-02-21,^NDX,index,NASDAQ-100,United States,,22110.54,22115.21,21597.16,21614.08
+2025-02-24,^NDX,index,NASDAQ-100,United States,,21669.36,21727.58,21341.96,21352.08
+2025-02-25,^NDX,index,NASDAQ-100,United States,,21318.77,21326.81,20930.58,21087.25
+2025-02-26,^NDX,index,NASDAQ-100,United States,,21170.51,21350.52,21012.62,21132.92
+2025-02-27,^NDX,index,NASDAQ-100,United States,,21281.36,21323.91,20540.68,20550.95
+2025-02-28,^NDX,index,NASDAQ-100,United States,,20518.65,20900.77,20407.45,20884.41
+2025-03-03,^NDX,index,NASDAQ-100,United States,,20989.58,21073.8,20279.5,20425.58
+2025-03-04,^NDX,index,NASDAQ-100,United States,,20281.89,20688.46,20034.68,20352.53
+2025-03-05,^NDX,index,NASDAQ-100,United States,,20363.22,20688.72,20182.57,20628.46
+2025-03-06,^NDX,index,NASDAQ-100,United States,,20231.74,20473.4,19968.56,20052.63
+2025-03-07,^NDX,index,NASDAQ-100,United States,,20015.62,20253.22,19736.81,20201.37
+2025-03-10,^NDX,index,NASDAQ-100,United States,,19826.96,19867.08,19243.31,19430.95
+2025-03-11,^NDX,index,NASDAQ-100,United States,,19405.52,19659.43,19180.56,19376.96
+2025-03-12,^NDX,index,NASDAQ-100,United States,,19663.39,19756.09,19375.25,19596.02
+2025-03-13,^NDX,index,NASDAQ-100,United States,,19534.37,19558.56,19152.57,19225.48
+2025-03-14,^NDX,index,NASDAQ-100,United States,,19458.89,19729.21,19436.04,19704.63
+2025-03-17,^NDX,index,NASDAQ-100,United States,,19670.69,19943.81,19622.47,19812.24
+2025-03-18,^NDX,index,NASDAQ-100,United States,,19657.1,19676.05,19397.07,19483.36
+2025-03-19,^NDX,index,NASDAQ-100,United States,,19576.32,19921.62,19497.79,19736.66
+2025-03-20,^NDX,index,NASDAQ-100,United States,,19558.28,19888.85,19549.31,19677.61
+2025-03-21,^NDX,index,NASDAQ-100,United States,,19466.44,19767.98,19409.18,19753.97
+2025-03-24,^NDX,index,NASDAQ-100,United States,,20041.21,20208.84,20024.97,20180.45
+2025-03-25,^NDX,index,NASDAQ-100,United States,,20196.5,20292.2,20164.07,20287.83
+2025-03-26,^NDX,index,NASDAQ-100,United States,,20239.05,20270.19,19848.5,19916.99
+2025-03-27,^NDX,index,NASDAQ-100,United States,,19814.61,20003.36,19740.22,19798.62
+2025-03-28,^NDX,index,NASDAQ-100,United States,,19718.46,19752.45,19241.54,19281.4
+2025-03-31,^NDX,index,NASDAQ-100,United States,,18998.54,19316.07,18799.2,19278.45
+2025-04-01,^NDX,index,NASDAQ-100,United States,,19192.77,19468.63,19095.17,19436.42
+2025-04-02,^NDX,index,NASDAQ-100,United States,,19182.39,19707.34,19157.2,19581.78
+2025-04-03,^NDX,index,NASDAQ-100,United States,,18774.15,18902.07,18502.97,18521.47
+2025-04-04,^NDX,index,NASDAQ-100,United States,,18022.16,18089.25,17387.83,17397.7
+2025-04-07,^NDX,index,NASDAQ-100,United States,,16771.77,18191.5,16542.2,17430.68
+2025-04-08,^NDX,index,NASDAQ-100,United States,,18034.46,18207.01,16850.18,17090.4
+2025-04-09,^NDX,index,NASDAQ-100,United States,,17116.53,19234.02,17082.36,19145.06
+2025-04-10,^NDX,index,NASDAQ-100,United States,,18626.11,18710.58,17794.5,18343.57
+2025-04-11,^NDX,index,NASDAQ-100,United States,,18309.29,18728.95,18153.32,18690.05
+2025-04-14,^NDX,index,NASDAQ-100,United States,,19095.49,19115.15,18614.75,18796.02
+2025-04-15,^NDX,index,NASDAQ-100,United States,,18831.98,19004.18,18754.87,18830.23
+2025-04-16,^NDX,index,NASDAQ-100,United States,,18475.76,18597.32,17995.96,18257.64
+2025-04-17,^NDX,index,NASDAQ-100,United States,,18369.9,18401.05,18144.46,18258.09
+2025-04-21,^NDX,index,NASDAQ-100,United States,,18023.01,18043.08,17592.92,17808.3
+2025-04-22,^NDX,index,NASDAQ-100,United States,,18033.9,18396.39,17993.24,18276.41
+2025-04-23,^NDX,index,NASDAQ-100,United States,,18870.63,19043.01,18618.89,18693.26
+2025-04-24,^NDX,index,NASDAQ-100,United States,,18756.53,19224.8,18744.47,19214.4
+2025-04-25,^NDX,index,NASDAQ-100,United States,,19209.72,19447.56,19133.23,19432.56
+2025-04-28,^NDX,index,NASDAQ-100,United States,,19432.72,19519.33,19162.46,19427.29
+2025-04-29,^NDX,index,NASDAQ-100,United States,,19315.96,19582.77,19304.83,19544.95
+2025-04-30,^NDX,index,NASDAQ-100,United States,,19168.09,19612.77,19011.98,19571.02
+2025-05-01,^NDX,index,NASDAQ-100,United States,,19866.83,20024.48,19763.14,19786.71
+2025-05-02,^NDX,index,NASDAQ-100,United States,,19986.61,20176.6,19936.67,20102.61
+2025-05-05,^NDX,index,NASDAQ-100,United States,,19928.82,20100.61,19899.28,19967.94
+2025-05-06,^NDX,index,NASDAQ-100,United States,,19709.64,19927.23,19659.32,19791.35
+2025-05-07,^NDX,index,NASDAQ-100,United States,,19804.5,19960.86,19605.07,19867.97
+2025-05-08,^NDX,index,NASDAQ-100,United States,,20067.43,20249.76,19907.67,20063.56
+2025-05-09,^NDX,index,NASDAQ-100,United States,,20170.37,20203.58,19984.53,20061.45
+2025-05-12,^NDX,index,NASDAQ-100,United States,,20818.78,20870.13,20613.27,20868.15
+2025-05-13,^NDX,index,NASDAQ-100,United States,,20906.92,21259.39,20891.18,21197.7
+2025-05-14,^NDX,index,NASDAQ-100,United States,,21254.47,21336.48,21199.86,21319.21
+2025-05-15,^NDX,index,NASDAQ-100,United States,,21206.73,21443.88,21168.17,21335.82
+2025-05-16,^NDX,index,NASDAQ-100,United States,,21375.63,21428.79,21246.42,21427.94
+2025-05-19,^NDX,index,NASDAQ-100,United States,,21138.13,21464.56,21138.13,21447.05
+2025-05-20,^NDX,index,NASDAQ-100,United States,,21347.63,21399.99,21226.66,21367.37
+2025-05-21,^NDX,index,NASDAQ-100,United States,,21217.3,21482.98,21002.09,21080.36
+2025-05-22,^NDX,index,NASDAQ-100,United States,,21097.46,21263.18,21046.22,21112.47
+2025-05-23,^NDX,index,NASDAQ-100,United States,,20806.37,21025.58,20777.97,20915.65
+2025-05-27,^NDX,index,NASDAQ-100,United States,,21201.45,21429.32,21145.13,21414.99
+2025-05-28,^NDX,index,NASDAQ-100,United States,,21451.69,21508.08,21296.51,21318.17
+2025-05-29,^NDX,index,NASDAQ-100,United States,,21611.54,21611.54,21260.72,21363.95
+2025-05-30,^NDX,index,NASDAQ-100,United States,,21330.85,21386.29,21032.56,21340.99
+2025-06-02,^NDX,index,NASDAQ-100,United States,,21270.57,21500.36,21199.37,21491.75
+2025-06-03,^NDX,index,NASDAQ-100,United States,,21529.98,21715.96,21474.51,21662.58
+2025-06-04,^NDX,index,NASDAQ-100,United States,,21689.02,21761.37,21607.33,21721.92
+2025-06-05,^NDX,index,NASDAQ-100,United States,,21782.34,21891.89,21472.77,21547.43
+2025-06-06,^NDX,index,NASDAQ-100,United States,,21777.5,21836.57,21696.69,21761.79
+2025-06-09,^NDX,index,NASDAQ-100,United States,,21779.18,21855.15,21729.3,21797.87
+2025-06-10,^NDX,index,NASDAQ-100,United States,,21819.79,21961.42,21727.34,21941.92
+2025-06-11,^NDX,index,NASDAQ-100,United States,,21994.16,22041.83,21775.27,21860.8
+2025-06-12,^NDX,index,NASDAQ-100,United States,,21826.79,21952.0,21807.0,21913.32
+2025-06-13,^NDX,index,NASDAQ-100,United States,,21675.94,21838.47,21591.11,21631.04
+2025-06-16,^NDX,index,NASDAQ-100,United States,,21783.08,21979.77,21783.08,21937.57
+2025-06-17,^NDX,index,NASDAQ-100,United States,,21858.89,21896.42,21680.18,21719.08
+2025-06-18,^NDX,index,NASDAQ-100,United States,,21745.5,21863.0,21660.52,21719.69
+2025-06-20,^NDX,index,NASDAQ-100,United States,,21834.49,21902.98,21552.8,21626.39
+2025-06-23,^NDX,index,NASDAQ-100,United States,,21632.78,21871.87,21532.32,21856.33
+2025-06-24,^NDX,index,NASDAQ-100,United States,,22053.33,22220.64,22045.63,22190.52
+2025-06-25,^NDX,index,NASDAQ-100,United States,,22279.69,22329.23,22175.08,22237.74
+2025-06-26,^NDX,index,NASDAQ-100,United States,,22328.24,22466.99,22255.27,22447.29
+2025-06-27,^NDX,index,NASDAQ-100,United States,,22484.87,22603.22,22382.79,22534.2
+2025-06-30,^NDX,index,NASDAQ-100,United States,,22632.92,22721.5,22565.11,22679.01
+2025-07-01,^NDX,index,NASDAQ-100,United States,,22594.47,22631.26,22388.09,22478.14
+2025-07-02,^NDX,index,NASDAQ-100,United States,,22451.81,22644.72,22448.07,22641.89
+2025-07-03,^NDX,index,NASDAQ-100,United States,,22751.64,22896.01,22736.08,22866.97
+2025-07-07,^NDX,index,NASDAQ-100,United States,,22754.38,22776.21,22587.47,22685.57
+2025-07-08,^NDX,index,NASDAQ-100,United States,,22735.26,22761.8,22652.44,22702.25
+2025-07-09,^NDX,index,NASDAQ-100,United States,,22800.36,22915.33,22733.65,22864.91
+2025-07-10,^NDX,index,NASDAQ-100,United States,,22890.43,22907.05,22716.41,22829.26
+2025-07-11,^NDX,index,NASDAQ-100,United States,,22757.99,22837.38,22692.8,22780.6
+2025-07-14,^NDX,index,NASDAQ-100,United States,,22780.19,22886.94,22675.28,22855.63
+2025-07-15,^NDX,index,NASDAQ-100,United States,,23036.87,23051.87,22876.47,22884.59
+2025-07-16,^NDX,index,NASDAQ-100,United States,,22895.3,22928.55,22669.37,22907.97
+2025-07-17,^NDX,index,NASDAQ-100,United States,,22931.02,23104.72,22905.51,23081.05
+2025-07-18,^NDX,index,NASDAQ-100,United States,,23135.09,23153.21,23018.36,23065.47
+2025-07-21,^NDX,index,NASDAQ-100,United States,,23124.97,23264.45,23122.93,23180.06
+2025-07-22,^NDX,index,NASDAQ-100,United States,,23182.02,23186.36,22953.85,23063.58
+2025-07-23,^NDX,index,NASDAQ-100,United States,,23100.25,23168.49,23000.46,23162.41
+2025-07-24,^NDX,index,NASDAQ-100,United States,,23228.79,23268.49,23150.27,23219.87
+2025-07-25,^NDX,index,NASDAQ-100,United States,,23204.66,23326.3,23193.99,23272.25
+2025-07-28,^NDX,index,NASDAQ-100,United States,,23343.13,23386.76,23299.82,23356.27
+2025-07-29,^NDX,index,NASDAQ-100,United States,,23477.84,23510.92,23283.4,23308.3
+2025-07-30,^NDX,index,NASDAQ-100,United States,,23337.33,23447.15,23226.92,23345.41
+2025-07-31,^NDX,index,NASDAQ-100,United States,,23589.37,23589.37,23176.13,23218.12
+2025-08-01,^NDX,index,NASDAQ-100,United States,,22941.06,22972.47,22673.88,22763.31
+2025-08-04,^NDX,index,NASDAQ-100,United States,,22986.77,23191.05,22973.6,23188.61
+2025-08-05,^NDX,index,NASDAQ-100,United States,,23235.32,23286.05,23008.14,23018.56
+2025-08-06,^NDX,index,NASDAQ-100,United States,,23070.95,23330.49,23042.27,23315.04
+2025-08-07,^NDX,index,NASDAQ-100,United States,,23483.42,23560.73,23225.72,23389.53
+2025-08-08,^NDX,index,NASDAQ-100,United States,,23458.13,23619.24,23437.61,23611.27
+2025-08-11,^NDX,index,NASDAQ-100,United States,,23629.02,23698.0,23484.25,23526.63
+2025-08-12,^NDX,index,NASDAQ-100,United States,,23651.61,23849.5,23524.28,23839.2
+2025-08-13,^NDX,index,NASDAQ-100,United States,,23935.06,23969.28,23789.12,23849.04
+2025-08-14,^NDX,index,NASDAQ-100,United States,,23775.01,23908.26,23748.98,23832.44
+2025-08-15,^NDX,index,NASDAQ-100,United States,,23809.0,23813.99,23651.21,23712.07
+2025-08-18,^NDX,index,NASDAQ-100,United States,,23692.13,23733.5,23637.41,23713.76
+2025-08-19,^NDX,index,NASDAQ-100,United States,,23689.02,23695.64,23346.34,23384.77
+2025-08-20,^NDX,index,NASDAQ-100,United States,,23343.41,23343.41,22959.7,23249.57
+2025-08-21,^NDX,index,NASDAQ-100,United States,,23182.76,23264.27,23046.39,23142.58
+2025-08-22,^NDX,index,NASDAQ-100,United States,,23184.99,23575.36,23140.04,23498.12
+2025-08-25,^NDX,index,NASDAQ-100,United States,,23454.28,23546.45,23382.2,23425.61
+2025-08-26,^NDX,index,NASDAQ-100,United States,,23420.85,23532.51,23369.04,23525.29
+2025-08-27,^NDX,index,NASDAQ-100,United States,,23499.67,23591.05,23434.31,23565.85
+2025-08-28,^NDX,index,NASDAQ-100,United States,,23601.35,23741.23,23514.7,23703.45
+2025-08-29,^NDX,index,NASDAQ-100,United States,,23607.54,23607.54,23353.96,23415.42
+2025-09-02,^NDX,index,NASDAQ-100,United States,,23020.47,23242.28,22977.89,23231.11
+2025-09-03,^NDX,index,NASDAQ-100,United States,,23388.28,23478.01,23279.12,23414.84
+2025-09-04,^NDX,index,NASDAQ-100,United States,,23442.19,23639.04,23371.33,23633.01
+2025-09-05,^NDX,index,NASDAQ-100,United States,,23841.98,23860.25,23475.33,23652.44
+2025-09-08,^NDX,index,NASDAQ-100,United States,,23759.63,23851.81,23725.04,23762.3
+2025-09-09,^NDX,index,NASDAQ-100,United States,,23824.33,23852.42,23698.0,23839.8
+2025-09-10,^NDX,index,NASDAQ-100,United States,,23931.32,23958.54,23760.1,23849.27
+2025-09-11,^NDX,index,NASDAQ-100,United States,,23956.57,24016.53,23883.01,23992.56
+2025-09-12,^NDX,index,NASDAQ-100,United States,,24030.77,24137.06,23983.63,24092.19
+2025-09-15,^NDX,index,NASDAQ-100,United States,,24178.61,24297.34,24173.14,24293.78
+2025-09-16,^NDX,index,NASDAQ-100,United States,,24342.75,24343.36,24244.21,24274.25
+2025-09-17,^NDX,index,NASDAQ-100,United States,,24286.43,24292.06,23999.75,24223.69
+2025-09-18,^NDX,index,NASDAQ-100,United States,,24421.21,24554.52,24347.54,24454.89
+2025-09-19,^NDX,index,NASDAQ-100,United States,,24528.44,24641.93,24469.28,24626.25
+2025-09-22,^NDX,index,NASDAQ-100,United States,,24588.18,24781.73,24578.09,24761.07
+2025-09-23,^NDX,index,NASDAQ-100,United States,,24752.74,24764.3,24536.5,24580.17
+2025-09-24,^NDX,index,NASDAQ-100,United States,,24648.97,24650.42,24388.59,24503.57
+2025-09-25,^NDX,index,NASDAQ-100,United States,,24321.73,24460.66,24186.37,24397.31
+2025-09-26,^NDX,index,NASDAQ-100,United States,,24410.95,24510.37,24297.7,24503.85
+2025-09-29,^NDX,index,NASDAQ-100,United States,,24629.02,24741.77,24560.22,24611.35
+2025-09-30,^NDX,index,NASDAQ-100,United States,,24597.4,24691.23,24505.14,24679.99
+2025-10-01,^NDX,index,NASDAQ-100,United States,,24539.25,24816.68,24517.76,24800.86
+2025-10-02,^NDX,index,NASDAQ-100,United States,,24933.49,24944.75,24780.11,24892.76
+2025-10-03,^NDX,index,NASDAQ-100,United States,,24931.42,24958.26,24713.58,24785.52
+2025-10-06,^NDX,index,NASDAQ-100,United States,,24986.26,25044.26,24907.6,24978.56
+2025-10-07,^NDX,index,NASDAQ-100,United States,,25031.78,25062.96,24783.95,24840.23
+2025-10-08,^NDX,index,NASDAQ-100,United States,,24887.32,25142.19,24882.35,25136.62
+2025-10-09,^NDX,index,NASDAQ-100,United States,,25124.79,25139.35,24966.81,25098.18
+2025-10-10,^NDX,index,NASDAQ-100,United States,,25116.83,25195.28,24207.15,24221.75
+2025-10-13,^NDX,index,NASDAQ-100,United States,,24625.74,24779.65,24540.42,24750.25
+2025-10-14,^NDX,index,NASDAQ-100,United States,,24442.93,24766.37,24256.28,24579.32
+2025-10-15,^NDX,index,NASDAQ-100,United States,,24807.34,24933.23,24496.07,24745.36
+2025-10-16,^NDX,index,NASDAQ-100,United States,,24882.22,24998.3,24481.17,24657.24
+2025-10-17,^NDX,index,NASDAQ-100,United States,,24600.54,24881.47,24511.59,24817.95
+2025-10-20,^NDX,index,NASDAQ-100,United States,,24991.1,25183.81,24988.67,25141.02
+2025-10-21,^NDX,index,NASDAQ-100,United States,,25139.8,25178.23,25043.06,25127.13
+2025-10-22,^NDX,index,NASDAQ-100,United States,,25093.64,25127.06,24652.11,24879.01
+2025-10-23,^NDX,index,NASDAQ-100,United States,,24869.6,25126.78,24856.34,25097.42
+2025-10-24,^NDX,index,NASDAQ-100,United States,,25307.75,25418.64,25288.71,25358.16
+2025-10-27,^NDX,index,NASDAQ-100,United States,,25701.95,25839.03,25656.38,25821.55
+2025-10-28,^NDX,index,NASDAQ-100,United States,,25932.64,26087.48,25864.49,26012.16
+2025-10-29,^NDX,index,NASDAQ-100,United States,,26147.72,26182.1,25907.45,26119.85
+2025-10-30,^NDX,index,NASDAQ-100,United States,,25953.78,26031.68,25732.39,25734.81
+2025-10-31,^NDX,index,NASDAQ-100,United States,,26055.97,26063.49,25761.28,25858.13
+2025-11-03,^NDX,index,NASDAQ-100,United States,,26114.11,26132.87,25887.88,25972.94
+2025-11-04,^NDX,index,NASDAQ-100,United States,,25580.34,25762.23,25415.62,25435.7
+2025-11-05,^NDX,index,NASDAQ-100,United States,,25433.22,25750.88,25364.9,25620.03
+2025-11-06,^NDX,index,NASDAQ-100,United States,,25568.24,25568.24,25083.24,25130.04
+2025-11-07,^NDX,index,NASDAQ-100,United States,,24977.73,25065.14,24603.78,25059.81
+2025-11-10,^NDX,index,NASDAQ-100,United States,,25418.17,25655.51,25354.44,25611.74
+2025-11-11,^NDX,index,NASDAQ-100,United States,,25500.93,25588.26,25380.86,25533.49
+2025-11-12,^NDX,index,NASDAQ-100,United States,,25662.19,25663.17,25389.73,25517.33
+2025-11-13,^NDX,index,NASDAQ-100,United States,,25386.95,25396.01,24908.6,24993.46
+2025-11-14,^NDX,index,NASDAQ-100,United States,,24658.55,25198.93,24534.9,25008.24
+2025-11-17,^NDX,index,NASDAQ-100,United States,,24890.1,25166.15,24649.36,24799.92
+2025-11-18,^NDX,index,NASDAQ-100,United States,,24651.78,24735.13,24299.29,24503.1
+2025-11-19,^NDX,index,NASDAQ-100,United States,,24517.27,24904.66,24432.19,24640.52
+2025-11-20,^NDX,index,NASDAQ-100,United States,,25131.49,25222.95,24021.44,24054.38
+2025-11-21,^NDX,index,NASDAQ-100,United States,,24137.66,24521.84,23854.03,24239.57
+2025-11-24,^NDX,index,NASDAQ-100,United States,,24462.87,24923.59,24455.65,24873.85
+2025-11-25,^NDX,index,NASDAQ-100,United States,,24790.07,25069.54,24542.71,25018.36
+2025-11-26,^NDX,index,NASDAQ-100,United States,,25168.31,25309.15,25077.86,25236.94
+2025-11-28,^NDX,index,NASDAQ-100,United States,,25310.29,25435.77,25280.96,25434.89
+2025-12-01,^NDX,index,NASDAQ-100,United States,,25232.75,25443.21,25158.63,25342.85
+2025-12-02,^NDX,index,NASDAQ-100,United States,,25449.87,25622.58,25369.36,25555.86
+2025-12-03,^NDX,index,NASDAQ-100,United States,,25443.71,25639.99,25388.44,25606.54
+2025-12-04,^NDX,index,NASDAQ-100,United States,,25658.14,25658.27,25450.38,25581.7
+2025-12-05,^NDX,index,NASDAQ-100,United States,,25657.78,25827.08,25617.35,25692.05
+2025-12-08,^NDX,index,NASDAQ-100,United States,,25758.82,25828.16,25531.75,25627.95
+2025-12-09,^NDX,index,NASDAQ-100,United States,,25593.67,25698.26,25532.34,25668.69
+2025-12-10,^NDX,index,NASDAQ-100,United States,,25631.59,25835.03,25504.3,25776.44
+2025-12-11,^NDX,index,NASDAQ-100,United States,,25598.39,25696.29,25372.18,25686.68
+2025-12-12,^NDX,index,NASDAQ-100,United States,,25531.55,25605.88,25104.68,25196.73
+2025-12-15,^NDX,index,NASDAQ-100,United States,,25352.87,25377.62,25022.81,25067.27
+2025-12-16,^NDX,index,NASDAQ-100,United States,,24991.49,25188.76,24922.94,25132.94
+2025-12-17,^NDX,index,NASDAQ-100,United States,,25167.86,25193.41,24647.61,24647.61
+2025-12-18,^NDX,index,NASDAQ-100,United States,,25031.49,25164.18,24921.45,25019.37
+2025-12-19,^NDX,index,NASDAQ-100,United States,,25147.29,25354.82,25134.26,25346.18
+2025-12-22,^NDX,index,NASDAQ-100,United States,,25527.68,25554.03,25401.59,25461.7
+2025-12-23,^NDX,index,NASDAQ-100,United States,,25441.42,25590.03,25403.26,25587.83
+2025-12-24,^NDX,index,NASDAQ-100,United States,,25582.34,25665.28,25556.85,25656.15
+2025-12-26,^NDX,index,NASDAQ-100,United States,,25692.68,25716.71,25620.32,25644.39
+2025-12-29,^NDX,index,NASDAQ-100,United States,,25462.25,25598.14,25440.97,25525.56
+2025-12-30,^NDX,index,NASDAQ-100,United States,,25509.88,25577.58,25456.92,25462.56
+2025-12-31,^NDX,index,NASDAQ-100,United States,,25464.71,25483.77,25244.86,25249.85
 2026-01-02,^NDX,index,NASDAQ-100,United States,,25524.27,25597.65,25086.36,25206.17
 2026-01-05,^NDX,index,NASDAQ-100,United States,,25471.79,25520.52,25354.66,25401.32
 2026-01-06,^NDX,index,NASDAQ-100,United States,,25462.06,25655.12,25428.08,25639.71
@@ -1287,6 +2425,266 @@
 2026-09-21,^TWSE,index,TAIEX,Taiwan,,47207.3,47750.98,47207.3,47718.84
 2026-09-22,^TWSE,index,TAIEX,Taiwan,,47981.04,48601.53,47800.17,47800.17
 2026-09-23,^TWSE,index,TAIEX,Taiwan,,47894.77,48341.56,47894.77,48157.29
+2025-01-01,^USBC,index,Dow Jones Industrial Average,United States,,42643.0,42678.5,42521.0,42560.0
+2025-01-02,^USBC,index,Dow Jones Industrial Average,United States,,42560.5,42939.5,42177.5,42391.5
+2025-01-03,^USBC,index,Dow Jones Industrial Average,United States,,42391.0,42784.0,42382.5,42714.5
+2025-01-06,^USBC,index,Dow Jones Industrial Average,United States,,42723.5,43124.0,42610.0,42733.5
+2025-01-07,^USBC,index,Dow Jones Industrial Average,United States,,42733.0,42940.0,42382.0,42547.0
+2025-01-08,^USBC,index,Dow Jones Industrial Average,United States,,42548.0,42675.0,42326.5,42582.5
+2025-01-09,^USBC,index,Dow Jones Industrial Average,United States,,42582.0,42647.0,42458.5,42490.5
+2025-01-10,^USBC,index,Dow Jones Industrial Average,United States,,42491.0,42656.5,41855.5,41914.0
+2025-01-13,^USBC,index,Dow Jones Industrial Average,United States,,41946.5,42438.5,41741.5,42392.5
+2025-01-14,^USBC,index,Dow Jones Industrial Average,United States,,42392.0,42587.5,42150.0,42575.0
+2025-01-15,^USBC,index,Dow Jones Industrial Average,United States,,42574.5,43327.0,42528.5,43271.0
+2025-01-16,^USBC,index,Dow Jones Industrial Average,United States,,43273.0,43334.5,43056.5,43121.0
+2025-01-17,^USBC,index,Dow Jones Industrial Average,United States,,43153.0,43662.0,43135.5,43467.0
+2025-01-20,^USBC,index,Dow Jones Industrial Average,United States,,43452.0,43802.5,43435.5,43756.0
+2025-01-21,^USBC,index,Dow Jones Industrial Average,United States,,43755.5,44060.5,43296.0,44038.0
+2025-01-22,^USBC,index,Dow Jones Industrial Average,United States,,44038.0,44210.0,44012.0,44140.5
+2025-01-23,^USBC,index,Dow Jones Industrial Average,United States,,44141.0,44550.0,44110.5,44523.5
+2025-01-24,^USBC,index,Dow Jones Industrial Average,United States,,44537.5,44577.5,44332.5,44370.5
+2025-01-27,^USBC,index,Dow Jones Industrial Average,United States,,44334.5,44745.5,43826.0,44693.5
+2025-01-28,^USBC,index,Dow Jones Industrial Average,United States,,44692.5,44984.5,44563.0,44811.0
+2025-01-29,^USBC,index,Dow Jones Industrial Average,United States,,44813.0,44968.5,44579.0,44764.0
+2025-01-30,^USBC,index,Dow Jones Industrial Average,United States,,44766.0,45015.5,44619.0,44949.0
+2025-01-31,^USBC,index,Dow Jones Industrial Average,United States,,44949.0,45068.5,44503.5,44542.0
+2025-02-03,^USBC,index,Dow Jones Industrial Average,United States,,44039.0,44687.5,43821.0,44608.0
+2025-02-04,^USBC,index,Dow Jones Industrial Average,United States,,44607.0,44607.5,44214.5,44533.0
+2025-02-05,^USBC,index,Dow Jones Industrial Average,United States,,44514.5,44916.5,44342.0,44913.0
+2025-02-06,^USBC,index,Dow Jones Industrial Average,United States,,44913.5,45049.5,44535.0,44735.0
+2025-02-07,^USBC,index,Dow Jones Industrial Average,United States,,44733.5,44854.5,44283.0,44321.5
+2025-02-10,^USBC,index,Dow Jones Industrial Average,United States,,44359.0,44625.5,44299.5,44412.5
+2025-02-11,^USBC,index,Dow Jones Industrial Average,United States,,44413.5,44644.5,44289.5,44611.0
+2025-02-12,^USBC,index,Dow Jones Industrial Average,United States,,44610.5,44636.0,44089.0,44444.5
+2025-02-13,^USBC,index,Dow Jones Industrial Average,United States,,44444.0,44772.5,44268.5,44721.5
+2025-02-14,^USBC,index,Dow Jones Industrial Average,United States,,44722.0,44768.0,44494.5,44539.0
+2025-02-17,^USBC,index,Dow Jones Industrial Average,United States,,44552.0,44668.5,44533.0,44626.5
+2025-02-18,^USBC,index,Dow Jones Industrial Average,United States,,44626.0,44663.0,44312.5,44564.5
+2025-02-19,^USBC,index,Dow Jones Industrial Average,United States,,44564.0,44634.0,44307.0,44583.5
+2025-02-20,^USBC,index,Dow Jones Industrial Average,United States,,44577.5,44597.0,43946.5,44214.0
+2025-02-21,^USBC,index,Dow Jones Industrial Average,United States,,44210.0,44259.5,43353.5,43426.0
+2025-02-24,^USBC,index,Dow Jones Industrial Average,United States,,43550.5,43762.0,43345.5,43488.5
+2025-02-25,^USBC,index,Dow Jones Industrial Average,United States,,43489.0,43770.0,43271.5,43702.5
+2025-02-26,^USBC,index,Dow Jones Industrial Average,United States,,43702.5,43870.0,43265.5,43397.5
+2025-02-27,^USBC,index,Dow Jones Industrial Average,United States,,43397.0,43893.0,43225.5,43296.0
+2025-02-28,^USBC,index,Dow Jones Industrial Average,United States,,43271.0,43868.0,43092.0,43764.5
+2025-03-03,^USBC,index,Dow Jones Industrial Average,United States,,43861.5,44044.0,42919.0,43230.5
+2025-03-04,^USBC,index,Dow Jones Industrial Average,United States,,43232.5,43294.0,42352.0,42802.5
+2025-03-05,^USBC,index,Dow Jones Industrial Average,United States,,42801.0,43134.5,42414.0,42996.5
+2025-03-06,^USBC,index,Dow Jones Industrial Average,United States,,42995.5,43037.0,42377.0,42641.5
+2025-03-07,^USBC,index,Dow Jones Industrial Average,United States,,42639.5,42903.5,42167.5,42801.0
+2025-03-10,^USBC,index,Dow Jones Industrial Average,United States,,42552.5,42663.0,41611.5,41915.5
+2025-03-11,^USBC,index,Dow Jones Industrial Average,United States,,41916.0,42076.5,41177.5,41525.5
+2025-03-12,^USBC,index,Dow Jones Industrial Average,United States,,41528.0,41986.5,41002.5,41436.5
+2025-03-13,^USBC,index,Dow Jones Industrial Average,United States,,41438.0,41454.0,40662.5,40970.5
+2025-03-14,^USBC,index,Dow Jones Industrial Average,United States,,40971.0,41530.0,40918.0,41410.5
+2025-03-17,^USBC,index,Dow Jones Industrial Average,United States,,41292.5,42017.5,41221.0,41863.0
+2025-03-18,^USBC,index,Dow Jones Industrial Average,United States,,41860.5,41879.0,41413.0,41617.0
+2025-03-19,^USBC,index,Dow Jones Industrial Average,United States,,41617.5,42189.5,41514.5,42063.5
+2025-03-20,^USBC,index,Dow Jones Industrial Average,United States,,42064.0,42253.5,41681.5,41960.0
+2025-03-21,^USBC,index,Dow Jones Industrial Average,United States,,41959.5,42017.0,41432.0,42005.5
+2025-03-24,^USBC,index,Dow Jones Industrial Average,United States,,42203.0,42636.5,42186.5,42553.0
+2025-03-25,^USBC,index,Dow Jones Industrial Average,United States,,42553.0,42697.5,42449.5,42610.0
+2025-03-26,^USBC,index,Dow Jones Industrial Average,United States,,42609.0,42830.5,42269.0,42378.5
+2025-03-27,^USBC,index,Dow Jones Industrial Average,United States,,42374.5,42568.0,42154.0,42297.0
+2025-03-28,^USBC,index,Dow Jones Industrial Average,United States,,42297.0,42376.5,41499.5,41515.5
+2025-03-31,^USBC,index,Dow Jones Industrial Average,United States,,41434.0,42150.0,41151.5,41921.5
+2025-04-01,^USBC,index,Dow Jones Industrial Average,United States,,41921.0,42151.0,41512.0,42038.0
+2025-04-02,^USBC,index,Dow Jones Industrial Average,United States,,42038.5,42539.0,41046.0,41224.5
+2025-04-03,^USBC,index,Dow Jones Industrial Average,United States,,41221.0,41483.0,40356.0,40433.0
+2025-04-04,^USBC,index,Dow Jones Industrial Average,United States,,40434.5,40506.0,38170.5,38258.0
+2025-04-07,^USBC,index,Dow Jones Industrial Average,United States,,36967.0,39223.0,36605.0,38460.0
+2025-04-08,^USBC,index,Dow Jones Industrial Average,United States,,38455.5,39448.0,37083.0,37283.0
+2025-04-09,^USBC,index,Dow Jones Industrial Average,United States,,37284.0,40918.5,36702.0,40878.5
+2025-04-10,^USBC,index,Dow Jones Industrial Average,United States,,40872.0,40904.5,38420.0,39429.0
+2025-04-11,^USBC,index,Dow Jones Industrial Average,United States,,39428.0,40406.5,39011.5,40237.0
+2025-04-14,^USBC,index,Dow Jones Industrial Average,United States,,40361.0,40784.0,39893.0,40430.0
+2025-04-15,^USBC,index,Dow Jones Industrial Average,United States,,40428.5,40802.0,40141.5,40224.5
+2025-04-16,^USBC,index,Dow Jones Industrial Average,United States,,40222.5,40511.0,39394.5,39695.5
+2025-04-17,^USBC,index,Dow Jones Industrial Average,United States,,39696.5,40121.0,38960.5,39177.5
+2025-04-21,^USBC,index,Dow Jones Industrial Average,United States,,38983.5,39038.5,37822.5,38269.5
+2025-04-22,^USBC,index,Dow Jones Industrial Average,United States,,38271.0,39887.0,38251.5,39775.0
+2025-04-23,^USBC,index,Dow Jones Industrial Average,United States,,39776.5,40384.5,39460.5,39578.5
+2025-04-24,^USBC,index,Dow Jones Industrial Average,United States,,39579.5,40219.0,39243.0,40083.0
+2025-04-25,^USBC,index,Dow Jones Industrial Average,United States,,40082.5,40221.0,39717.0,40130.5
+2025-04-28,^USBC,index,Dow Jones Industrial Average,United States,,39987.5,40422.0,39871.0,40257.5
+2025-04-29,^USBC,index,Dow Jones Industrial Average,United States,,40257.5,40639.0,40191.0,40519.0
+2025-04-30,^USBC,index,Dow Jones Industrial Average,United States,,40520.0,40841.0,39743.0,40800.5
+2025-05-01,^USBC,index,Dow Jones Industrial Average,United States,,40803.0,41102.5,40613.0,40724.0
+2025-05-02,^USBC,index,Dow Jones Industrial Average,United States,,40728.0,41395.5,40702.5,41326.0
+2025-05-05,^USBC,index,Dow Jones Industrial Average,United States,,41124.5,41453.5,40994.0,41214.5
+2025-05-06,^USBC,index,Dow Jones Industrial Average,United States,,41214.5,41246.5,40748.0,41111.0
+2025-05-07,^USBC,index,Dow Jones Industrial Average,United States,,41110.0,41282.0,40819.0,41078.5
+2025-05-08,^USBC,index,Dow Jones Industrial Average,United States,,41079.0,41782.5,41046.5,41328.5
+2025-05-09,^USBC,index,Dow Jones Industrial Average,United States,,41329.5,41527.0,41145.5,41252.5
+2025-05-12,^USBC,index,Dow Jones Industrial Average,United States,,41653.0,42474.0,41640.0,42360.0
+2025-05-13,^USBC,index,Dow Jones Industrial Average,United States,,42358.5,42389.0,42115.0,42181.5
+2025-05-14,^USBC,index,Dow Jones Industrial Average,United States,,42181.0,42260.0,41819.0,41850.0
+2025-05-15,^USBC,index,Dow Jones Industrial Average,United States,,41849.5,42360.5,41762.0,42329.0
+2025-05-16,^USBC,index,Dow Jones Industrial Average,United States,,42330.0,42671.0,42240.5,42620.5
+2025-05-19,^USBC,index,Dow Jones Industrial Average,United States,,42387.5,42879.5,42242.0,42848.5
+2025-05-20,^USBC,index,Dow Jones Industrial Average,United States,,42847.5,42868.0,42481.5,42644.5
+2025-05-21,^USBC,index,Dow Jones Industrial Average,United States,,42642.0,42659.5,41758.5,41838.0
+2025-05-22,^USBC,index,Dow Jones Industrial Average,United States,,41839.0,42096.0,41619.0,41878.0
+2025-05-23,^USBC,index,Dow Jones Industrial Average,United States,,41881.0,41958.5,41167.0,41569.0
+2025-05-26,^USBC,index,Dow Jones Industrial Average,United States,,41903.5,42114.0,41878.5,42003.5
+2025-05-27,^USBC,index,Dow Jones Industrial Average,United States,,42002.5,42414.0,41888.0,42379.0
+2025-05-28,^USBC,index,Dow Jones Industrial Average,United States,,42377.5,42649.5,42043.5,42602.5
+2025-05-29,^USBC,index,Dow Jones Industrial Average,United States,,42604.0,42721.0,41814.5,42133.5
+2025-05-30,^USBC,index,Dow Jones Industrial Average,United States,,42132.0,42381.0,41896.0,42245.0
+2025-06-02,^USBC,index,Dow Jones Industrial Average,United States,,42121.5,42347.5,41838.5,42231.0
+2025-06-03,^USBC,index,Dow Jones Industrial Average,United States,,42232.0,42579.5,42058.0,42562.5
+2025-06-04,^USBC,index,Dow Jones Industrial Average,United States,,42563.5,42651.0,42394.0,42402.5
+2025-06-05,^USBC,index,Dow Jones Industrial Average,United States,,42403.0,42671.0,42204.5,42384.5
+2025-06-06,^USBC,index,Dow Jones Industrial Average,United States,,42383.5,42932.0,42383.5,42776.0
+2025-06-09,^USBC,index,Dow Jones Industrial Average,United States,,42754.5,42900.5,42562.0,42779.0
+2025-06-10,^USBC,index,Dow Jones Industrial Average,United States,,42778.0,42931.5,42639.0,42858.0
+2025-06-11,^USBC,index,Dow Jones Industrial Average,United States,,42857.0,43125.5,42724.0,42816.5
+2025-06-12,^USBC,index,Dow Jones Industrial Average,United States,,42817.5,42972.0,42561.0,42757.5
+2025-06-13,^USBC,index,Dow Jones Industrial Average,United States,,42763.0,42763.0,42076.5,42219.5
+2025-06-16,^USBC,index,Dow Jones Industrial Average,United States,,42214.0,42714.5,42187.5,42278.5
+2025-06-17,^USBC,index,Dow Jones Industrial Average,United States,,42280.0,42541.5,42079.0,42113.5
+2025-06-18,^USBC,index,Dow Jones Industrial Average,United States,,42114.5,42521.0,42110.5,42168.0
+2025-06-19,^USBC,index,Dow Jones Industrial Average,United States,,42169.0,42172.0,41755.0,42035.5
+2025-06-20,^USBC,index,Dow Jones Industrial Average,United States,,42034.5,42439.5,41978.5,42218.0
+2025-06-23,^USBC,index,Dow Jones Industrial Average,United States,,42076.5,42799.0,41970.0,42773.5
+2025-06-24,^USBC,index,Dow Jones Industrial Average,United States,,42774.5,43188.0,42745.0,43096.0
+2025-06-25,^USBC,index,Dow Jones Industrial Average,United States,,43097.5,43146.0,42863.5,43007.5
+2025-06-26,^USBC,index,Dow Jones Industrial Average,United States,,43007.0,43518.0,42981.5,43465.0
+2025-06-27,^USBC,index,Dow Jones Industrial Average,United States,,43466.5,43971.0,43452.0,43793.5
+2025-06-30,^USBC,index,Dow Jones Industrial Average,United States,,44008.0,44136.5,43879.0,44082.0
+2025-07-01,^USBC,index,Dow Jones Industrial Average,United States,,44083.0,44614.5,43986.0,44519.5
+2025-07-02,^USBC,index,Dow Jones Industrial Average,United States,,44522.5,44659.0,44339.5,44511.5
+2025-07-03,^USBC,index,Dow Jones Industrial Average,United States,,44512.0,44883.0,44449.5,44762.5
+2025-07-04,^USBC,index,Dow Jones Industrial Average,United States,,44762.0,44777.5,44512.0,44565.5
+2025-07-07,^USBC,index,Dow Jones Industrial Average,United States,,44692.0,44859.0,44151.5,44330.5
+2025-07-08,^USBC,index,Dow Jones Industrial Average,United States,,44331.5,44445.5,44201.5,44251.5
+2025-07-09,^USBC,index,Dow Jones Industrial Average,United States,,44223.0,44560.0,44160.5,44439.5
+2025-07-10,^USBC,index,Dow Jones Industrial Average,United States,,44438.5,44778.5,44303.5,44691.0
+2025-07-11,^USBC,index,Dow Jones Industrial Average,United States,,44690.5,44692.0,44262.0,44333.5
+2025-07-14,^USBC,index,Dow Jones Industrial Average,United States,,44203.0,44473.5,44089.5,44422.5
+2025-07-15,^USBC,index,Dow Jones Industrial Average,United States,,44422.0,44602.0,43900.5,43952.5
+2025-07-16,^USBC,index,Dow Jones Industrial Average,United States,,43952.0,44257.5,43756.0,44170.5
+2025-07-17,^USBC,index,Dow Jones Industrial Average,United States,,44170.0,44607.5,44135.5,44599.5
+2025-07-18,^USBC,index,Dow Jones Industrial Average,United States,,44600.5,44653.0,44220.0,44315.5
+2025-07-21,^USBC,index,Dow Jones Industrial Average,United States,,44394.5,44604.0,44314.0,44389.5
+2025-07-22,^USBC,index,Dow Jones Industrial Average,United States,,44388.0,44650.5,44220.0,44629.5
+2025-07-23,^USBC,index,Dow Jones Industrial Average,United States,,44630.5,45030.0,44545.5,44915.5
+2025-07-24,^USBC,index,Dow Jones Industrial Average,United States,,44914.5,44934.5,44668.5,44797.5
+2025-07-25,^USBC,index,Dow Jones Industrial Average,United States,,44798.5,44939.0,44641.0,44879.5
+2025-07-28,^USBC,index,Dow Jones Industrial Average,United States,,45049.5,45132.5,44738.5,44856.5
+2025-07-29,^USBC,index,Dow Jones Industrial Average,United States,,44857.0,44952.5,44565.5,44633.5
+2025-07-30,^USBC,index,Dow Jones Industrial Average,United States,,44633.0,44745.5,44258.5,44558.5
+2025-07-31,^USBC,index,Dow Jones Industrial Average,United States,,44548.0,44698.5,44050.0,44119.0
+2025-08-01,^USBC,index,Dow Jones Industrial Average,United States,,44116.0,44164.0,43333.0,43602.0
+2025-08-04,^USBC,index,Dow Jones Industrial Average,United States,,43620.0,44263.5,43609.5,44224.5
+2025-08-05,^USBC,index,Dow Jones Industrial Average,United States,,44224.0,44312.5,43921.0,44111.0
+2025-08-06,^USBC,index,Dow Jones Industrial Average,United States,,44110.0,44370.0,44011.5,44231.0
+2025-08-07,^USBC,index,Dow Jones Industrial Average,United States,,44231.5,44505.5,43798.5,44052.5
+2025-08-08,^USBC,index,Dow Jones Industrial Average,United States,,44053.0,44284.5,43990.0,44242.5
+2025-08-11,^USBC,index,Dow Jones Industrial Average,United States,,44215.5,44317.0,43912.0,43977.5
+2025-08-12,^USBC,index,Dow Jones Industrial Average,United States,,43976.5,44502.5,43952.5,44485.5
+2025-08-13,^USBC,index,Dow Jones Industrial Average,United States,,44483.0,44973.0,44412.5,44941.0
+2025-08-14,^USBC,index,Dow Jones Industrial Average,United States,,44942.5,45101.5,44681.0,45071.0
+2025-08-15,^USBC,index,Dow Jones Industrial Average,United States,,45071.5,45286.0,44897.5,44934.0
+2025-08-18,^USBC,index,Dow Jones Industrial Average,United States,,45020.5,45041.0,44824.5,44928.5
+2025-08-19,^USBC,index,Dow Jones Industrial Average,United States,,44929.0,45209.0,44787.5,44933.5
+2025-08-20,^USBC,index,Dow Jones Industrial Average,United States,,44934.5,45047.0,44755.5,44905.0
+2025-08-21,^USBC,index,Dow Jones Industrial Average,United States,,44905.5,44954.5,44573.0,44857.5
+2025-08-22,^USBC,index,Dow Jones Industrial Average,United States,,44855.5,45764.5,44679.5,45655.0
+2025-08-25,^USBC,index,Dow Jones Industrial Average,United States,,45644.5,45660.0,45266.0,45331.0
+2025-08-26,^USBC,index,Dow Jones Industrial Average,United States,,45330.5,45468.0,45112.5,45439.0
+2025-08-27,^USBC,index,Dow Jones Industrial Average,United States,,45440.0,45629.5,45380.5,45559.5
+2025-08-28,^USBC,index,Dow Jones Industrial Average,United States,,45558.0,45739.5,45438.5,45587.5
+2025-08-29,^USBC,index,Dow Jones Industrial Average,United States,,45587.0,45623.0,45370.5,45563.0
+2025-09-01,^USBC,index,Dow Jones Industrial Average,United States,,45651.5,45690.5,45470.0,45508.0
+2025-09-02,^USBC,index,Dow Jones Industrial Average,United States,,45508.5,45566.5,44935.0,45209.5
+2025-09-03,^USBC,index,Dow Jones Industrial Average,United States,,45208.5,45320.0,44978.0,45169.5
+2025-09-04,^USBC,index,Dow Jones Industrial Average,United States,,45168.5,45645.5,45160.5,45633.5
+2025-09-05,^USBC,index,Dow Jones Industrial Average,United States,,45632.5,45775.5,45201.5,45393.0
+2025-09-08,^USBC,index,Dow Jones Industrial Average,United States,,45500.5,45602.5,45275.5,45574.5
+2025-09-09,^USBC,index,Dow Jones Industrial Average,United States,,45574.0,45770.0,45433.0,45619.0
+2025-09-10,^USBC,index,Dow Jones Industrial Average,United States,,45618.0,45802.0,45377.5,45538.5
+2025-09-11,^USBC,index,Dow Jones Industrial Average,United States,,45537.5,46148.5,45487.5,46127.5
+2025-09-12,^USBC,index,Dow Jones Industrial Average,United States,,46126.5,46143.5,45815.0,45831.5
+2025-09-15,^USBC,index,Dow Jones Industrial Average,United States,,45836.5,45978.0,45771.0,45884.5
+2025-09-16,^USBC,index,Dow Jones Industrial Average,United States,,45885.5,45967.0,45665.5,45805.5
+2025-09-17,^USBC,index,Dow Jones Industrial Average,United States,,45804.0,46275.5,45683.0,46143.5
+2025-09-18,^USBC,index,Dow Jones Industrial Average,United States,,46144.5,46367.0,45944.0,46237.5
+2025-09-19,^USBC,index,Dow Jones Industrial Average,United States,,46239.5,46394.0,46049.5,46300.0
+2025-09-22,^USBC,index,Dow Jones Industrial Average,United States,,46240.5,46448.5,46026.5,46389.5
+2025-09-23,^USBC,index,Dow Jones Industrial Average,United States,,46391.5,46723.0,46221.0,46329.5
+2025-09-24,^USBC,index,Dow Jones Industrial Average,United States,,46328.0,46461.5,46095.5,46174.5
+2025-09-25,^USBC,index,Dow Jones Industrial Average,United States,,46175.5,46225.5,45787.0,45962.5
+2025-09-26,^USBC,index,Dow Jones Industrial Average,United States,,45960.5,46363.5,45932.5,46279.5
+2025-09-29,^USBC,index,Dow Jones Industrial Average,United States,,46308.5,46486.0,46145.0,46315.5
+2025-09-30,^USBC,index,Dow Jones Industrial Average,United States,,46314.5,46430.5,46103.5,46345.5
+2025-10-01,^USBC,index,Dow Jones Industrial Average,United States,,46346.5,46540.0,46053.5,46436.5
+2025-10-02,^USBC,index,Dow Jones Industrial Average,United States,,46437.5,46598.0,46275.0,46553.5
+2025-10-03,^USBC,index,Dow Jones Industrial Average,United States,,46547.5,47055.5,46529.0,46755.0
+2025-10-06,^USBC,index,Dow Jones Industrial Average,United States,,46847.5,46890.0,46424.5,46629.0
+2025-10-07,^USBC,index,Dow Jones Industrial Average,United States,,46628.0,46879.0,46441.5,46588.0
+2025-10-08,^USBC,index,Dow Jones Industrial Average,United States,,46592.0,46828.0,46504.0,46654.0
+2025-10-09,^USBC,index,Dow Jones Industrial Average,United States,,46652.0,46686.5,46268.0,46426.5
+2025-10-10,^USBC,index,Dow Jones Industrial Average,United States,,46426.0,46648.0,45437.5,45547.0
+2025-10-13,^USBC,index,Dow Jones Industrial Average,United States,,45836.0,46165.5,45784.5,46097.5
+2025-10-14,^USBC,index,Dow Jones Industrial Average,United States,,46098.0,46529.0,45446.5,46305.0
+2025-10-15,^USBC,index,Dow Jones Industrial Average,United States,,46304.0,46703.0,46022.0,46310.0
+2025-10-16,^USBC,index,Dow Jones Industrial Average,United States,,46309.5,46491.5,45783.0,45903.0
+2025-10-17,^USBC,index,Dow Jones Industrial Average,United States,,45902.0,46326.0,45415.0,46241.5
+2025-10-20,^USBC,index,Dow Jones Industrial Average,United States,,46192.0,46769.0,46120.0,46724.5
+2025-10-21,^USBC,index,Dow Jones Industrial Average,United States,,46725.0,47135.5,46619.0,46918.0
+2025-10-22,^USBC,index,Dow Jones Industrial Average,United States,,46920.0,47005.0,46453.0,46483.0
+2025-10-23,^USBC,index,Dow Jones Industrial Average,United States,,46480.0,46805.5,46418.0,46738.5
+2025-10-24,^USBC,index,Dow Jones Industrial Average,United States,,46741.0,47326.5,46714.0,47212.0
+2025-10-27,^USBC,index,Dow Jones Industrial Average,United States,,47479.0,47591.5,47369.5,47548.5
+2025-10-28,^USBC,index,Dow Jones Industrial Average,United States,,47547.5,47942.5,47516.0,47684.5
+2025-10-29,^USBC,index,Dow Jones Industrial Average,United States,,47686.0,48047.0,47449.5,47599.0
+2025-10-30,^USBC,index,Dow Jones Industrial Average,United States,,47601.0,48021.0,47391.0,47593.5
+2025-10-31,^USBC,index,Dow Jones Industrial Average,United States,,47592.5,47720.5,47347.0,47559.0
+2025-11-03,^USBC,index,Dow Jones Industrial Average,United States,,47687.0,47731.5,47130.5,47297.0
+2025-11-04,^USBC,index,Dow Jones Industrial Average,United States,,47296.0,47298.5,46849.5,47148.5
+2025-11-05,^USBC,index,Dow Jones Industrial Average,United States,,47151.0,47460.0,46951.0,47379.5
+2025-11-06,^USBC,index,Dow Jones Industrial Average,United States,,47380.0,47386.0,46788.0,47032.5
+2025-11-07,^USBC,index,Dow Jones Industrial Average,United States,,47031.5,47063.5,46492.5,47033.0
+2025-11-10,^USBC,index,Dow Jones Industrial Average,United States,,47122.0,47412.0,46942.0,47402.0
+2025-11-11,^USBC,index,Dow Jones Industrial Average,United States,,47401.5,47977.0,47319.0,47930.5
+2025-11-12,^USBC,index,Dow Jones Industrial Average,United States,,47933.0,48425.5,47923.0,48234.5
+2025-11-13,^USBC,index,Dow Jones Industrial Average,United States,,48235.0,48404.5,47412.5,47517.5
+2025-11-14,^USBC,index,Dow Jones Industrial Average,United States,,47517.0,47554.0,46852.0,47171.5
+2025-11-17,^USBC,index,Dow Jones Industrial Average,United States,,47140.0,47292.5,46426.5,46640.0
+2025-11-18,^USBC,index,Dow Jones Industrial Average,United States,,46641.5,46677.0,45914.5,46154.0
+2025-11-19,^USBC,index,Dow Jones Industrial Average,United States,,46154.5,46346.0,45903.5,46339.5
+2025-11-20,^USBC,index,Dow Jones Industrial Average,United States,,46339.0,46861.5,45712.5,45843.5
+2025-11-21,^USBC,index,Dow Jones Industrial Average,United States,,45839.0,46583.0,45755.0,46291.0
+2025-11-24,^USBC,index,Dow Jones Industrial Average,United States,,46408.5,46587.5,46101.0,46431.0
+2025-11-25,^USBC,index,Dow Jones Industrial Average,United States,,46430.5,47184.0,46333.0,47165.5
+2025-11-26,^USBC,index,Dow Jones Industrial Average,United States,,47165.5,47571.5,47123.5,47423.5
+2025-11-27,^USBC,index,Dow Jones Industrial Average,United States,,47423.0,47515.5,47383.0,47512.0
+2025-11-28,^USBC,index,Dow Jones Industrial Average,United States,,47512.5,47755.0,47445.5,47711.0
+2025-12-01,^USBC,index,Dow Jones Industrial Average,United States,,47666.5,47677.0,47254.5,47266.5
+2025-12-02,^USBC,index,Dow Jones Industrial Average,United States,,47266.0,47604.0,47204.0,47541.0
+2025-12-03,^USBC,index,Dow Jones Industrial Average,United States,,47540.5,48018.5,47373.0,47938.0
+2025-12-04,^USBC,index,Dow Jones Industrial Average,United States,,47937.0,48061.5,47690.5,47840.0
+2025-12-05,^USBC,index,Dow Jones Industrial Average,United States,,47839.5,48135.0,47765.0,47962.5
+2025-12-08,^USBC,index,Dow Jones Industrial Average,United States,,47945.0,48008.5,47612.0,47776.5
+2025-12-09,^USBC,index,Dow Jones Industrial Average,United States,,47774.5,47957.5,47530.0,47545.0
+2025-12-10,^USBC,index,Dow Jones Industrial Average,United States,,47544.5,48197.5,47457.0,48110.5
+2025-12-11,^USBC,index,Dow Jones Industrial Average,United States,,48111.0,48856.5,47820.0,48777.5
+2025-12-12,^USBC,index,Dow Jones Industrial Average,United States,,48776.5,48885.5,48331.5,48486.5
+2025-12-15,^USBC,index,Dow Jones Industrial Average,United States,,48519.5,48719.5,48277.0,48425.0
+2025-12-16,^USBC,index,Dow Jones Industrial Average,United States,,48426.0,48525.5,47919.0,48064.5
+2025-12-17,^USBC,index,Dow Jones Industrial Average,United States,,48063.5,48389.0,47863.5,47891.5
+2025-12-18,^USBC,index,Dow Jones Industrial Average,United States,,47891.0,48383.0,47805.0,47918.0
+2025-12-19,^USBC,index,Dow Jones Industrial Average,United States,,47917.5,48294.0,47789.0,48147.5
+2025-12-22,^USBC,index,Dow Jones Industrial Average,United States,,48225.0,48456.5,48125.0,48351.5
+2025-12-23,^USBC,index,Dow Jones Industrial Average,United States,,48352.0,48526.0,48212.0,48421.0
+2025-12-24,^USBC,index,Dow Jones Industrial Average,United States,,48422.0,48774.0,48370.0,48711.0
+2025-12-25,^USBC,index,Dow Jones Industrial Average,United States,,48751.5,48788.5,48736.0,48753.5
+2025-12-26,^USBC,index,Dow Jones Industrial Average,United States,,48751.5,48775.5,48580.5,48700.5
+2025-12-29,^USBC,index,Dow Jones Industrial Average,United States,,48740.5,48771.5,48389.5,48469.5
+2025-12-30,^USBC,index,Dow Jones Industrial Average,United States,,48470.0,48493.0,48298.0,48398.5
+2025-12-31,^USBC,index,Dow Jones Industrial Average,United States,,48398.0,48405.0,48047.0,48101.5
 2026-01-01,^USBC,index,Dow Jones Industrial Average,United States,,48135.5,48168.0,48100.0,48146.5
 2026-01-02,^USBC,index,Dow Jones Industrial Average,United States,,48147.0,48406.0,47832.0,48370.5
 2026-01-05,^USBC,index,Dow Jones Industrial Average,United States,,48374.0,49214.5,48320.5,48961.5
@@ -1476,6 +2874,266 @@
 2026-09-21,^USBC,index,Dow Jones Industrial Average,United States,,51700.0,52153.0,51675.5,52048.0
 2026-09-22,^USBC,index,Dow Jones Industrial Average,United States,,52049.5,52433.0,51712.0,51837.0
 2026-09-23,^USBC,index,Dow Jones Industrial Average,United States,,51888.5,51970.0,51445.0,51466.5
+2025-01-01,^USLC,index,S&P 500,United States,,5899.05,5905.13,5883.5,5889.15
+2025-01-02,^USLC,index,S&P 500,United States,,5889.0,5945.9,5830.84,5869.01
+2025-01-03,^USLC,index,S&P 500,United States,,5868.83,5949.45,5867.64,5939.68
+2025-01-06,^USLC,index,S&P 500,United States,,5944.33,6020.98,5933.89,5980.63
+2025-01-07,^USLC,index,S&P 500,United States,,5980.39,6000.66,5891.19,5913.66
+2025-01-08,^USLC,index,S&P 500,United States,,5913.78,5930.66,5874.81,5907.07
+2025-01-09,^USLC,index,S&P 500,United States,,5907.5,5915.17,5886.14,5890.38
+2025-01-10,^USLC,index,S&P 500,United States,,5890.64,5919.79,5807.4,5825.34
+2025-01-13,^USLC,index,S&P 500,United States,,5820.55,5861.8,5770.04,5853.12
+2025-01-14,^USLC,index,S&P 500,United States,,5853.38,5879.35,5805.09,5846.93
+2025-01-15,^USLC,index,S&P 500,United States,,5846.79,5960.82,5840.52,5954.19
+2025-01-16,^USLC,index,S&P 500,United States,,5954.32,5977.52,5925.32,5934.65
+2025-01-17,^USLC,index,S&P 500,United States,,5938.89,6015.59,5936.83,5993.93
+2025-01-20,^USLC,index,S&P 500,United States,,5986.88,6042.64,5982.9,6032.83
+2025-01-21,^USLC,index,S&P 500,United States,,6033.13,6063.04,5959.51,6060.49
+2025-01-22,^USLC,index,S&P 500,United States,,6060.6,6100.76,6059.45,6080.53
+2025-01-23,^USLC,index,S&P 500,United States,,6080.28,6118.53,6066.53,6112.89
+2025-01-24,^USLC,index,S&P 500,United States,,6114.38,6128.15,6088.95,6096.45
+2025-01-27,^USLC,index,S&P 500,United States,,6070.2,6070.89,5915.51,6020.32
+2025-01-28,^USLC,index,S&P 500,United States,,6020.19,6074.75,5992.77,6057.28
+2025-01-29,^USLC,index,S&P 500,United States,,6057.46,6080.75,6012.61,6038.84
+2025-01-30,^USLC,index,S&P 500,United States,,6039.08,6087.03,6027.72,6082.0
+2025-01-31,^USLC,index,S&P 500,United States,,6081.83,6120.91,6030.7,6036.93
+2025-02-03,^USLC,index,S&P 500,United States,,5940.51,6041.24,5908.88,6030.19
+2025-02-04,^USLC,index,S&P 500,United States,,6030.06,6043.18,5961.24,6019.65
+2025-02-05,^USLC,index,S&P 500,United States,,6017.07,6065.61,5995.54,6065.11
+2025-02-06,^USLC,index,S&P 500,United States,,6064.63,6084.08,6046.09,6078.14
+2025-02-07,^USLC,index,S&P 500,United States,,6077.89,6100.89,6019.96,6029.39
+2025-02-10,^USLC,index,S&P 500,United States,,6038.09,6073.7,6036.09,6055.23
+2025-02-11,^USLC,index,S&P 500,United States,,6055.48,6077.05,6036.67,6070.15
+2025-02-12,^USLC,index,S&P 500,United States,,6069.9,6074.45,5999.0,6063.98
+2025-02-13,^USLC,index,S&P 500,United States,,6063.85,6118.13,6033.49,6114.93
+2025-02-14,^USLC,index,S&P 500,United States,,6115.18,6127.95,6102.38,6114.63
+2025-02-17,^USLC,index,S&P 500,United States,,6115.64,6128.4,6114.25,6122.64
+2025-02-18,^USLC,index,S&P 500,United States,,6122.5,6138.89,6099.58,6131.89
+2025-02-19,^USLC,index,S&P 500,United States,,6131.63,6147.93,6111.4,6138.65
+2025-02-20,^USLC,index,S&P 500,United States,,6136.79,6139.29,6084.79,6121.08
+2025-02-21,^USLC,index,S&P 500,United States,,6120.77,6126.15,6009.01,6016.94
+2025-02-24,^USLC,index,S&P 500,United States,,6035.38,6052.14,5978.33,5984.08
+2025-02-25,^USLC,index,S&P 500,United States,,5984.39,6000.89,5908.85,5971.64
+2025-02-26,^USLC,index,S&P 500,United States,,5971.39,6010.0,5932.24,5965.98
+2025-02-27,^USLC,index,S&P 500,United States,,5965.74,6001.93,5860.74,5876.01
+2025-02-28,^USLC,index,S&P 500,United States,,5875.64,5960.13,5837.2,5946.44
+2025-03-03,^USLC,index,S&P 500,United States,,5964.25,5990.14,5811.58,5859.84
+2025-03-04,^USLC,index,S&P 500,United States,,5860.09,5873.58,5732.97,5824.95
+2025-03-05,^USLC,index,S&P 500,United States,,5825.2,5860.92,5742.59,5837.53
+2025-03-06,^USLC,index,S&P 500,United States,,5837.29,5842.3,5712.18,5757.64
+2025-03-07,^USLC,index,S&P 500,United States,,5757.76,5784.01,5665.86,5766.94
+2025-03-10,^USLC,index,S&P 500,United States,,5726.39,5750.45,5564.16,5595.88
+2025-03-11,^USLC,index,S&P 500,United States,,5596.0,5645.15,5528.73,5588.14
+2025-03-12,^USLC,index,S&P 500,United States,,5588.25,5669.31,5545.22,5616.29
+2025-03-13,^USLC,index,S&P 500,United States,,5616.03,5618.55,5504.37,5549.25
+2025-03-14,^USLC,index,S&P 500,United States,,5549.33,5645.42,5543.63,5623.19
+2025-03-17,^USLC,index,S&P 500,United States,,5605.84,5704.17,5596.59,5677.28
+2025-03-18,^USLC,index,S&P 500,United States,,5677.03,5681.29,5597.51,5619.14
+2025-03-19,^USLC,index,S&P 500,United States,,5619.39,5716.29,5604.38,5694.13
+2025-03-20,^USLC,index,S&P 500,United States,,5694.26,5712.08,5629.5,5663.8
+2025-03-21,^USLC,index,S&P 500,United States,,5663.54,5673.04,5600.85,5668.18
+2025-03-24,^USLC,index,S&P 500,United States,,5702.0,5773.75,5700.25,5760.58
+2025-03-25,^USLC,index,S&P 500,United States,,5760.75,5787.72,5751.13,5783.89
+2025-03-26,^USLC,index,S&P 500,United States,,5783.64,5787.89,5683.22,5699.64
+2025-03-27,^USLC,index,S&P 500,United States,,5699.08,5732.09,5672.5,5689.84
+2025-03-28,^USLC,index,S&P 500,United States,,5690.2,5701.84,5567.19,5569.45
+2025-03-31,^USLC,index,S&P 500,United States,,5548.39,5628.16,5489.64,5593.27
+2025-04-01,^USLC,index,S&P 500,United States,,5593.38,5652.14,5558.13,5640.39
+2025-04-02,^USLC,index,S&P 500,United States,,5640.63,5717.79,5440.2,5469.52
+2025-04-03,^USLC,index,S&P 500,United States,,5470.01,5521.4,5370.26,5385.13
+2025-04-04,^USLC,index,S&P 500,United States,,5385.25,5397.58,5054.78,5071.34
+2025-04-07,^USLC,index,S&P 500,United States,,4880.55,5252.04,4808.73,5115.2
+2025-04-08,^USLC,index,S&P 500,United States,,5115.01,5271.01,4896.0,4925.02
+2025-04-09,^USLC,index,S&P 500,United States,,4924.88,5491.95,4843.75,5477.76
+2025-04-10,^USLC,index,S&P 500,United States,,5477.39,5481.13,5113.49,5240.75
+2025-04-11,^USLC,index,S&P 500,United States,,5240.51,5382.65,5173.25,5363.43
+2025-04-14,^USLC,index,S&P 500,United States,,5396.26,5464.13,5357.2,5387.63
+2025-04-15,^USLC,index,S&P 500,United States,,5387.33,5451.14,5342.7,5353.64
+2025-04-16,^USLC,index,S&P 500,United States,,5353.39,5392.01,5220.7,5279.26
+2025-04-17,^USLC,index,S&P 500,United States,,5279.14,5342.15,5256.64,5291.56
+2025-04-21,^USLC,index,S&P 500,United States,,5264.46,5274.84,5101.45,5176.63
+2025-04-22,^USLC,index,S&P 500,United States,,5176.89,5395.64,5169.26,5384.38
+2025-04-23,^USLC,index,S&P 500,United States,,5384.14,5470.88,5350.14,5384.13
+2025-04-24,^USLC,index,S&P 500,United States,,5384.27,5510.75,5327.75,5500.51
+2025-04-25,^USLC,index,S&P 500,United States,,5500.38,5528.96,5452.39,5528.13
+2025-04-28,^USLC,index,S&P 500,United States,,5505.5,5552.88,5468.19,5530.39
+2025-04-29,^USLC,index,S&P 500,United States,,5530.5,5572.32,5496.89,5547.4
+2025-04-30,^USLC,index,S&P 500,United States,,5547.53,5615.62,5431.45,5611.05
+2025-05-01,^USLC,index,S&P 500,United States,,5611.29,5659.31,5578.92,5590.51
+2025-05-02,^USLC,index,S&P 500,United States,,5590.83,5701.32,5584.27,5688.88
+2025-05-05,^USLC,index,S&P 500,United States,,5656.7,5684.5,5633.63,5646.0
+2025-05-06,^USLC,index,S&P 500,United States,,5645.88,5670.5,5586.63,5652.39
+2025-05-07,^USLC,index,S&P 500,United States,,5652.26,5662.08,5577.66,5627.01
+2025-05-08,^USLC,index,S&P 500,United States,,5627.13,5720.8,5622.33,5660.64
+2025-05-09,^USLC,index,S&P 500,United States,,5660.88,5695.42,5644.38,5660.2
+2025-05-12,^USLC,index,S&P 500,United States,,5727.28,5856.29,5724.98,5837.59
+2025-05-13,^USLC,index,S&P 500,United States,,5837.34,5907.33,5816.84,5889.39
+2025-05-14,^USLC,index,S&P 500,United States,,5889.13,5906.64,5871.56,5877.39
+2025-05-15,^USLC,index,S&P 500,United States,,5877.13,5925.08,5847.63,5917.13
+2025-05-16,^USLC,index,S&P 500,United States,,5917.26,5959.26,5904.38,5954.69
+2025-05-19,^USLC,index,S&P 500,United States,,5922.13,5974.2,5874.39,5969.58
+2025-05-20,^USLC,index,S&P 500,United States,,5969.46,5973.28,5909.45,5937.83
+2025-05-21,^USLC,index,S&P 500,United States,,5937.95,5940.96,5830.86,5844.58
+2025-05-22,^USLC,index,S&P 500,United States,,5845.08,5878.68,5812.83,5846.09
+2025-05-23,^USLC,index,S&P 500,United States,,5846.2,5857.89,5743.38,5798.68
+2025-05-26,^USLC,index,S&P 500,United States,,5851.95,5881.64,5848.5,5866.06
+2025-05-27,^USLC,index,S&P 500,United States,,5865.95,5929.09,5849.75,5924.83
+2025-05-28,^USLC,index,S&P 500,United States,,5924.2,5985.66,5880.89,5979.78
+2025-05-29,^USLC,index,S&P 500,United States,,5980.9,5996.04,5872.77,5894.15
+2025-05-30,^USLC,index,S&P 500,United States,,5894.38,5922.77,5843.81,5907.2
+2025-06-02,^USLC,index,S&P 500,United States,,5888.14,5942.91,5857.39,5925.83
+2025-06-03,^USLC,index,S&P 500,United States,,5926.0,5981.52,5900.4,5974.89
+2025-06-04,^USLC,index,S&P 500,United States,,5974.95,5990.2,5964.7,5965.88
+2025-06-05,^USLC,index,S&P 500,United States,,5966.0,5999.98,5920.78,5940.15
+2025-06-06,^USLC,index,S&P 500,United States,,5940.0,6018.15,5940.0,6001.28
+2025-06-09,^USLC,index,S&P 500,United States,,5995.73,6021.72,5984.93,6008.49
+2025-06-10,^USLC,index,S&P 500,United States,,6008.36,6047.77,5986.23,6037.38
+2025-06-11,^USLC,index,S&P 500,United States,,6037.13,6070.51,6001.73,6014.88
+2025-06-12,^USLC,index,S&P 500,United States,,6015.01,6046.32,5984.39,6011.14
+2025-06-13,^USLC,index,S&P 500,United States,,6011.64,6026.66,5924.39,5985.11
+2025-06-16,^USLC,index,S&P 500,United States,,5984.26,6050.88,5979.14,5995.89
+2025-06-17,^USLC,index,S&P 500,United States,,5996.05,6024.52,5962.38,5969.11
+2025-06-18,^USLC,index,S&P 500,United States,,5969.6,6018.88,5969.13,5980.43
+2025-06-19,^USLC,index,S&P 500,United States,,5980.75,5981.4,5916.15,5963.18
+2025-06-20,^USLC,index,S&P 500,United States,,5963.15,6018.14,5952.32,5971.29
+2025-06-23,^USLC,index,S&P 500,United States,,5949.0,6061.64,5939.04,6057.55
+2025-06-24,^USLC,index,S&P 500,United States,,6057.4,6102.27,6049.1,6093.83
+2025-06-25,^USLC,index,S&P 500,United States,,6094.1,6108.16,6079.03,6095.39
+2025-06-26,^USLC,index,S&P 500,United States,,6095.61,6153.39,6093.38,6144.89
+2025-06-27,^USLC,index,S&P 500,United States,,6145.1,6187.78,6132.17,6167.88
+2025-06-30,^USLC,index,S&P 500,United States,,6186.65,6215.1,6173.73,6200.88
+2025-07-01,^USLC,index,S&P 500,United States,,6201.86,6211.5,6177.89,6202.45
+2025-07-02,^USLC,index,S&P 500,United States,,6202.68,6229.85,6186.13,6228.63
+2025-07-03,^USLC,index,S&P 500,United States,,6228.39,6285.17,6221.58,6270.39
+2025-07-04,^USLC,index,S&P 500,United States,,6270.35,6273.38,6228.88,6235.58
+2025-07-07,^USLC,index,S&P 500,United States,,6254.1,6268.14,6201.06,6223.64
+2025-07-08,^USLC,index,S&P 500,United States,,6223.33,6244.39,6217.51,6229.14
+2025-07-09,^USLC,index,S&P 500,United States,,6225.15,6270.39,6215.35,6258.34
+2025-07-10,^USLC,index,S&P 500,United States,,6258.32,6290.47,6242.58,6286.88
+2025-07-11,^USLC,index,S&P 500,United States,,6287.05,6287.05,6234.13,6255.39
+2025-07-14,^USLC,index,S&P 500,United States,,6234.38,6273.59,6218.61,6262.59
+2025-07-15,^USLC,index,S&P 500,United States,,6262.83,6301.33,6224.88,6232.64
+2025-07-16,^USLC,index,S&P 500,United States,,6232.8,6268.33,6201.65,6253.85
+2025-07-17,^USLC,index,S&P 500,United States,,6254.08,6311.88,6249.1,6310.4
+2025-07-18,^USLC,index,S&P 500,United States,,6310.14,6318.15,6285.36,6295.9
+2025-07-21,^USLC,index,S&P 500,United States,,6305.36,6336.68,6301.14,6311.89
+2025-07-22,^USLC,index,S&P 500,United States,,6311.87,6327.65,6282.65,6326.2
+2025-07-23,^USLC,index,S&P 500,United States,,6326.41,6369.3,6313.15,6368.29
+2025-07-24,^USLC,index,S&P 500,United States,,6368.04,6381.76,6355.98,6376.39
+2025-07-25,^USLC,index,S&P 500,United States,,6376.64,6396.06,6366.58,6390.08
+2025-07-28,^USLC,index,S&P 500,United States,,6413.82,6423.81,6375.6,6395.59
+2025-07-29,^USLC,index,S&P 500,United States,,6395.34,6409.84,6364.07,6375.88
+2025-07-30,^USLC,index,S&P 500,United States,,6375.64,6415.44,6335.21,6411.68
+2025-07-31,^USLC,index,S&P 500,United States,,6410.68,6436.95,6321.14,6333.64
+2025-08-01,^USLC,index,S&P 500,United States,,6333.38,6342.89,6212.43,6240.58
+2025-08-04,^USLC,index,S&P 500,United States,,6244.37,6345.61,6243.08,6337.89
+2025-08-05,^USLC,index,S&P 500,United States,,6337.38,6351.14,6288.15,6291.58
+2025-08-06,^USLC,index,S&P 500,United States,,6291.38,6362.65,6290.88,6355.58
+2025-08-07,^USLC,index,S&P 500,United States,,6355.38,6401.88,6310.12,6353.53
+2025-08-08,^USLC,index,S&P 500,United States,,6353.51,6401.73,6345.78,6401.73
+2025-08-11,^USLC,index,S&P 500,United States,,6391.04,6407.91,6364.69,6376.63
+2025-08-12,^USLC,index,S&P 500,United States,,6376.38,6450.11,6369.08,6449.58
+2025-08-13,^USLC,index,S&P 500,United States,,6449.6,6480.64,6439.33,6465.73
+2025-08-14,^USLC,index,S&P 500,United States,,6465.98,6473.95,6431.5,6469.4
+2025-08-15,^USLC,index,S&P 500,United States,,6469.64,6487.4,6441.81,6448.3
+2025-08-18,^USLC,index,S&P 500,United States,,6460.58,6464.4,6436.33,6451.64
+2025-08-19,^USLC,index,S&P 500,United States,,6451.86,6456.64,6400.16,6408.64
+2025-08-20,^USLC,index,S&P 500,United States,,6408.85,6411.89,6343.97,6392.88
+2025-08-21,^USLC,index,S&P 500,United States,,6392.87,6400.65,6352.24,6381.83
+2025-08-22,^USLC,index,S&P 500,United States,,6381.33,6479.65,6347.63,6467.18
+2025-08-25,^USLC,index,S&P 500,United States,,6467.45,6471.19,6437.7,6444.95
+2025-08-26,^USLC,index,S&P 500,United States,,6444.63,6473.9,6415.68,6471.63
+2025-08-27,^USLC,index,S&P 500,United States,,6471.88,6487.57,6457.58,6462.14
+2025-08-28,^USLC,index,S&P 500,United States,,6461.89,6508.54,6457.38,6502.39
+2025-08-29,^USLC,index,S&P 500,United States,,6502.14,6504.89,6444.35,6463.88
+2025-09-01,^USLC,index,S&P 500,United States,,6477.6,6480.65,6448.64,6458.78
+2025-09-02,^USLC,index,S&P 500,United States,,6459.09,6465.31,6360.54,6424.63
+2025-09-03,^USLC,index,S&P 500,United States,,6424.36,6454.14,6415.38,6446.13
+2025-09-04,^USLC,index,S&P 500,United States,,6446.11,6508.9,6444.83,6506.88
+2025-09-05,^USLC,index,S&P 500,United States,,6507.13,6532.9,6443.38,6480.17
+2025-09-08,^USLC,index,S&P 500,United States,,6497.87,6508.9,6482.58,6502.69
+2025-09-09,^USLC,index,S&P 500,United States,,6502.94,6530.56,6482.45,6523.34
+2025-09-10,^USLC,index,S&P 500,United States,,6523.31,6558.05,6516.22,6540.39
+2025-09-11,^USLC,index,S&P 500,United States,,6540.14,6593.42,6531.11,6589.13
+2025-09-12,^USLC,index,S&P 500,United States,,6589.11,6600.66,6572.33,6583.38
+2025-09-15,^USLC,index,S&P 500,United States,,6584.64,6619.38,6554.39,6615.73
+2025-09-16,^USLC,index,S&P 500,United States,,6615.71,6634.97,6600.48,6612.64
+2025-09-17,^USLC,index,S&P 500,United States,,6612.61,6626.21,6550.54,6623.49
+2025-09-18,^USLC,index,S&P 500,United States,,6623.73,6659.99,6610.73,6644.88
+2025-09-19,^USLC,index,S&P 500,United States,,6645.11,6671.8,6621.38,6661.78
+2025-09-22,^USLC,index,S&P 500,United States,,6656.05,6699.18,6636.38,6694.13
+2025-09-23,^USLC,index,S&P 500,United States,,6694.38,6699.1,6645.35,6662.26
+2025-09-24,^USLC,index,S&P 500,United States,,6661.96,6672.77,6622.37,6643.35
+2025-09-25,^USLC,index,S&P 500,United States,,6643.06,6650.37,6569.25,6605.76
+2025-09-26,^USLC,index,S&P 500,United States,,6605.95,6649.55,6600.25,6648.26
+2025-09-29,^USLC,index,S&P 500,United States,,6652.96,6683.47,6644.46,6659.5
+2025-09-30,^USLC,index,S&P 500,United States,,6659.25,6691.96,6641.37,6672.46
+2025-10-01,^USLC,index,S&P 500,United States,,6672.6,6719.66,6629.16,6710.56
+2025-10-02,^USLC,index,S&P 500,United States,,6710.86,6733.07,6692.7,6722.16
+2025-10-03,^USLC,index,S&P 500,United States,,6721.65,6752.06,6706.36,6713.95
+2025-10-06,^USLC,index,S&P 500,United States,,6730.95,6749.56,6718.7,6731.55
+2025-10-07,^USLC,index,S&P 500,United States,,6731.36,6755.56,6700.86,6713.5
+2025-10-08,^USLC,index,S&P 500,United States,,6713.77,6766.25,6712.7,6763.06
+2025-10-09,^USLC,index,S&P 500,United States,,6762.77,6763.46,6716.26,6746.26
+2025-10-10,^USLC,index,S&P 500,United States,,6746.36,6763.16,6549.65,6565.16
+2025-10-13,^USLC,index,S&P 500,United States,,6629.25,6669.77,6613.86,6650.7
+2025-10-14,^USLC,index,S&P 500,United States,,6650.25,6681.66,6552.66,6648.76
+2025-10-15,^USLC,index,S&P 500,United States,,6649.06,6726.16,6610.95,6675.16
+2025-10-16,^USLC,index,S&P 500,United States,,6675.25,6710.67,6593.65,6613.75
+2025-10-17,^USLC,index,S&P 500,United States,,6612.76,6680.16,6533.75,6672.76
+2025-10-20,^USLC,index,S&P 500,United States,,6668.45,6744.9,6657.05,6740.55
+2025-10-21,^USLC,index,S&P 500,United States,,6740.05,6752.86,6722.0,6733.45
+2025-10-22,^USLC,index,S&P 500,United States,,6733.75,6752.57,6654.35,6691.15
+2025-10-23,^USLC,index,S&P 500,United States,,6690.75,6749.36,6681.56,6746.45
+2025-10-24,^USLC,index,S&P 500,United States,,6747.05,6806.66,6742.75,6791.4
+2025-10-27,^USLC,index,S&P 500,United States,,6837.16,6884.56,6833.96,6878.56
+2025-10-28,^USLC,index,S&P 500,United States,,6878.35,6912.06,6869.05,6896.16
+2025-10-29,^USLC,index,S&P 500,United States,,6896.35,6919.57,6851.6,6891.2
+2025-10-30,^USLC,index,S&P 500,United States,,6891.4,6922.26,6819.7,6868.96
+2025-10-31,^USLC,index,S&P 500,United States,,6869.2,6888.77,6813.75,6842.3
+2025-11-03,^USLC,index,S&P 500,United States,,6863.36,6880.06,6820.56,6847.46
+2025-11-04,^USLC,index,S&P 500,United States,,6847.27,6847.27,6757.5,6766.16
+2025-11-05,^USLC,index,S&P 500,United States,,6765.6,6830.77,6721.55,6808.56
+2025-11-06,^USLC,index,S&P 500,United States,,6808.85,6817.57,6707.45,6739.46
+2025-11-07,^USLC,index,S&P 500,United States,,6739.35,6746.06,6632.05,6736.75
+2025-11-10,^USLC,index,S&P 500,United States,,6760.7,6842.17,6748.26,6839.45
+2025-11-11,^USLC,index,S&P 500,United States,,6839.65,6856.07,6807.15,6848.46
+2025-11-12,^USLC,index,S&P 500,United States,,6848.65,6877.47,6829.16,6836.06
+2025-11-13,^USLC,index,S&P 500,United States,,6835.96,6870.07,6723.66,6745.35
+2025-11-14,^USLC,index,S&P 500,United States,,6745.46,6774.66,6650.36,6743.16
+2025-11-17,^USLC,index,S&P 500,United States,,6745.37,6780.27,6638.15,6681.56
+2025-11-18,^USLC,index,S&P 500,United States,,6681.75,6688.77,6575.15,6621.55
+2025-11-19,^USLC,index,S&P 500,United States,,6621.37,6713.26,6593.56,6712.46
+2025-11-20,^USLC,index,S&P 500,United States,,6712.26,6771.27,6522.76,6548.96
+2025-11-21,^USLC,index,S&P 500,United States,,6548.86,6660.95,6508.05,6610.56
+2025-11-24,^USLC,index,S&P 500,United States,,6636.66,6715.76,6609.45,6706.65
+2025-11-25,^USLC,index,S&P 500,United States,,6706.35,6776.96,6659.26,6769.07
+2025-11-26,^USLC,index,S&P 500,United States,,6769.1,6832.26,6765.65,6816.05
+2025-11-27,^USLC,index,S&P 500,United States,,6815.86,6825.2,6810.86,6824.95
+2025-11-28,^USLC,index,S&P 500,United States,,6825.15,6851.87,6819.95,6844.86
+2025-12-01,^USLC,index,S&P 500,United States,,6841.65,6843.85,6790.45,6814.05
+2025-12-02,^USLC,index,S&P 500,United States,,6814.16,6852.36,6801.55,6835.3
+2025-12-03,^USLC,index,S&P 500,United States,,6835.45,6863.05,6807.17,6853.87
+2025-12-04,^USLC,index,S&P 500,United States,,6853.75,6871.27,6826.65,6855.55
+2025-12-05,^USLC,index,S&P 500,United States,,6855.05,6896.46,6848.55,6872.06
+2025-12-08,^USLC,index,S&P 500,United States,,6872.97,6885.46,6827.4,6861.07
+2025-12-09,^USLC,index,S&P 500,United States,,6860.96,6865.6,6837.55,6839.95
+2025-12-10,^USLC,index,S&P 500,United States,,6839.86,6901.47,6824.4,6876.95
+2025-12-11,^USLC,index,S&P 500,United States,,6877.16,6912.06,6811.76,6901.0
+2025-12-12,^USLC,index,S&P 500,United States,,6900.56,6909.55,6802.16,6832.0
+2025-12-15,^USLC,index,S&P 500,United States,,6829.75,6869.15,6801.96,6814.37
+2025-12-16,^USLC,index,S&P 500,United States,,6814.26,6831.06,6759.45,6788.15
+2025-12-17,^USLC,index,S&P 500,United States,,6787.85,6825.17,6721.55,6729.05
+2025-12-18,^USLC,index,S&P 500,United States,,6728.76,6816.55,6718.06,6777.15
+2025-12-19,^USLC,index,S&P 500,United States,,6776.86,6840.75,6767.85,6835.86
+2025-12-22,^USLC,index,S&P 500,United States,,6852.95,6882.96,6847.0,6878.55
+2025-12-23,^USLC,index,S&P 500,United States,,6878.7,6910.86,6861.05,6905.7
+2025-12-24,^USLC,index,S&P 500,United States,,6906.27,6936.96,6901.3,6929.46
+2025-12-25,^USLC,index,S&P 500,United States,,6934.36,6940.96,6932.1,6936.15
+2025-12-26,^USLC,index,S&P 500,United States,,6935.95,6945.3,6921.05,6930.35
+2025-12-29,^USLC,index,S&P 500,United States,,6932.36,6937.86,6888.96,6903.55
+2025-12-30,^USLC,index,S&P 500,United States,,6903.75,6913.96,6893.15,6896.66
+2025-12-31,^USLC,index,S&P 500,United States,,6896.36,6905.66,6844.15,6850.47
 2026-01-01,^USLC,index,S&P 500,United States,,6855.5,6859.46,6851.57,6857.46
 2026-01-02,^USLC,index,S&P 500,United States,,6857.16,6895.06,6824.05,6860.66
 2026-01-05,^USLC,index,S&P 500,United States,,6865.66,6921.65,6860.87,6900.16
