@@ -1,4 +1,387 @@
 ﻿trade_date,symbol,asset_class,name,country,unit,open,close,change
+2026-09-01,2768.JP,stock,Sojitz,Japan,JPY,5580.0,5813.0,233.0000
+2026-09-02,2768.JP,stock,Sojitz,Japan,JPY,5720.0,5659.0,-61.0000
+2026-09-03,2768.JP,stock,Sojitz,Japan,JPY,5730.0,5778.0,48.0000
+2026-09-04,2768.JP,stock,Sojitz,Japan,JPY,5878.0,5762.0,-116.0000
+2026-09-07,2768.JP,stock,Sojitz,Japan,JPY,5775.0,5853.0,78.0000
+2026-09-08,2768.JP,stock,Sojitz,Japan,JPY,5821.0,5783.0,-38.0000
+2026-09-09,2768.JP,stock,Sojitz,Japan,JPY,5761.0,5864.0,103.0000
+2026-09-10,2768.JP,stock,Sojitz,Japan,JPY,5770.0,5745.0,-25.0000
+2026-09-11,2768.JP,stock,Sojitz,Japan,JPY,5625.0,5739.0,114.0000
+2026-09-14,2768.JP,stock,Sojitz,Japan,JPY,5770.0,5810.0,40.0000
+2026-09-15,2768.JP,stock,Sojitz,Japan,JPY,5780.0,5729.0,-51.0000
+2026-09-16,2768.JP,stock,Sojitz,Japan,JPY,5788.0,5770.0,-18.0000
+2026-09-17,2768.JP,stock,Sojitz,Japan,JPY,5810.0,5888.0,78.0000
+2026-09-18,2768.JP,stock,Sojitz,Japan,JPY,5940.0,5872.0,-68.0000
+2026-09-24,2768.JP,stock,Sojitz,Japan,JPY,5870.0,5714.0,-156.0000
+2026-09-25,2768.JP,stock,Sojitz,Japan,JPY,5750.0,5756.0,6.0000
+2026-09-01,2801.JP,stock,Kikkoman,Japan,JPY,1827.5,1827.0,-0.5000
+2026-09-02,2801.JP,stock,Kikkoman,Japan,JPY,1809.5,1832.5,23.0000
+2026-09-03,2801.JP,stock,Kikkoman,Japan,JPY,1827.0,1824.5,-2.5000
+2026-09-04,2801.JP,stock,Kikkoman,Japan,JPY,1814.0,1784.5,-29.5000
+2026-09-07,2801.JP,stock,Kikkoman,Japan,JPY,1773.0,1726.5,-46.5000
+2026-09-08,2801.JP,stock,Kikkoman,Japan,JPY,1716.5,1739.0,22.5000
+2026-09-09,2801.JP,stock,Kikkoman,Japan,JPY,1735.0,1695.0,-40.0000
+2026-09-10,2801.JP,stock,Kikkoman,Japan,JPY,1677.5,1682.5,5.0000
+2026-09-11,2801.JP,stock,Kikkoman,Japan,JPY,1670.0,1671.0,1.0000
+2026-09-14,2801.JP,stock,Kikkoman,Japan,JPY,1687.5,1698.0,10.5000
+2026-09-15,2801.JP,stock,Kikkoman,Japan,JPY,1709.0,1676.5,-32.5000
+2026-09-16,2801.JP,stock,Kikkoman,Japan,JPY,1676.5,1650.5,-26.0000
+2026-09-17,2801.JP,stock,Kikkoman,Japan,JPY,1653.5,1684.0,30.5000
+2026-09-18,2801.JP,stock,Kikkoman,Japan,JPY,1663.5,1655.0,-8.5000
+2026-09-24,2801.JP,stock,Kikkoman,Japan,JPY,1655.0,1648.5,-6.5000
+2026-09-25,2801.JP,stock,Kikkoman,Japan,JPY,1658.0,1662.0,4.0000
+2026-09-01,285A.JP,stock,Kioxia Holdings,Japan,JPY,49500.0,51000.0,1500.0000
+2026-09-02,285A.JP,stock,Kioxia Holdings,Japan,JPY,50000.0,51000.0,1000.0000
+2026-09-03,285A.JP,stock,Kioxia Holdings,Japan,JPY,52000.0,51670.0,-330.0000
+2026-09-04,285A.JP,stock,Kioxia Holdings,Japan,JPY,51830.0,54460.0,2630.0000
+2026-09-07,285A.JP,stock,Kioxia Holdings,Japan,JPY,58000.0,59530.0,1530.0000
+2026-09-08,285A.JP,stock,Kioxia Holdings,Japan,JPY,58530.0,57410.0,-1120.0000
+2026-09-09,285A.JP,stock,Kioxia Holdings,Japan,JPY,57750.0,57000.0,-750.0000
+2026-09-10,285A.JP,stock,Kioxia Holdings,Japan,JPY,56980.0,58090.0,1110.0000
+2026-09-11,285A.JP,stock,Kioxia Holdings,Japan,JPY,55090.0,54030.0,-1060.0000
+2026-09-14,285A.JP,stock,Kioxia Holdings,Japan,JPY,49500.0,50590.0,1090.0000
+2026-09-15,285A.JP,stock,Kioxia Holdings,Japan,JPY,49920.0,51750.0,1830.0000
+2026-09-16,285A.JP,stock,Kioxia Holdings,Japan,JPY,51350.0,50780.0,-570.0000
+2026-09-17,285A.JP,stock,Kioxia Holdings,Japan,JPY,51780.0,49880.0,-1900.0000
+2026-09-18,285A.JP,stock,Kioxia Holdings,Japan,JPY,50800.0,54570.0,3770.0000
+2026-09-24,285A.JP,stock,Kioxia Holdings,Japan,JPY,56780.0,54580.0,-2200.0000
+2026-09-25,285A.JP,stock,Kioxia Holdings,Japan,JPY,54390.0,55780.0,1390.0000
+2026-09-01,3436.JP,stock,SUMCO,Japan,JPY,3269.0,3317.0,48.0000
+2026-09-02,3436.JP,stock,SUMCO,Japan,JPY,3177.0,3122.0,-55.0000
+2026-09-03,3436.JP,stock,SUMCO,Japan,JPY,3180.0,3150.0,-30.0000
+2026-09-04,3436.JP,stock,SUMCO,Japan,JPY,3137.0,3229.0,92.0000
+2026-09-07,3436.JP,stock,SUMCO,Japan,JPY,3310.0,3315.0,5.0000
+2026-09-08,3436.JP,stock,SUMCO,Japan,JPY,3303.0,3083.0,-220.0000
+2026-09-09,3436.JP,stock,SUMCO,Japan,JPY,3090.0,3122.0,32.0000
+2026-09-10,3436.JP,stock,SUMCO,Japan,JPY,3080.0,3058.0,-22.0000
+2026-09-11,3436.JP,stock,SUMCO,Japan,JPY,2888.0,2959.0,71.0000
+2026-09-14,3436.JP,stock,SUMCO,Japan,JPY,2809.0,2866.0,57.0000
+2026-09-15,3436.JP,stock,SUMCO,Japan,JPY,2770.0,2900.5,130.5000
+2026-09-16,3436.JP,stock,SUMCO,Japan,JPY,2883.0,2976.5,93.5000
+2026-09-17,3436.JP,stock,SUMCO,Japan,JPY,2990.0,2867.5,-122.5000
+2026-09-18,3436.JP,stock,SUMCO,Japan,JPY,2942.0,3028.0,86.0000
+2026-09-24,3436.JP,stock,SUMCO,Japan,JPY,3072.0,3115.0,43.0000
+2026-09-25,3436.JP,stock,SUMCO,Japan,JPY,3106.0,3117.0,11.0000
+2026-09-01,6146.JP,stock,DISCO,Japan,JPY,56560.0,56590.0,30.0000
+2026-09-02,6146.JP,stock,DISCO,Japan,JPY,54590.0,55170.0,580.0000
+2026-09-03,6146.JP,stock,DISCO,Japan,JPY,54620.0,54040.0,-580.0000
+2026-09-04,6146.JP,stock,DISCO,Japan,JPY,54000.0,54460.0,460.0000
+2026-09-07,6146.JP,stock,DISCO,Japan,JPY,56530.0,57150.0,620.0000
+2026-09-08,6146.JP,stock,DISCO,Japan,JPY,56720.0,53890.0,-2830.0000
+2026-09-09,6146.JP,stock,DISCO,Japan,JPY,54650.0,53590.0,-1060.0000
+2026-09-10,6146.JP,stock,DISCO,Japan,JPY,53420.0,53580.0,160.0000
+2026-09-11,6146.JP,stock,DISCO,Japan,JPY,51580.0,51980.0,400.0000
+2026-09-14,6146.JP,stock,DISCO,Japan,JPY,50200.0,51430.0,1230.0000
+2026-09-15,6146.JP,stock,DISCO,Japan,JPY,50160.0,51400.0,1240.0000
+2026-09-16,6146.JP,stock,DISCO,Japan,JPY,50750.0,51000.0,250.0000
+2026-09-17,6146.JP,stock,DISCO,Japan,JPY,51760.0,50590.0,-1170.0000
+2026-09-18,6146.JP,stock,DISCO,Japan,JPY,52100.0,52420.0,320.0000
+2026-09-24,6146.JP,stock,DISCO,Japan,JPY,54000.0,53320.0,-680.0000
+2026-09-25,6146.JP,stock,DISCO,Japan,JPY,53430.0,54220.0,790.0000
+2026-09-01,6525.JP,stock,Kokusai Electric,Japan,JPY,8579.0,8559.0,-20.0000
+2026-09-02,6525.JP,stock,Kokusai Electric,Japan,JPY,8425.0,8327.0,-98.0000
+2026-09-03,6525.JP,stock,Kokusai Electric,Japan,JPY,8461.0,8325.0,-136.0000
+2026-09-04,6525.JP,stock,Kokusai Electric,Japan,JPY,8447.0,8295.0,-152.0000
+2026-09-07,6525.JP,stock,Kokusai Electric,Japan,JPY,8895.0,8929.0,34.0000
+2026-09-08,6525.JP,stock,Kokusai Electric,Japan,JPY,8935.0,8782.0,-153.0000
+2026-09-09,6525.JP,stock,Kokusai Electric,Japan,JPY,9232.0,8675.0,-557.0000
+2026-09-10,6525.JP,stock,Kokusai Electric,Japan,JPY,8932.0,8821.0,-111.0000
+2026-09-11,6525.JP,stock,Kokusai Electric,Japan,JPY,8371.0,8162.0,-209.0000
+2026-09-14,6525.JP,stock,Kokusai Electric,Japan,JPY,7886.0,8000.0,114.0000
+2026-09-15,6525.JP,stock,Kokusai Electric,Japan,JPY,7850.0,8228.0,378.0000
+2026-09-16,6525.JP,stock,Kokusai Electric,Japan,JPY,7980.0,8512.0,532.0000
+2026-09-17,6525.JP,stock,Kokusai Electric,Japan,JPY,8554.0,8284.0,-270.0000
+2026-09-18,6525.JP,stock,Kokusai Electric,Japan,JPY,8434.0,8884.0,450.0000
+2026-09-24,6525.JP,stock,Kokusai Electric,Japan,JPY,9184.0,9089.0,-95.0000
+2026-09-25,6525.JP,stock,Kokusai Electric,Japan,JPY,9077.0,9300.0,223.0000
+2026-09-01,6723.JP,stock,Renesas Electronics,Japan,JPY,3351.0,3314.0,-37.0000
+2026-09-02,6723.JP,stock,Renesas Electronics,Japan,JPY,3249.0,3211.0,-38.0000
+2026-09-03,6723.JP,stock,Renesas Electronics,Japan,JPY,3215.0,3291.0,76.0000
+2026-09-04,6723.JP,stock,Renesas Electronics,Japan,JPY,3221.0,3302.0,81.0000
+2026-09-07,6723.JP,stock,Renesas Electronics,Japan,JPY,3401.0,3403.0,2.0000
+2026-09-08,6723.JP,stock,Renesas Electronics,Japan,JPY,3411.0,3252.0,-159.0000
+2026-09-09,6723.JP,stock,Renesas Electronics,Japan,JPY,3255.0,3315.0,60.0000
+2026-09-10,6723.JP,stock,Renesas Electronics,Japan,JPY,3336.0,3320.0,-16.0000
+2026-09-11,6723.JP,stock,Renesas Electronics,Japan,JPY,3138.0,3192.0,54.0000
+2026-09-14,6723.JP,stock,Renesas Electronics,Japan,JPY,3151.0,3176.0,25.0000
+2026-09-15,6723.JP,stock,Renesas Electronics,Japan,JPY,3081.0,3155.0,74.0000
+2026-09-16,6723.JP,stock,Renesas Electronics,Japan,JPY,3225.0,3240.0,15.0000
+2026-09-17,6723.JP,stock,Renesas Electronics,Japan,JPY,3244.0,3168.0,-76.0000
+2026-09-18,6723.JP,stock,Renesas Electronics,Japan,JPY,3238.0,3309.0,71.0000
+2026-09-24,6723.JP,stock,Renesas Electronics,Japan,JPY,3541.0,3490.0,-51.0000
+2026-09-25,6723.JP,stock,Renesas Electronics,Japan,JPY,3458.0,3478.0,20.0000
+2026-09-01,6857.JP,stock,Advantest,Japan,JPY,32700.0,33380.0,680.0000
+2026-09-02,6857.JP,stock,Advantest,Japan,JPY,32380.0,32540.0,160.0000
+2026-09-03,6857.JP,stock,Advantest,Japan,JPY,32430.0,32280.0,-150.0000
+2026-09-04,6857.JP,stock,Advantest,Japan,JPY,32370.0,33090.0,720.0000
+2026-09-07,6857.JP,stock,Advantest,Japan,JPY,34000.0,34480.0,480.0000
+2026-09-08,6857.JP,stock,Advantest,Japan,JPY,34030.0,33800.0,-230.0000
+2026-09-09,6857.JP,stock,Advantest,Japan,JPY,33620.0,32840.0,-780.0000
+2026-09-10,6857.JP,stock,Advantest,Japan,JPY,32710.0,33920.0,1210.0000
+2026-09-11,6857.JP,stock,Advantest,Japan,JPY,31820.0,31720.0,-100.0000
+2026-09-14,6857.JP,stock,Advantest,Japan,JPY,30330.0,31080.0,750.0000
+2026-09-15,6857.JP,stock,Advantest,Japan,JPY,30380.0,30160.0,-220.0000
+2026-09-16,6857.JP,stock,Advantest,Japan,JPY,30320.0,30700.0,380.0000
+2026-09-17,6857.JP,stock,Advantest,Japan,JPY,31240.0,30240.0,-1000.0000
+2026-09-18,6857.JP,stock,Advantest,Japan,JPY,31000.0,32050.0,1050.0000
+2026-09-24,6857.JP,stock,Advantest,Japan,JPY,32750.0,33060.0,310.0000
+2026-09-25,6857.JP,stock,Advantest,Japan,JPY,33130.0,34000.0,870.0000
+2026-09-01,6920.JP,stock,Lasertec,Japan,JPY,32940.0,33080.0,140.0000
+2026-09-02,6920.JP,stock,Lasertec,Japan,JPY,32380.0,32350.0,-30.0000
+2026-09-03,6920.JP,stock,Lasertec,Japan,JPY,32040.0,33690.0,1650.0000
+2026-09-04,6920.JP,stock,Lasertec,Japan,JPY,32990.0,33180.0,190.0000
+2026-09-07,6920.JP,stock,Lasertec,Japan,JPY,34610.0,35590.0,980.0000
+2026-09-08,6920.JP,stock,Lasertec,Japan,JPY,35280.0,34910.0,-370.0000
+2026-09-09,6920.JP,stock,Lasertec,Japan,JPY,36100.0,35280.0,-820.0000
+2026-09-10,6920.JP,stock,Lasertec,Japan,JPY,35980.0,36320.0,340.0000
+2026-09-11,6920.JP,stock,Lasertec,Japan,JPY,34300.0,34570.0,270.0000
+2026-09-14,6920.JP,stock,Lasertec,Japan,JPY,33330.0,34480.0,1150.0000
+2026-09-15,6920.JP,stock,Lasertec,Japan,JPY,33780.0,35590.0,1810.0000
+2026-09-16,6920.JP,stock,Lasertec,Japan,JPY,35200.0,35750.0,550.0000
+2026-09-17,6920.JP,stock,Lasertec,Japan,JPY,36450.0,35960.0,-490.0000
+2026-09-18,6920.JP,stock,Lasertec,Japan,JPY,37360.0,39090.0,1730.0000
+2026-09-24,6920.JP,stock,Lasertec,Japan,JPY,39600.0,39780.0,180.0000
+2026-09-25,6920.JP,stock,Lasertec,Japan,JPY,40250.0,40910.0,660.0000
+2026-09-01,6963.JP,stock,ROHM,Japan,JPY,4748.0,4904.0,156.0000
+2026-09-02,6963.JP,stock,ROHM,Japan,JPY,4764.0,4669.0,-95.0000
+2026-09-03,6963.JP,stock,ROHM,Japan,JPY,4730.0,4735.0,5.0000
+2026-09-04,6963.JP,stock,ROHM,Japan,JPY,4717.0,4865.0,148.0000
+2026-09-07,6963.JP,stock,ROHM,Japan,JPY,5000.0,5243.0,243.0000
+2026-09-08,6963.JP,stock,ROHM,Japan,JPY,5200.0,4875.0,-325.0000
+2026-09-09,6963.JP,stock,ROHM,Japan,JPY,4875.0,4896.0,21.0000
+2026-09-10,6963.JP,stock,ROHM,Japan,JPY,4881.0,4844.0,-37.0000
+2026-09-11,6963.JP,stock,ROHM,Japan,JPY,4634.0,4577.0,-57.0000
+2026-09-14,6963.JP,stock,ROHM,Japan,JPY,4437.0,4437.0,0.0000
+2026-09-15,6963.JP,stock,ROHM,Japan,JPY,4320.0,4511.0,191.0000
+2026-09-16,6963.JP,stock,ROHM,Japan,JPY,4463.0,4577.0,114.0000
+2026-09-17,6963.JP,stock,ROHM,Japan,JPY,4605.0,4472.0,-133.0000
+2026-09-18,6963.JP,stock,ROHM,Japan,JPY,4553.0,4648.0,95.0000
+2026-09-24,6963.JP,stock,ROHM,Japan,JPY,4742.0,4742.0,0.0000
+2026-09-25,6963.JP,stock,ROHM,Japan,JPY,4770.0,4792.0,22.0000
+2026-09-01,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,17440.0,17360.0,-80.0000
+2026-09-02,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,16875.0,16830.0,-45.0000
+2026-09-03,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,17015.0,16785.0,-230.0000
+2026-09-04,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,16785.0,16850.0,65.0000
+2026-09-07,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,17400.0,17600.0,200.0000
+2026-09-08,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,17370.0,16685.0,-685.0000
+2026-09-09,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,16695.0,16720.0,25.0000
+2026-09-10,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,16720.0,16860.0,140.0000
+2026-09-11,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,16060.0,16285.0,225.0000
+2026-09-14,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,15855.0,16125.0,270.0000
+2026-09-15,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,15725.0,16255.0,530.0000
+2026-09-16,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,16125.0,16505.0,380.0000
+2026-09-17,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,16900.0,16285.0,-615.0000
+2026-09-18,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,16610.0,17325.0,715.0000
+2026-09-24,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,17510.0,17290.0,-220.0000
+2026-09-25,7729.JP,stock,Tokyo Seimitsu,Japan,JPY,17350.0,17675.0,325.0000
+2026-09-01,7735.JP,stock,SCREEN Holdings,Japan,JPY,13250.0,13480.0,230.0000
+2026-09-02,7735.JP,stock,SCREEN Holdings,Japan,JPY,13180.0,13145.0,-35.0000
+2026-09-03,7735.JP,stock,SCREEN Holdings,Japan,JPY,13160.0,12955.0,-205.0000
+2026-09-04,7735.JP,stock,SCREEN Holdings,Japan,JPY,13055.0,13030.0,-25.0000
+2026-09-07,7735.JP,stock,SCREEN Holdings,Japan,JPY,13400.0,13515.0,115.0000
+2026-09-08,7735.JP,stock,SCREEN Holdings,Japan,JPY,13505.0,13270.0,-235.0000
+2026-09-09,7735.JP,stock,SCREEN Holdings,Japan,JPY,13270.0,13020.0,-250.0000
+2026-09-10,7735.JP,stock,SCREEN Holdings,Japan,JPY,12990.0,13040.0,50.0000
+2026-09-11,7735.JP,stock,SCREEN Holdings,Japan,JPY,12335.0,12255.0,-80.0000
+2026-09-14,7735.JP,stock,SCREEN Holdings,Japan,JPY,11800.0,12105.0,305.0000
+2026-09-15,7735.JP,stock,SCREEN Holdings,Japan,JPY,11805.0,12140.0,335.0000
+2026-09-16,7735.JP,stock,SCREEN Holdings,Japan,JPY,12025.0,12670.0,645.0000
+2026-09-17,7735.JP,stock,SCREEN Holdings,Japan,JPY,12705.0,12320.0,-385.0000
+2026-09-18,7735.JP,stock,SCREEN Holdings,Japan,JPY,12495.0,12805.0,310.0000
+2026-09-24,7735.JP,stock,SCREEN Holdings,Japan,JPY,13105.0,13300.0,195.0000
+2026-09-25,7735.JP,stock,SCREEN Holdings,Japan,JPY,13300.0,13740.0,440.0000
+2026-09-01,8001.JP,stock,ITOCHU,Japan,JPY,2107.5,2148.5,41.0000
+2026-09-02,8001.JP,stock,ITOCHU,Japan,JPY,2148.5,2157.0,8.5000
+2026-09-03,8001.JP,stock,ITOCHU,Japan,JPY,2188.0,2212.0,24.0000
+2026-09-04,8001.JP,stock,ITOCHU,Japan,JPY,2262.0,2204.0,-58.0000
+2026-09-07,8001.JP,stock,ITOCHU,Japan,JPY,2238.5,2264.5,26.0000
+2026-09-08,8001.JP,stock,ITOCHU,Japan,JPY,2239.0,2277.0,38.0000
+2026-09-09,8001.JP,stock,ITOCHU,Japan,JPY,2283.0,2299.0,16.0000
+2026-09-10,8001.JP,stock,ITOCHU,Japan,JPY,2289.0,2283.0,-6.0000
+2026-09-11,8001.JP,stock,ITOCHU,Japan,JPY,2252.0,2294.0,42.0000
+2026-09-14,8001.JP,stock,ITOCHU,Japan,JPY,2335.0,2340.5,5.5000
+2026-09-15,8001.JP,stock,ITOCHU,Japan,JPY,2340.5,2321.0,-19.5000
+2026-09-16,8001.JP,stock,ITOCHU,Japan,JPY,2345.0,2322.5,-22.5000
+2026-09-17,8001.JP,stock,ITOCHU,Japan,JPY,2356.0,2370.0,14.0000
+2026-09-18,8001.JP,stock,ITOCHU,Japan,JPY,2335.0,2306.5,-28.5000
+2026-09-24,8001.JP,stock,ITOCHU,Japan,JPY,2299.0,2220.5,-78.5000
+2026-09-25,8001.JP,stock,ITOCHU,Japan,JPY,2225.5,2211.0,-14.5000
+2026-09-01,8002.JP,stock,Marubeni,Japan,JPY,4920.0,5122.0,202.0000
+2026-09-02,8002.JP,stock,Marubeni,Japan,JPY,5000.0,5090.0,90.0000
+2026-09-03,8002.JP,stock,Marubeni,Japan,JPY,5112.0,5201.0,89.0000
+2026-09-04,8002.JP,stock,Marubeni,Japan,JPY,5210.0,5073.0,-137.0000
+2026-09-07,8002.JP,stock,Marubeni,Japan,JPY,5125.0,5146.0,21.0000
+2026-09-08,8002.JP,stock,Marubeni,Japan,JPY,5113.0,5080.0,-33.0000
+2026-09-09,8002.JP,stock,Marubeni,Japan,JPY,5098.0,5145.0,47.0000
+2026-09-10,8002.JP,stock,Marubeni,Japan,JPY,5080.0,5019.0,-61.0000
+2026-09-11,8002.JP,stock,Marubeni,Japan,JPY,4868.0,5049.0,181.0000
+2026-09-14,8002.JP,stock,Marubeni,Japan,JPY,5100.0,5091.0,-9.0000
+2026-09-15,8002.JP,stock,Marubeni,Japan,JPY,5054.0,4952.0,-102.0000
+2026-09-16,8002.JP,stock,Marubeni,Japan,JPY,5022.0,4988.0,-34.0000
+2026-09-17,8002.JP,stock,Marubeni,Japan,JPY,5024.0,5020.0,-4.0000
+2026-09-18,8002.JP,stock,Marubeni,Japan,JPY,5050.0,4976.0,-74.0000
+2026-09-24,8002.JP,stock,Marubeni,Japan,JPY,5022.0,4878.0,-144.0000
+2026-09-25,8002.JP,stock,Marubeni,Japan,JPY,4910.0,4916.0,6.0000
+2026-09-01,8015.JP,stock,Toyota Tsusho,Japan,JPY,7358.0,7707.0,349.0000
+2026-09-02,8015.JP,stock,Toyota Tsusho,Japan,JPY,7557.0,7538.0,-19.0000
+2026-09-03,8015.JP,stock,Toyota Tsusho,Japan,JPY,7628.0,7673.0,45.0000
+2026-09-04,8015.JP,stock,Toyota Tsusho,Japan,JPY,7728.0,7588.0,-140.0000
+2026-09-07,8015.JP,stock,Toyota Tsusho,Japan,JPY,7689.0,7680.0,-9.0000
+2026-09-08,8015.JP,stock,Toyota Tsusho,Japan,JPY,7577.0,7482.0,-95.0000
+2026-09-09,8015.JP,stock,Toyota Tsusho,Japan,JPY,7332.0,7517.0,185.0000
+2026-09-10,8015.JP,stock,Toyota Tsusho,Japan,JPY,7400.0,7430.0,30.0000
+2026-09-11,8015.JP,stock,Toyota Tsusho,Japan,JPY,7279.0,7553.0,274.0000
+2026-09-14,8015.JP,stock,Toyota Tsusho,Japan,JPY,7556.0,7507.0,-49.0000
+2026-09-15,8015.JP,stock,Toyota Tsusho,Japan,JPY,7470.0,7329.0,-141.0000
+2026-09-16,8015.JP,stock,Toyota Tsusho,Japan,JPY,7421.0,7386.0,-35.0000
+2026-09-17,8015.JP,stock,Toyota Tsusho,Japan,JPY,7507.0,7535.0,28.0000
+2026-09-18,8015.JP,stock,Toyota Tsusho,Japan,JPY,7545.0,7463.0,-82.0000
+2026-09-24,8015.JP,stock,Toyota Tsusho,Japan,JPY,7427.0,7361.0,-66.0000
+2026-09-25,8015.JP,stock,Toyota Tsusho,Japan,JPY,7419.0,7449.0,30.0000
+2026-09-01,8031.JP,stock,Mitsui & Co.,Japan,JPY,5022.0,5198.0,176.0000
+2026-09-02,8031.JP,stock,Mitsui & Co.,Japan,JPY,5131.0,5119.0,-12.0000
+2026-09-03,8031.JP,stock,Mitsui & Co.,Japan,JPY,5140.0,5253.0,113.0000
+2026-09-04,8031.JP,stock,Mitsui & Co.,Japan,JPY,5100.0,5019.0,-81.0000
+2026-09-07,8031.JP,stock,Mitsui & Co.,Japan,JPY,5050.0,5099.0,49.0000
+2026-09-08,8031.JP,stock,Mitsui & Co.,Japan,JPY,5099.0,5093.0,-6.0000
+2026-09-09,8031.JP,stock,Mitsui & Co.,Japan,JPY,5150.0,5156.0,6.0000
+2026-09-10,8031.JP,stock,Mitsui & Co.,Japan,JPY,5144.0,5093.0,-51.0000
+2026-09-11,8031.JP,stock,Mitsui & Co.,Japan,JPY,4993.0,5060.0,67.0000
+2026-09-14,8031.JP,stock,Mitsui & Co.,Japan,JPY,5126.0,5164.0,38.0000
+2026-09-15,8031.JP,stock,Mitsui & Co.,Japan,JPY,5180.0,5069.0,-111.0000
+2026-09-16,8031.JP,stock,Mitsui & Co.,Japan,JPY,5143.0,5174.0,31.0000
+2026-09-17,8031.JP,stock,Mitsui & Co.,Japan,JPY,5205.0,5224.0,19.0000
+2026-09-18,8031.JP,stock,Mitsui & Co.,Japan,JPY,5235.0,5161.0,-74.0000
+2026-09-24,8031.JP,stock,Mitsui & Co.,Japan,JPY,5161.0,5033.0,-128.0000
+2026-09-25,8031.JP,stock,Mitsui & Co.,Japan,JPY,5087.0,5071.0,-16.0000
+2026-09-01,8035.JP,stock,Tokyo Electron,Japan,JPY,54440.0,54980.0,540.0000
+2026-09-02,8035.JP,stock,Tokyo Electron,Japan,JPY,53140.0,53110.0,-30.0000
+2026-09-03,8035.JP,stock,Tokyo Electron,Japan,JPY,54110.0,53300.0,-810.0000
+2026-09-04,8035.JP,stock,Tokyo Electron,Japan,JPY,52500.0,53320.0,820.0000
+2026-09-07,8035.JP,stock,Tokyo Electron,Japan,JPY,55320.0,55840.0,520.0000
+2026-09-08,8035.JP,stock,Tokyo Electron,Japan,JPY,55390.0,54000.0,-1390.0000
+2026-09-09,8035.JP,stock,Tokyo Electron,Japan,JPY,54070.0,53700.0,-370.0000
+2026-09-10,8035.JP,stock,Tokyo Electron,Japan,JPY,54000.0,52810.0,-1190.0000
+2026-09-11,8035.JP,stock,Tokyo Electron,Japan,JPY,49990.0,51460.0,1470.0000
+2026-09-14,8035.JP,stock,Tokyo Electron,Japan,JPY,50460.0,50930.0,470.0000
+2026-09-15,8035.JP,stock,Tokyo Electron,Japan,JPY,49230.0,50650.0,1420.0000
+2026-09-16,8035.JP,stock,Tokyo Electron,Japan,JPY,50550.0,51690.0,1140.0000
+2026-09-17,8035.JP,stock,Tokyo Electron,Japan,JPY,52500.0,50970.0,-1530.0000
+2026-09-18,8035.JP,stock,Tokyo Electron,Japan,JPY,52100.0,53110.0,1010.0000
+2026-09-24,8035.JP,stock,Tokyo Electron,Japan,JPY,54110.0,53920.0,-190.0000
+2026-09-25,8035.JP,stock,Tokyo Electron,Japan,JPY,54330.0,56520.0,2190.0000
+2026-09-01,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1771.0,1849.5,78.5000
+2026-09-02,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1775.5,1788.0,12.5000
+2026-09-03,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1816.0,1842.0,26.0000
+2026-09-04,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1857.0,1820.0,-37.0000
+2026-09-07,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1834.0,1871.5,37.5000
+2026-09-08,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1854.5,1838.5,-16.0000
+2026-09-09,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1834.0,1840.0,6.0000
+2026-09-10,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1807.5,1812.0,4.5000
+2026-09-11,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1770.0,1822.0,52.0000
+2026-09-14,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1830.0,1810.5,-19.5000
+2026-09-15,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1803.5,1770.0,-33.5000
+2026-09-16,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1803.0,1786.0,-17.0000
+2026-09-17,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1810.0,1844.5,34.5000
+2026-09-18,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1839.5,1796.0,-43.5000
+2026-09-24,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1786.0,1768.5,-17.5000
+2026-09-25,8053.JP,stock,Sumitomo Corporation,Japan,JPY,1785.0,1798.0,13.0000
+2026-09-01,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,4785.0,4956.0,171.0000
+2026-09-02,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,4876.0,4860.0,-16.0000
+2026-09-03,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,4920.0,5059.0,139.0000
+2026-09-04,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,5059.0,4902.0,-157.0000
+2026-09-07,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,4928.0,4990.0,62.0000
+2026-09-08,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,4936.0,4927.0,-9.0000
+2026-09-09,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,4946.0,5038.0,92.0000
+2026-09-10,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,5001.0,4987.0,-14.0000
+2026-09-11,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,4901.0,5005.0,104.0000
+2026-09-14,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,5040.0,4991.0,-49.0000
+2026-09-15,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,4966.0,4910.0,-56.0000
+2026-09-16,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,4963.0,4944.0,-19.0000
+2026-09-17,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,4973.0,4979.0,6.0000
+2026-09-18,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,4990.0,4947.0,-43.0000
+2026-09-24,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,4948.0,4811.0,-137.0000
+2026-09-25,8058.JP,stock,Mitsubishi Corporation,Japan,JPY,4841.0,4859.0,18.0000
+2026-09-01,9962.JP,stock,MISUMI Group,Japan,JPY,3705.0,3778.0,73.0000
+2026-09-02,9962.JP,stock,MISUMI Group,Japan,JPY,3682.0,3629.0,-53.0000
+2026-09-03,9962.JP,stock,MISUMI Group,Japan,JPY,3699.0,3693.0,-6.0000
+2026-09-04,9962.JP,stock,MISUMI Group,Japan,JPY,3694.0,3670.0,-24.0000
+2026-09-07,9962.JP,stock,MISUMI Group,Japan,JPY,3740.0,3723.0,-17.0000
+2026-09-08,9962.JP,stock,MISUMI Group,Japan,JPY,3696.0,3534.0,-162.0000
+2026-09-09,9962.JP,stock,MISUMI Group,Japan,JPY,3528.0,3550.0,22.0000
+2026-09-10,9962.JP,stock,MISUMI Group,Japan,JPY,3511.0,3539.0,28.0000
+2026-09-11,9962.JP,stock,MISUMI Group,Japan,JPY,3399.0,3447.0,48.0000
+2026-09-14,9962.JP,stock,MISUMI Group,Japan,JPY,3410.0,3482.0,72.0000
+2026-09-15,9962.JP,stock,MISUMI Group,Japan,JPY,3471.0,3546.0,75.0000
+2026-09-16,9962.JP,stock,MISUMI Group,Japan,JPY,3518.0,3599.0,81.0000
+2026-09-17,9962.JP,stock,MISUMI Group,Japan,JPY,3570.0,3562.0,-8.0000
+2026-09-18,9962.JP,stock,MISUMI Group,Japan,JPY,3596.0,3630.0,34.0000
+2026-09-24,9962.JP,stock,MISUMI Group,Japan,JPY,3656.0,3831.0,175.0000
+2026-09-25,9962.JP,stock,MISUMI Group,Japan,JPY,3788.0,3919.0,131.0000
+2026-09-01,AAPL.US,stock,Apple,United States,USD,316.98,325.13,8.1500
+2026-09-02,AAPL.US,stock,Apple,United States,USD,326.865,324.96,-1.9050
+2026-09-03,AAPL.US,stock,Apple,United States,USD,324.87,328.21,3.3400
+2026-09-04,AAPL.US,stock,Apple,United States,USD,328.305,319.97,-8.3350
+2026-09-08,AAPL.US,stock,Apple,United States,USD,317.1,316.22,-0.8800
+2026-09-09,AAPL.US,stock,Apple,United States,USD,315.485,315.34,-0.1450
+2026-09-10,AAPL.US,stock,Apple,United States,USD,316.67,326.57,9.9000
+2026-09-11,AAPL.US,stock,Apple,United States,USD,327.45,332.27,4.8200
+2026-09-14,AAPL.US,stock,Apple,United States,USD,334.79,333.08,-1.7100
+2026-09-15,AAPL.US,stock,Apple,United States,USD,330.135,331.34,1.2050
+2026-09-16,AAPL.US,stock,Apple,United States,USD,332.53,332.41,-0.1200
+2026-09-17,AAPL.US,stock,Apple,United States,USD,334.77,337.0,2.2300
+2026-09-18,AAPL.US,stock,Apple,United States,USD,337.905,336.13,-1.7750
+2026-09-21,AAPL.US,stock,Apple,United States,USD,335.28,338.98,3.7000
+2026-09-22,AAPL.US,stock,Apple,United States,USD,340.135,339.75,-0.3850
+2026-09-23,AAPL.US,stock,Apple,United States,USD,341.075,337.02,-4.0550
+2026-09-24,AAPL.US,stock,Apple,United States,USD,336.72,335.92,-0.8000
+2026-09-25,AAPL.US,stock,Apple,United States,USD,336.04,341.07,5.0300
+2026-09-28,AAPL.US,stock,Apple,United States,USD,340.37,338.4,-1.9700
+2026-09-29,AAPL.US,stock,Apple,United States,USD,336.965,329.4,-7.5650
+2026-09-30,AAPL.US,stock,Apple,United States,USD,330.8,333.02,2.2200
+2026-09-01,AMD.US,stock,Advanced Micro Devices,United States,USD,459.91,459.61,-0.3000
+2026-09-02,AMD.US,stock,Advanced Micro Devices,United States,USD,459.51,457.06,-2.4500
+2026-09-03,AMD.US,stock,Advanced Micro Devices,United States,USD,453.15,456.16,3.0100
+2026-09-04,AMD.US,stock,Advanced Micro Devices,United States,USD,462.0,477.57,15.5700
+2026-09-08,AMD.US,stock,Advanced Micro Devices,United States,USD,488.92,505.74,16.8200
+2026-09-09,AMD.US,stock,Advanced Micro Devices,United States,USD,507.5,521.095,13.5950
+2026-09-10,AMD.US,stock,Advanced Micro Devices,United States,USD,509.07,503.6,-5.4700
+2026-09-11,AMD.US,stock,Advanced Micro Devices,United States,USD,510.71,516.13,5.4200
+2026-09-14,AMD.US,stock,Advanced Micro Devices,United States,USD,486.28,493.41,7.1300
+2026-09-15,AMD.US,stock,Advanced Micro Devices,United States,USD,501.7,504.2,2.5000
+2026-09-16,AMD.US,stock,Advanced Micro Devices,United States,USD,517.39,512.5,-4.8900
+2026-09-17,AMD.US,stock,Advanced Micro Devices,United States,USD,533.6,545.09,11.4900
+2026-09-18,AMD.US,stock,Advanced Micro Devices,United States,USD,547.37,559.82,12.4500
+2026-09-21,AMD.US,stock,Advanced Micro Devices,United States,USD,583.88,615.52,31.6400
+2026-09-22,AMD.US,stock,Advanced Micro Devices,United States,USD,606.565,623.77,17.2050
+2026-09-23,AMD.US,stock,Advanced Micro Devices,United States,USD,621.5,614.61,-6.8900
+2026-09-24,AMD.US,stock,Advanced Micro Devices,United States,USD,600.27,629.26,28.9900
+2026-09-25,AMD.US,stock,Advanced Micro Devices,United States,USD,634.535,630.63,-3.9050
+2026-09-28,AMD.US,stock,Advanced Micro Devices,United States,USD,624.895,607.87,-17.0250
+2026-09-29,AMD.US,stock,Advanced Micro Devices,United States,USD,616.735,607.57,-9.1650
+2026-09-30,AMD.US,stock,Advanced Micro Devices,United States,USD,609.89,611.76,1.8700
+2026-09-01,AMZN.US,stock,Amazon,United States,USD,254.83,254.92,0.0900
+2026-09-02,AMZN.US,stock,Amazon,United States,USD,254.255,254.98,0.7250
+2026-09-03,AMZN.US,stock,Amazon,United States,USD,256.2,258.9,2.7000
+2026-09-04,AMZN.US,stock,Amazon,United States,USD,259.07,258.51,-0.5600
+2026-09-08,AMZN.US,stock,Amazon,United States,USD,256.675,256.97,0.2950
+2026-09-09,AMZN.US,stock,Amazon,United States,USD,253.12,252.4,-0.7200
+2026-09-10,AMZN.US,stock,Amazon,United States,USD,250.11,251.89,1.7800
+2026-09-11,AMZN.US,stock,Amazon,United States,USD,254.09,256.78,2.6900
+2026-09-14,AMZN.US,stock,Amazon,United States,USD,253.15,253.54,0.3900
+2026-09-15,AMZN.US,stock,Amazon,United States,USD,252.24,248.42,-3.8200
+2026-09-16,AMZN.US,stock,Amazon,United States,USD,248.1,245.96,-2.1400
+2026-09-17,AMZN.US,stock,Amazon,United States,USD,251.065,251.19,0.1250
+2026-09-18,AMZN.US,stock,Amazon,United States,USD,252.92,253.71,0.7900
+2026-09-21,AMZN.US,stock,Amazon,United States,USD,256.4,258.45,2.0500
+2026-09-22,AMZN.US,stock,Amazon,United States,USD,255.11,254.98,-0.1300
+2026-09-23,AMZN.US,stock,Amazon,United States,USD,253.0,249.27,-3.7300
+2026-09-24,AMZN.US,stock,Amazon,United States,USD,246.02,249.38,3.3600
+2026-09-25,AMZN.US,stock,Amazon,United States,USD,248.56,249.67,1.1100
+2026-09-28,AMZN.US,stock,Amazon,United States,USD,246.625,246.15,-0.4750
+2026-09-29,AMZN.US,stock,Amazon,United States,USD,246.705,246.67,-0.0350
+2026-09-30,AMZN.US,stock,Amazon,United States,USD,246.79,249.15,2.3600
 2025-01-02,AUDUSD,forex,Australian Dollar / U.S. Dollar,Global,,0.6188,0.62033,0.0015
 2025-01-03,AUDUSD,forex,Australian Dollar / U.S. Dollar,Global,,0.62046,0.62176,0.0013
 2025-01-06,AUDUSD,forex,Australian Dollar / U.S. Dollar,Global,,0.62109,0.62427,0.0032
@@ -451,6 +834,50 @@
 2026-09-28,AUDUSD,forex,Australian Dollar / U.S. Dollar,Global,,0.70158,0.70204,0.0005
 2026-09-29,AUDUSD,forex,Australian Dollar / U.S. Dollar,Global,,0.70203,0.69897,-0.0031
 2026-09-30,AUDUSD,forex,Australian Dollar / U.S. Dollar,Global,,0.69896,0.69461,-0.0044
+2026-10-01,AUDUSD,forex,Australian Dollar / U.S. Dollar,Global,,0.6946,0.69286,-0.0017
+2026-10-02,AUDUSD,forex,Australian Dollar / U.S. Dollar,Global,,0.69287,0.69257,-0.0003
+2026-09-01,AVGO.US,stock,Broadcom,United States,USD,364.25,369.68,5.4300
+2026-09-02,AVGO.US,stock,Broadcom,United States,USD,369.68,367.24,-2.4400
+2026-09-03,AVGO.US,stock,Broadcom,United States,USD,351.74,357.16,5.4200
+2026-09-04,AVGO.US,stock,Broadcom,United States,USD,359.7,357.895,-1.8050
+2026-09-08,AVGO.US,stock,Broadcom,United States,USD,363.675,368.56,4.8850
+2026-09-09,AVGO.US,stock,Broadcom,United States,USD,366.23,364.38,-1.8500
+2026-09-10,AVGO.US,stock,Broadcom,United States,USD,360.03,360.83,0.8000
+2026-09-11,AVGO.US,stock,Broadcom,United States,USD,364.85,361.99,-2.8600
+2026-09-14,AVGO.US,stock,Broadcom,United States,USD,349.63,344.72,-4.9100
+2026-09-15,AVGO.US,stock,Broadcom,United States,USD,346.04,339.27,-6.7700
+2026-09-16,AVGO.US,stock,Broadcom,United States,USD,342.365,339.51,-2.8550
+2026-09-17,AVGO.US,stock,Broadcom,United States,USD,346.615,347.3,0.6850
+2026-09-18,AVGO.US,stock,Broadcom,United States,USD,352.08,357.61,5.5300
+2026-09-21,AVGO.US,stock,Broadcom,United States,USD,358.655,362.66,4.0050
+2026-09-22,AVGO.US,stock,Broadcom,United States,USD,363.23,364.54,1.3100
+2026-09-23,AVGO.US,stock,Broadcom,United States,USD,362.2,354.99,-7.2100
+2026-09-24,AVGO.US,stock,Broadcom,United States,USD,349.21,350.36,1.1500
+2026-09-25,AVGO.US,stock,Broadcom,United States,USD,352.62,352.81,0.1900
+2026-09-28,AVGO.US,stock,Broadcom,United States,USD,352.865,349.57,-3.2950
+2026-09-29,AVGO.US,stock,Broadcom,United States,USD,357.0,355.1,-1.9000
+2026-09-30,AVGO.US,stock,Broadcom,United States,USD,356.9,351.19,-5.7100
+2026-09-01,AXP.US,stock,American Express,United States,USD,326.96,324.19,-2.7700
+2026-09-02,AXP.US,stock,American Express,United States,USD,326.06,329.98,3.9200
+2026-09-03,AXP.US,stock,American Express,United States,USD,332.25,329.82,-2.4300
+2026-09-04,AXP.US,stock,American Express,United States,USD,327.43,326.16,-1.2700
+2026-09-08,AXP.US,stock,American Express,United States,USD,324.44,326.1,1.6600
+2026-09-09,AXP.US,stock,American Express,United States,USD,323.8,321.8,-2.0000
+2026-09-10,AXP.US,stock,American Express,United States,USD,320.62,320.71,0.0900
+2026-09-11,AXP.US,stock,American Express,United States,USD,324.97,324.69,-0.2800
+2026-09-14,AXP.US,stock,American Express,United States,USD,323.905,327.78,3.8750
+2026-09-15,AXP.US,stock,American Express,United States,USD,326.66,324.43,-2.2300
+2026-09-16,AXP.US,stock,American Express,United States,USD,322.32,312.43,-9.8900
+2026-09-17,AXP.US,stock,American Express,United States,USD,316.09,311.17,-4.9200
+2026-09-18,AXP.US,stock,American Express,United States,USD,309.86,311.56,1.7000
+2026-09-21,AXP.US,stock,American Express,United States,USD,315.18,313.59,-1.5900
+2026-09-22,AXP.US,stock,American Express,United States,USD,316.12,305.07,-11.0500
+2026-09-23,AXP.US,stock,American Express,United States,USD,304.9,301.96,-2.9400
+2026-09-24,AXP.US,stock,American Express,United States,USD,302.28,305.66,3.3800
+2026-09-25,AXP.US,stock,American Express,United States,USD,307.0,308.89,1.8900
+2026-09-28,AXP.US,stock,American Express,United States,USD,307.7,306.33,-1.3700
+2026-09-29,AXP.US,stock,American Express,United States,USD,307.08,305.4,-1.6800
+2026-09-30,AXP.US,stock,American Express,United States,USD,306.185,304.1,-2.0850
 2025-01-02,BTCUSD,cryptocurrency,Bitcoin / U.S. Dollar,Global,USD/BTC,94606.4,96812.9,2206.5000
 2025-01-03,BTCUSD,cryptocurrency,Bitcoin / U.S. Dollar,Global,USD/BTC,96812.9,98303.2,1490.3000
 2025-01-06,BTCUSD,cryptocurrency,Bitcoin / U.S. Dollar,Global,USD/BTC,98652.4,102041.0,3388.6000
@@ -903,6 +1330,29 @@
 2026-09-28,BTCUSD,cryptocurrency,Bitcoin / U.S. Dollar,Global,USD/BTC,84667.5,83175.9,-1491.6000
 2026-09-29,BTCUSD,cryptocurrency,Bitcoin / U.S. Dollar,Global,USD/BTC,83184.9,83464.0,279.1000
 2026-09-30,BTCUSD,cryptocurrency,Bitcoin / U.S. Dollar,Global,USD/BTC,83464.0,83691.1,227.1000
+2026-10-01,BTCUSD,cryptocurrency,Bitcoin / U.S. Dollar,Global,USD/BTC,83711.4,84523.7,812.3000
+2026-10-02,BTCUSD,cryptocurrency,Bitcoin / U.S. Dollar,Global,USD/BTC,84534.4,85136.8,602.4000
+2026-09-01,C.US,stock,Citigroup,United States,USD,131.07,132.54,1.4700
+2026-09-02,C.US,stock,Citigroup,United States,USD,133.8,134.34,0.5400
+2026-09-03,C.US,stock,Citigroup,United States,USD,135.215,138.14,2.9250
+2026-09-04,C.US,stock,Citigroup,United States,USD,137.43,137.72,0.2900
+2026-09-08,C.US,stock,Citigroup,United States,USD,137.18,136.74,-0.4400
+2026-09-09,C.US,stock,Citigroup,United States,USD,135.5,137.8,2.3000
+2026-09-10,C.US,stock,Citigroup,United States,USD,137.55,138.5,0.9500
+2026-09-11,C.US,stock,Citigroup,United States,USD,140.11,138.82,-1.2900
+2026-09-14,C.US,stock,Citigroup,United States,USD,137.355,136.18,-1.1750
+2026-09-15,C.US,stock,Citigroup,United States,USD,138.0,136.17,-1.8300
+2026-09-16,C.US,stock,Citigroup,United States,USD,136.85,132.95,-3.9000
+2026-09-17,C.US,stock,Citigroup,United States,USD,135.2,132.7,-2.5000
+2026-09-18,C.US,stock,Citigroup,United States,USD,132.35,131.77,-0.5800
+2026-09-21,C.US,stock,Citigroup,United States,USD,133.74,135.05,1.3100
+2026-09-22,C.US,stock,Citigroup,United States,USD,134.87,132.47,-2.4000
+2026-09-23,C.US,stock,Citigroup,United States,USD,131.2,131.93,0.7300
+2026-09-24,C.US,stock,Citigroup,United States,USD,131.99,132.1,0.1100
+2026-09-25,C.US,stock,Citigroup,United States,USD,132.85,134.28,1.4300
+2026-09-28,C.US,stock,Citigroup,United States,USD,133.68,131.31,-2.3700
+2026-09-29,C.US,stock,Citigroup,United States,USD,131.9,130.8,-1.1000
+2026-09-30,C.US,stock,Citigroup,United States,USD,130.42,129.48,-0.9400
 2025-01-02,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,74.93,75.93,1.0000
 2025-01-03,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,75.98,76.51,0.5300
 2025-01-06,CB.F,commodity_future,Brent Crude Oil Futures,United Kingdom,,76.58,76.3,-0.2800
@@ -1792,6 +2242,27 @@
 2026-09-28,CC.F,commodity_future,Cocoa Futures,United States,,5625.0,5589.0,-36.0000
 2026-09-29,CC.F,commodity_future,Cocoa Futures,United States,,5590.0,5408.0,-182.0000
 2026-09-30,CC.F,commodity_future,Cocoa Futures,United States,,5345.0,5367.0,22.0000
+2026-09-01,CHTR.US,stock,Charter Communications,United States,USD,146.09,146.19,0.1000
+2026-09-02,CHTR.US,stock,Charter Communications,United States,USD,147.67,158.97,11.3000
+2026-09-03,CHTR.US,stock,Charter Communications,United States,USD,160.24,151.38,-8.8600
+2026-09-04,CHTR.US,stock,Charter Communications,United States,USD,150.7,151.99,1.2900
+2026-09-08,CHTR.US,stock,Charter Communications,United States,USD,151.94,145.74,-6.2000
+2026-09-09,CHTR.US,stock,Charter Communications,United States,USD,145.785,133.89,-11.8950
+2026-09-10,CHTR.US,stock,Charter Communications,United States,USD,133.98,140.56,6.5800
+2026-09-11,CHTR.US,stock,Charter Communications,United States,USD,142.035,145.77,3.7350
+2026-09-14,CHTR.US,stock,Charter Communications,United States,USD,145.77,143.35,-2.4200
+2026-09-15,CHTR.US,stock,Charter Communications,United States,USD,141.81,141.2,-0.6100
+2026-09-16,CHTR.US,stock,Charter Communications,United States,USD,139.82,135.0,-4.8200
+2026-09-17,CHTR.US,stock,Charter Communications,United States,USD,135.72,133.37,-2.3500
+2026-09-18,CHTR.US,stock,Charter Communications,United States,USD,131.23,128.17,-3.0600
+2026-09-21,CHTR.US,stock,Charter Communications,United States,USD,128.84,123.35,-5.4900
+2026-09-22,CHTR.US,stock,Charter Communications,United States,USD,125.95,117.26,-8.6900
+2026-09-23,CHTR.US,stock,Charter Communications,United States,USD,116.75,116.61,-0.1400
+2026-09-24,CHTR.US,stock,Charter Communications,United States,USD,117.02,117.55,0.5300
+2026-09-25,CHTR.US,stock,Charter Communications,United States,USD,116.03,112.91,-3.1200
+2026-09-28,CHTR.US,stock,Charter Communications,United States,USD,112.745,111.4,-1.3450
+2026-09-29,CHTR.US,stock,Charter Communications,United States,USD,110.41,110.67,0.2600
+2026-09-30,CHTR.US,stock,Charter Communications,United States,USD,112.05,110.9,-1.1500
 2025-01-02,CL.F,commodity_future,WTI Crude Oil Futures,United States,,71.85,73.13,1.2800
 2025-01-03,CL.F,commodity_future,WTI Crude Oil Futures,United States,,73.13,73.96,0.8300
 2025-01-06,CL.F,commodity_future,WTI Crude Oil Futures,United States,,74.05,73.56,-0.4900
@@ -2673,6 +3144,48 @@
 2026-09-25,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1207.25,1207.25,0.0000
 2026-09-28,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1208.5,1208.5,0.0000
 2026-09-29,CU.F,commodity_future,Crude Palm Oil Futures,Malaysia,,1198.25,1198.25,0.0000
+2026-09-01,CVX.US,stock,Chevron,United States,USD,209.0,211.05,2.0500
+2026-09-02,CVX.US,stock,Chevron,United States,USD,210.49,211.78,1.2900
+2026-09-03,CVX.US,stock,Chevron,United States,USD,212.38,211.32,-1.0600
+2026-09-04,CVX.US,stock,Chevron,United States,USD,209.51,208.6,-0.9100
+2026-09-08,CVX.US,stock,Chevron,United States,USD,211.25,209.8,-1.4500
+2026-09-09,CVX.US,stock,Chevron,United States,USD,212.875,213.81,0.9350
+2026-09-10,CVX.US,stock,Chevron,United States,USD,217.4,212.76,-4.6400
+2026-09-11,CVX.US,stock,Chevron,United States,USD,212.02,214.06,2.0400
+2026-09-14,CVX.US,stock,Chevron,United States,USD,217.0,212.17,-4.8300
+2026-09-15,CVX.US,stock,Chevron,United States,USD,212.885,217.77,4.8850
+2026-09-16,CVX.US,stock,Chevron,United States,USD,215.09,211.54,-3.5500
+2026-09-17,CVX.US,stock,Chevron,United States,USD,209.61,211.57,1.9600
+2026-09-18,CVX.US,stock,Chevron,United States,USD,211.085,209.51,-1.5750
+2026-09-21,CVX.US,stock,Chevron,United States,USD,207.89,203.67,-4.2200
+2026-09-22,CVX.US,stock,Chevron,United States,USD,201.87,202.41,0.5400
+2026-09-23,CVX.US,stock,Chevron,United States,USD,204.46,205.51,1.0500
+2026-09-24,CVX.US,stock,Chevron,United States,USD,207.24,205.65,-1.5900
+2026-09-25,CVX.US,stock,Chevron,United States,USD,203.805,204.45,0.6450
+2026-09-28,CVX.US,stock,Chevron,United States,USD,207.0,206.37,-0.6300
+2026-09-29,CVX.US,stock,Chevron,United States,USD,203.05,204.38,1.3300
+2026-09-30,CVX.US,stock,Chevron,United States,USD,205.09,204.21,-0.8800
+2026-09-01,DVA.US,stock,DaVita,United States,USD,176.32,176.14,-0.1800
+2026-09-02,DVA.US,stock,DaVita,United States,USD,176.43,179.39,2.9600
+2026-09-03,DVA.US,stock,DaVita,United States,USD,179.67,181.66,1.9900
+2026-09-04,DVA.US,stock,DaVita,United States,USD,180.97,183.99,3.0200
+2026-09-08,DVA.US,stock,DaVita,United States,USD,183.11,180.06,-3.0500
+2026-09-09,DVA.US,stock,DaVita,United States,USD,178.9,183.01,4.1100
+2026-09-10,DVA.US,stock,DaVita,United States,USD,183.62,181.33,-2.2900
+2026-09-11,DVA.US,stock,DaVita,United States,USD,181.24,181.55,0.3100
+2026-09-14,DVA.US,stock,DaVita,United States,USD,185.0,189.32,4.3200
+2026-09-15,DVA.US,stock,DaVita,United States,USD,188.09,190.9,2.8100
+2026-09-16,DVA.US,stock,DaVita,United States,USD,191.43,193.86,2.4300
+2026-09-17,DVA.US,stock,DaVita,United States,USD,194.57,183.09,-11.4800
+2026-09-18,DVA.US,stock,DaVita,United States,USD,183.96,183.86,-0.1000
+2026-09-21,DVA.US,stock,DaVita,United States,USD,184.47,182.34,-2.1300
+2026-09-22,DVA.US,stock,DaVita,United States,USD,184.01,183.72,-0.2900
+2026-09-23,DVA.US,stock,DaVita,United States,USD,184.03,183.14,-0.8900
+2026-09-24,DVA.US,stock,DaVita,United States,USD,183.1,174.67,-8.4300
+2026-09-25,DVA.US,stock,DaVita,United States,USD,175.38,178.47,3.0900
+2026-09-28,DVA.US,stock,DaVita,United States,USD,178.71,178.07,-0.6400
+2026-09-29,DVA.US,stock,DaVita,United States,USD,176.92,175.19,-1.7300
+2026-09-30,DVA.US,stock,DaVita,United States,USD,176.08,174.92,-1.1600
 2025-01-02,DX.C,currency_index,U.S. Dollar Index,United States,index_points,108.526,109.394,0.8680
 2025-01-03,DX.C,currency_index,U.S. Dollar Index,United States,index_points,109.204,108.952,-0.2520
 2025-01-06,DX.C,currency_index,U.S. Dollar Index,United States,index_points,108.97,108.257,-0.7130
@@ -3124,6 +3637,637 @@
 2026-09-28,DX.C,currency_index,U.S. Dollar Index,United States,index_points,101.102,101.197,0.0950
 2026-09-29,DX.C,currency_index,U.S. Dollar Index,United States,index_points,101.177,101.372,0.1950
 2026-09-30,DX.C,currency_index,U.S. Dollar Index,United States,index_points,101.177,101.451,0.2740
+2026-10-01,DX.C,currency_index,U.S. Dollar Index,United States,index_points,101.459,102.099,0.6400
+2025-01-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3333.668,3354.604,20.9360
+2025-01-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3353.985,3437.22,83.2350
+2025-01-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3436.501,3614.77,178.2690
+2025-01-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3614.77,3659.358,44.5880
+2025-01-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3659.348,3644.919,-14.4290
+2025-01-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3644.419,3679.587,35.1680
+2025-01-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3679.137,3396.224,-282.9130
+2025-01-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3394.835,3332.14,-62.6950
+2025-01-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3332.13,3224.037,-108.0930
+2025-01-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3223.814,3272.633,48.8190
+2025-01-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3272.713,3287.091,14.3780
+2025-01-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3287.631,3238.393,-49.2380
+2025-01-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3239.313,3130.645,-108.6680
+2025-01-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3131.414,3234.051,102.6370
+2025-01-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3233.661,3430.893,197.2320
+2025-01-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3430.883,3296.839,-134.0440
+2025-01-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3296.392,3471.286,174.8940
+2025-01-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3470.846,3277.485,-193.3610
+2025-01-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3277.475,3215.813,-61.6620
+2025-01-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3239.016,3313.769,74.7530
+2025-01-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3314.309,3334.19,19.8810
+2025-01-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3334.407,3236.863,-97.5440
+2025-01-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3238.113,3322.921,84.8080
+2025-01-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3323.101,3325.703,2.6020
+2025-01-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3323.243,3334.306,11.0630
+2025-01-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3333.167,3288.117,-45.0500
+2025-01-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3285.957,3169.617,-116.3400
+2025-01-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3172.927,3082.145,-90.7820
+2025-01-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3082.005,3132.475,50.4700
+2025-01-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3132.325,3261.123,128.7980
+2025-01-31,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3262.144,3295.424,33.2800
+2025-02-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3295.424,3137.187,-158.2370
+2025-02-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3136.917,2870.259,-266.6580
+2025-02-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2871.407,2868.225,-3.1820
+2025-02-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2873.761,2685.305,-188.4560
+2025-02-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2685.155,2759.631,74.4760
+2025-02-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2759.631,2700.689,-58.9420
+2025-02-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2699.799,2583.988,-115.8110
+2025-02-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2583.768,2627.22,43.4520
+2025-02-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2627.01,2616.734,-10.2760
+2025-02-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2615.094,2658.942,43.8480
+2025-02-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2657.682,2586.006,-71.6760
+2025-02-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2586.185,2746.202,160.0170
+2025-02-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2745.502,2668.353,-77.1490
+2025-02-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2669.083,2718.452,49.3690
+2025-02-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2718.292,2695.389,-22.9030
+2025-02-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2695.416,2679.195,-16.2210
+2025-02-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2679.185,2738.452,59.2670
+2025-02-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2737.582,2654.213,-83.3690
+2025-02-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2654.24,2721.046,66.8060
+2025-02-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2721.809,2729.059,7.2500
+2025-02-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2728.139,2641.812,-86.3270
+2025-02-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2641.912,2796.516,154.6040
+2025-02-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2812.44,2803.532,-8.9080
+2025-02-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2803.582,2507.76,-295.8220
+2025-02-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2511.824,2508.469,-3.3550
+2025-02-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2508.019,2344.067,-163.9520
+2025-02-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2344.067,2289.38,-54.6870
+2025-02-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2288.691,2215.028,-73.6630
+2025-03-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2214.729,2213.651,-1.0780
+2025-03-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2214.061,2537.317,323.2560
+2025-03-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2536.987,2164.164,-372.8230
+2025-03-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2163.934,2166.035,2.1010
+2025-03-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2166.223,2237.291,71.0680
+2025-03-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2237.731,2211.368,-26.3630
+2025-03-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2211.358,2143.678,-67.6800
+2025-03-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2143.668,2206.772,63.1040
+2025-03-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2207.261,2007.596,-199.6650
+2025-03-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2009.305,1879.214,-130.0910
+2025-03-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1879.214,1942.965,63.7510
+2025-03-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1943.165,1909.942,-33.2230
+2025-03-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1910.251,1878.347,-31.9040
+2025-03-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1878.257,1926.809,48.5520
+2025-03-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1926.939,1943.761,16.8220
+2025-03-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1943.751,1874.549,-69.2020
+2025-03-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1874.439,1932.065,57.6260
+2025-03-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1932.075,1917.495,-14.5800
+2025-03-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1917.495,2049.21,131.7150
+2025-03-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2049.49,1975.641,-73.8490
+2025-03-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1975.771,1965.42,-10.3510
+2025-03-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1964.79,1984.414,19.6240
+2025-03-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1984.275,1986.794,2.5190
+2025-03-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1987.004,2076.952,89.9480
+2025-03-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2076.952,2063.001,-13.9510
+2025-03-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2063.001,2000.33,-62.6710
+2025-03-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2000.45,2007.418,6.9680
+2025-03-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2007.418,1900.307,-107.1110
+2025-03-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1900.317,1816.228,-84.0890
+2025-03-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1816.228,1804.626,-11.6020
+2025-03-31,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1804.726,1823.99,19.2640
+2025-04-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1823.24,1914.097,90.8570
+2025-04-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1914.637,1865.99,-48.6470
+2025-04-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1865.88,1811.727,-54.1530
+2025-04-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1811.887,1817.121,5.2340
+2025-04-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1817.531,1789.584,-27.9470
+2025-04-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1789.584,1586.617,-202.9670
+2025-04-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1586.637,1567.697,-18.9400
+2025-04-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1568.627,1475.811,-92.8160
+2025-04-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1476.27,1671.49,195.2200
+2025-04-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1670.873,1524.092,-146.7810
+2025-04-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1524.891,1572.394,47.5030
+2025-04-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1572.883,1646.841,73.9580
+2025-04-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1647.821,1593.352,-54.4690
+2025-04-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1593.822,1625.117,31.2950
+2025-04-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1625.087,1604.031,-21.0560
+2025-04-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1603.681,1591.431,-12.2500
+2025-04-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1592.401,1588.169,-4.2320
+2025-04-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1587.159,1599.91,12.7510
+2025-04-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1600.05,1620.77,20.7200
+2025-04-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1620.77,1588.682,-32.0880
+2025-04-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1588.672,1578.668,-10.0040
+2025-04-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1578.558,1754.316,175.7580
+2025-04-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1755.056,1792.217,37.1610
+2025-04-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1792.547,1761.328,-31.2190
+2025-04-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1761.638,1790.944,29.3060
+2025-04-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1791.134,1812.111,20.9770
+2025-04-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1812.231,1803.06,-9.1710
+2025-04-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1803.27,1793.271,-9.9990
+2025-04-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1793.281,1800.38,7.0990
+2025-04-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1799.82,1792.161,-7.6590
+2025-05-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1792.161,1843.516,51.3550
+2025-05-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1844.076,1837.356,-6.7200
+2025-05-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1837.356,1840.816,3.4600
+2025-05-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1841.24,1835.043,-6.1970
+2025-05-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1834.973,1815.66,-19.3130
+2025-05-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1815.49,1775.632,-39.8580
+2025-05-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1776.272,1802.31,26.0380
+2025-05-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1802.55,2178.988,376.4380
+2025-05-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2178.808,2337.352,158.5440
+2025-05-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2337.732,2535.796,198.0640
+2025-05-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2533.607,2516.517,-17.0900
+2025-05-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2517.616,2479.076,-38.5400
+2025-05-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2479.386,2690.82,211.4340
+2025-05-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2690.45,2605.818,-84.6320
+2025-05-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2605.818,2535.0,-70.8180
+2025-05-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2535.2,2567.26,32.0600
+2025-05-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2567.26,2485.751,-81.5090
+2025-05-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2485.921,2406.361,-79.5600
+2025-05-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2407.031,2523.05,116.0190
+2025-05-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2522.54,2510.09,-12.4500
+2025-05-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2511.06,2505.451,-5.6090
+2025-05-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2505.261,2636.954,131.6930
+2025-05-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2637.685,2534.822,-102.8630
+2025-05-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2534.942,2540.064,5.1220
+2025-05-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2540.454,2515.241,-25.2130
+2025-05-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2516.232,2562.067,45.8350
+2025-05-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2562.617,2663.223,100.6060
+2025-05-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2663.433,2652.89,-10.5430
+2025-05-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2652.39,2660.378,7.9880
+2025-05-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2660.378,2568.419,-91.9590
+2025-05-31,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2568.429,2543.649,-24.7800
+2025-06-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2543.939,2539.764,-4.1750
+2025-06-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2540.204,2560.816,20.6120
+2025-06-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2560.546,2590.405,29.8590
+2025-06-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2588.674,2620.059,31.3850
+2025-06-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2620.059,2437.901,-182.1580
+2025-06-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2435.981,2493.015,57.0340
+2025-06-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2493.015,2523.895,30.8800
+2025-06-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2523.905,2539.523,15.6180
+2025-06-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2539.923,2643.939,104.0160
+2025-06-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2643.949,2774.296,130.3470
+2025-06-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2774.937,2783.723,8.7860
+2025-06-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2782.703,2634.917,-147.7860
+2025-06-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2634.787,2556.299,-78.4880
+2025-06-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2556.689,2528.696,-27.9930
+2025-06-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2530.417,2519.162,-11.2550
+2025-06-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2518.031,2650.304,132.2730
+2025-06-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2649.839,2520.204,-129.6350
+2025-06-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2519.252,2528.888,9.6360
+2025-06-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2528.798,2511.636,-17.1620
+2025-06-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2512.026,2415.837,-96.1890
+2025-06-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2415.847,2282.356,-133.4910
+2025-06-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2282.156,2178.877,-103.2790
+2025-06-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2179.307,2343.267,163.9600
+2025-06-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2343.968,2447.98,104.0120
+2025-06-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2447.299,2433.021,-14.2780
+2025-06-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2433.091,2416.04,-17.0510
+2025-06-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2415.94,2421.554,5.6140
+2025-06-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2421.544,2437.695,16.1510
+2025-06-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2438.336,2432.922,-5.4140
+2025-06-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2432.776,2488.715,55.9390
+2025-07-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2488.845,2408.584,-80.2610
+2025-07-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2407.403,2598.198,190.7950
+2025-07-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2598.639,2597.337,-1.3020
+2025-07-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2597.177,2497.399,-99.7780
+2025-07-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2496.909,2517.405,20.4960
+2025-07-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2517.155,2588.735,71.5800
+2025-07-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2589.185,2540.95,-48.2350
+2025-07-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2540.95,2609.541,68.5910
+2025-07-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2609.631,2753.821,144.1900
+2025-07-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2754.101,2975.983,221.8820
+2025-07-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2974.252,2967.43,-6.8220
+2025-07-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2967.3,2925.707,-41.5930
+2025-07-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2934.958,2966.472,31.5140
+2025-07-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2963.385,3010.99,47.6050
+2025-07-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3006.671,3080.49,73.8190
+2025-07-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3081.57,3375.35,293.7800
+2025-07-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3384.631,3469.724,85.0930
+2025-07-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3471.515,3554.611,83.0960
+2025-07-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3554.601,3575.757,21.1560
+2025-07-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3565.612,3771.431,205.8190
+2025-07-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3744.277,3752.0,7.7230
+2025-07-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3756.0,3706.892,-49.1080
+2025-07-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3717.535,3591.749,-125.7860
+2025-07-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3593.239,3728.015,134.7760
+2025-07-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3711.195,3719.862,8.6670
+2025-07-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3716.743,3759.146,42.4030
+2025-07-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3759.132,3838.261,79.1290
+2025-07-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3849.655,3789.559,-60.0960
+2025-07-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3789.609,3780.384,-9.2250
+2025-07-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3780.814,3763.104,-17.7100
+2025-07-31,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3762.724,3730.887,-31.8370
+2025-08-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3722.478,3535.829,-186.6490
+2025-08-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3535.919,3412.089,-123.8300
+2025-08-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3420.338,3502.08,81.7420
+2025-08-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3500.77,3710.512,209.7420
+2025-08-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3712.692,3575.61,-137.0820
+2025-08-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3574.28,3670.981,96.7010
+2025-08-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3670.901,3873.079,202.1780
+2025-08-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3873.489,4039.308,165.8190
+2025-08-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4037.011,4279.861,242.8500
+2025-08-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4280.602,4224.165,-56.4370
+2025-08-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4223.995,4219.94,-4.0550
+2025-08-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4221.29,4585.82,364.5300
+2025-08-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4574.2,4722.688,148.4880
+2025-08-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4722.928,4481.035,-241.8930
+2025-08-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4481.035,4431.487,-49.5480
+2025-08-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4432.728,4411.907,-20.8210
+2025-08-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4411.937,4477.962,66.0250
+2025-08-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4477.962,4356.062,-121.9000
+2025-08-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4378.035,4153.555,-224.4800
+2025-08-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4153.565,4343.403,189.8380
+2025-08-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4353.836,4243.096,-110.7400
+2025-08-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4243.096,4851.54,608.4440
+2025-08-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4850.55,4749.495,-101.0550
+2025-08-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4749.485,4797.6,48.1150
+2025-08-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4785.861,4350.645,-435.2160
+2025-08-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4352.645,4605.991,253.3460
+2025-08-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4605.991,4526.347,-79.6440
+2025-08-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4528.658,4488.558,-40.1000
+2025-08-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4488.839,4366.099,-122.7400
+2025-08-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4366.71,4347.345,-19.3650
+2025-08-31,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4347.345,4470.844,123.4990
+2025-09-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4471.824,4262.046,-209.7780
+2025-09-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4259.146,4329.979,70.8330
+2025-09-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4331.279,4463.075,131.7960
+2025-09-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4463.255,4320.134,-143.1210
+2025-09-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4319.364,4297.759,-21.6050
+2025-09-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4297.759,4284.875,-12.8840
+2025-09-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4284.245,4289.949,5.7040
+2025-09-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4287.719,4323.044,35.3250
+2025-09-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4323.044,4302.8,-20.2440
+2025-09-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4303.3,4352.315,49.0150
+2025-09-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4352.365,4432.125,79.7600
+2025-09-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4432.195,4653.53,221.3350
+2025-09-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4653.53,4666.764,13.2340
+2025-09-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4667.055,4633.071,-33.9840
+2025-09-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4635.753,4525.617,-110.1360
+2025-09-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4526.718,4509.453,-17.2650
+2025-09-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4511.104,4531.445,20.3410
+2025-09-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4532.725,4597.027,64.3020
+2025-09-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4596.527,4474.053,-122.4740
+2025-09-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4474.053,4493.164,19.1110
+2025-09-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4493.174,4474.7,-18.4740
+2025-09-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4474.32,4201.129,-273.1910
+2025-09-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4201.119,4185.972,-15.1470
+2025-09-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4185.452,4148.017,-37.4350
+2025-09-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4147.247,3906.842,-240.4050
+2025-09-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3906.832,4026.559,119.7270
+2025-09-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4026.819,4017.54,-9.2790
+2025-09-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4019.161,4051.975,32.8140
+2025-09-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4051.985,4226.947,174.9620
+2025-09-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4227.387,4154.706,-72.6810
+2025-10-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4157.198,4307.803,150.6050
+2025-10-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4308.594,4472.285,163.6910
+2025-10-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4472.295,4527.181,54.8860
+2025-10-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4527.171,4487.191,-39.9800
+2025-10-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4487.411,4507.673,20.2620
+2025-10-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4509.544,4695.496,185.9520
+2025-10-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4694.545,4496.605,-197.9400
+2025-10-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4496.715,4527.274,30.5590
+2025-10-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4527.685,4360.465,-167.2200
+2025-10-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4361.105,3982.615,-378.4900
+2025-10-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3980.874,3739.519,-241.3550
+2025-10-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3740.62,4138.371,397.7510
+2025-10-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4142.425,4262.122,119.6970
+2025-10-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4262.122,4120.361,-141.7610
+2025-10-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4120.049,3955.072,-164.9770
+2025-10-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3956.953,3885.794,-71.1590
+2025-10-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3885.744,3878.281,-7.4630
+2025-10-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3878.741,3893.866,15.1250
+2025-10-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3893.636,3998.979,105.3430
+2025-10-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4000.41,3978.461,-21.9490
+2025-10-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3977.921,3947.977,-29.9440
+2025-10-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3947.987,3745.803,-202.1840
+2025-10-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3745.803,3830.824,85.0210
+2025-10-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3829.194,3944.993,115.7990
+2025-10-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3946.088,3953.27,7.1820
+2025-10-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3953.291,4161.482,208.1910
+2025-10-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4160.642,4123.232,-37.4100
+2025-10-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,4123.642,3995.799,-127.8430
+2025-10-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3995.119,3941.768,-53.3510
+2025-10-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3940.568,3783.79,-156.7780
+2025-10-31,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3783.79,3854.118,70.3280
+2025-11-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3853.368,3873.905,20.5370
+2025-11-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3873.895,3853.43,-20.4650
+2025-11-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3855.18,3589.851,-265.3290
+2025-11-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3589.851,3246.265,-343.5860
+2025-11-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3245.685,3424.74,179.0550
+2025-11-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3425.04,3319.064,-105.9760
+2025-11-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3318.614,3444.856,126.2420
+2025-11-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3445.526,3408.818,-36.7080
+2025-11-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3408.458,3587.35,178.8920
+2025-11-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3588.4,3575.195,-13.2050
+2025-11-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3575.715,3429.567,-146.1480
+2025-11-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3430.487,3421.928,-8.5590
+2025-11-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3421.268,3227.256,-194.0120
+2025-11-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3227.266,3156.623,-70.6430
+2025-11-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3156.333,3169.617,13.2840
+2025-11-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3169.697,3089.594,-80.1030
+2025-11-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3090.554,3020.589,-69.9650
+2025-11-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3021.019,3124.672,103.6530
+2025-11-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3125.352,2981.854,-143.4980
+2025-11-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2981.934,2883.093,-98.8410
+2025-11-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2882.503,2721.421,-161.0820
+2025-11-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2721.461,2788.154,66.6930
+2025-11-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2788.054,2838.186,50.1320
+2025-11-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2840.882,2960.614,119.7320
+2025-11-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2960.054,2969.529,9.4750
+2025-11-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2969.829,3028.073,58.2440
+2025-11-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3027.413,3011.522,-15.8910
+2025-11-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3011.222,3040.382,29.1600
+2025-11-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3040.452,2989.727,-50.7250
+2025-11-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2990.177,3033.913,43.7360
+2025-12-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3033.923,2797.919,-236.0040
+2025-12-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2798.15,3018.487,220.3370
+2025-12-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3018.377,3189.607,171.2300
+2025-12-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3189.206,3144.917,-44.2890
+2025-12-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3144.997,3027.698,-117.2990
+2025-12-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3028.038,3043.087,15.0490
+2025-12-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3042.877,3035.05,-7.8270
+2025-12-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3034.18,3130.556,96.3760
+2025-12-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3129.996,3334.393,204.3970
+2025-12-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3328.366,3347.504,19.1380
+2025-12-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3348.394,3239.888,-108.5060
+2025-12-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3238.928,3093.918,-145.0100
+2025-12-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3094.498,3114.993,20.4950
+2025-12-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3114.983,3075.47,-39.5130
+2025-12-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3075.63,2952.325,-123.3050
+2025-12-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2952.325,2954.23,1.9050
+2025-12-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2954.82,2834.433,-120.3870
+2025-12-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2834.753,2828.581,-6.1720
+2025-12-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2829.221,2987.345,158.1240
+2025-12-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2986.605,2976.895,-9.7100
+2025-12-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2976.775,2996.02,19.2450
+2025-12-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2996.13,3011.116,14.9860
+2025-12-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3011.116,2960.195,-50.9210
+2025-12-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2960.145,2958.952,-1.1930
+2025-12-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2958.952,2919.992,-38.9600
+2025-12-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2920.841,2930.327,9.4860
+2025-12-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2930.107,2932.367,2.2600
+2025-12-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2932.297,2948.43,16.1330
+2025-12-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2952.627,2936.113,-16.5140
+2025-12-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2936.073,2967.451,31.3780
+2025-12-31,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2967.331,2973.567,6.2360
+2026-01-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2973.078,2996.301,23.2230
+2026-01-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2997.789,3132.87,135.0810
+2026-01-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3131.56,3121.843,-9.7170
+2026-01-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3121.853,3140.542,18.6890
+2026-01-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3140.142,3239.7,99.5580
+2026-01-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3238.81,3278.556,39.7460
+2026-01-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3278.028,3151.118,-126.9100
+2026-01-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3151.138,3115.218,-35.9200
+2026-01-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3116.157,3083.482,-32.6750
+2026-01-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3083.492,3077.659,-5.8330
+2026-01-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3077.28,3106.179,28.8990
+2026-01-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3104.821,3095.811,-9.0100
+2026-01-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3093.194,3331.91,238.7160
+2026-01-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3341.542,3350.605,9.0630
+2026-01-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3356.99,3305.298,-51.6920
+2026-01-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3306.569,3292.842,-13.7270
+2026-01-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3292.782,3301.509,8.7270
+2026-01-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3300.229,3349.775,49.5460
+2026-01-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3349.765,3187.724,-162.0410
+2026-01-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3188.134,2948.739,-239.3950
+2026-01-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2949.518,3009.135,59.6170
+2026-01-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3008.825,2950.149,-58.6760
+2026-01-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2950.129,2957.652,7.5230
+2026-01-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2956.269,2960.037,3.7680
+2026-01-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2959.141,2805.065,-154.0760
+2026-01-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2805.475,2925.361,119.8860
+2026-01-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2922.952,3017.584,94.6320
+2026-01-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3017.594,3015.599,-1.9950
+2026-01-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,3015.599,2816.446,-199.1530
+2026-01-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2816.586,2706.668,-109.9180
+2026-01-31,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2706.658,2417.412,-289.2460
+2026-02-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2417.113,2317.475,-99.6380
+2026-02-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2316.835,2350.124,33.2890
+2026-02-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2350.244,2234.21,-116.0340
+2026-02-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2233.63,2116.454,-117.1760
+2026-02-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2115.496,1867.497,-247.9990
+2026-02-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1867.787,2074.122,206.3350
+2026-02-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2073.713,2087.735,14.0220
+2026-02-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2088.544,2107.207,18.6630
+2026-02-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2107.047,2114.374,7.3270
+2026-02-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2114.034,2017.153,-96.8810
+2026-02-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2016.063,1950.679,-65.3840
+2026-02-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1950.669,1941.814,-8.8550
+2026-02-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1942.024,2053.789,111.7650
+2026-02-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2053.469,2089.444,35.9750
+2026-02-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2089.624,1969.482,-120.1420
+2026-02-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1969.052,1989.673,20.6210
+2026-02-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1989.373,1993.751,4.3780
+2026-02-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1993.041,1947.5,-45.5410
+2026-02-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1948.76,1944.076,-4.6840
+2026-02-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1944.576,1971.42,26.8440
+2026-02-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1971.02,1975.045,4.0250
+2026-02-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1974.785,1959.383,-15.4020
+2026-02-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1959.173,1859.93,-99.2430
+2026-02-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1860.1,1861.676,1.5760
+2026-02-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1861.306,2084.353,223.0470
+2026-02-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2083.973,2034.307,-49.6660
+2026-02-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2034.006,1922.351,-111.6550
+2026-02-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1921.89,1966.866,44.9760
+2026-03-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1966.626,1925.99,-40.6360
+2026-03-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1925.429,2054.837,129.4080
+2026-03-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2055.158,1983.697,-71.4610
+2026-03-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1982.566,2133.26,150.6940
+2026-03-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2132.41,2080.526,-51.8840
+2026-03-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2080.806,1987.349,-93.4570
+2026-03-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1987.827,1967.03,-20.7970
+2026-03-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1967.05,1944.162,-22.8880
+2026-03-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1944.007,2002.33,58.3230
+2026-03-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2002.55,2027.64,25.0900
+2026-03-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2028.05,2062.172,34.1220
+2026-03-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2061.862,2065.763,3.9010
+2026-03-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2065.883,2089.248,23.3650
+2026-03-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2089.358,2084.867,-4.4910
+2026-03-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2084.607,2184.797,100.1900
+2026-03-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2185.107,2358.066,172.9590
+2026-03-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2358.176,2329.53,-28.6460
+2026-03-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2329.65,2194.41,-135.2400
+2026-03-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2193.83,2140.498,-53.3320
+2026-03-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2140.748,2154.279,13.5310
+2026-03-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2154.269,2149.725,-4.5440
+2026-03-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2149.705,2062.53,-87.1750
+2026-03-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2063.07,2152.354,89.2840
+2026-03-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2151.754,2144.956,-6.7980
+2026-03-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2144.956,2174.313,29.3570
+2026-03-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2174.54,2065.477,-109.0630
+2026-03-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2065.577,1984.914,-80.6630
+2026-03-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1984.774,2011.679,26.9050
+2026-03-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2011.679,2006.309,-5.3700
+2026-03-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2005.599,2037.014,31.4150
+2026-03-31,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2036.24,2101.999,65.7590
+2026-04-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2102.139,2157.55,55.4110
+2026-04-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2156.85,2062.98,-93.8700
+2026-04-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2062.354,2058.616,-3.7380
+2026-04-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2058.616,2069.254,10.6380
+2026-04-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2069.644,2060.216,-9.4280
+2026-04-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2059.926,2139.968,80.0420
+2026-04-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2139.938,2144.825,4.8870
+2026-04-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2146.475,2215.194,68.7190
+2026-04-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2215.314,2211.001,-4.3130
+2026-04-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2211.371,2255.782,44.4110
+2026-04-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2255.872,2300.5,44.6280
+2026-04-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2300.02,2212.796,-87.2240
+2026-04-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2211.125,2261.2,50.0750
+2026-04-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2261.176,2325.347,64.1710
+2026-04-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2324.574,2361.998,37.4240
+2026-04-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2361.558,2341.882,-19.6760
+2026-04-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2341.882,2430.472,88.5900
+2026-04-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2430.605,2356.272,-74.3330
+2026-04-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2355.782,2277.0,-78.7820
+2026-04-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2276.81,2322.841,46.0310
+2026-04-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2323.901,2313.716,-10.1850
+2026-04-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2313.716,2403.741,90.0250
+2026-04-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2403.251,2324.664,-78.5870
+2026-04-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2323.053,2316.538,-6.5150
+2026-04-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2316.348,2316.035,-0.3130
+2026-04-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2316.225,2365.336,49.1110
+2026-04-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2364.655,2287.33,-77.3250
+2026-04-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2287.34,2290.12,2.7800
+2026-04-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2290.43,2252.229,-38.2010
+2026-04-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2251.989,2254.711,2.7220
+2026-05-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2255.2,2291.294,36.0940
+2026-05-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2291.464,2325.377,33.9130
+2026-05-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2326.127,2324.27,-1.8570
+2026-05-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2324.27,2360.408,36.1380
+2026-05-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2360.178,2375.192,15.0140
+2026-05-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2375.3,2354.755,-20.5450
+2026-05-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2354.815,2288.03,-66.7850
+2026-05-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2287.779,2314.439,26.6600
+2026-05-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2314.399,2330.81,16.4110
+2026-05-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2330.96,2331.023,0.0630
+2026-05-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2330.853,2340.486,9.6330
+2026-05-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2340.486,2285.629,-54.8570
+2026-05-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2286.789,2255.113,-31.6760
+2026-05-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2255.673,2296.281,40.6080
+2026-05-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2296.281,2215.757,-80.5240
+2026-05-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2217.786,2181.745,-36.0410
+2026-05-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2181.735,2190.712,8.9770
+2026-05-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2189.582,2135.68,-53.9020
+2026-05-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2136.41,2115.7,-20.7100
+2026-05-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2114.62,2128.916,14.2960
+2026-05-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2127.896,2133.735,5.8390
+2026-05-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2134.165,2076.517,-57.6480
+2026-05-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2076.248,2114.713,38.4650
+2026-05-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2114.713,2068.726,-45.9870
+2026-05-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2068.726,2109.633,40.9070
+2026-05-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2109.633,2070.57,-39.0630
+2026-05-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2070.61,2018.495,-52.1150
+2026-05-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2018.505,2017.14,-1.3650
+2026-05-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2016.621,2007.572,-9.0490
+2026-05-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2007.751,2025.301,17.5500
+2026-05-31,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2024.838,2009.373,-15.4650
+2026-06-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2009.023,1992.575,-16.4480
+2026-06-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1991.976,1898.03,-93.9460
+2026-06-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1897.86,1847.705,-50.1550
+2026-06-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1845.957,1760.213,-85.7440
+2026-06-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1759.863,1609.115,-150.7480
+2026-06-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1608.635,1557.421,-51.2140
+2026-06-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1557.321,1633.646,76.3250
+2026-06-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1633.926,1702.627,68.7010
+2026-06-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1701.818,1649.795,-52.0230
+2026-06-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1650.125,1610.212,-39.9130
+2026-06-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1610.442,1675.481,65.0390
+2026-06-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1675.481,1664.267,-11.2140
+2026-06-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1663.847,1685.934,22.0870
+2026-06-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1685.944,1717.203,31.2590
+2026-06-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1717.143,1810.253,93.1100
+2026-06-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1810.303,1795.083,-15.2200
+2026-06-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1795.083,1737.857,-57.2260
+2026-06-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1737.867,1707.887,-29.9800
+2026-06-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1706.938,1701.169,-5.7690
+2026-06-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1701.009,1734.782,33.7730
+2026-06-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1734.462,1716.791,-17.6710
+2026-06-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1716.782,1731.87,15.0880
+2026-06-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1731.99,1665.25,-66.7400
+2026-06-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1665.17,1619.414,-45.7560
+2026-06-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1619.404,1579.109,-40.2950
+2026-06-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1578.829,1573.47,-5.3590
+2026-06-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1573.28,1573.174,-0.1060
+2026-06-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1572.246,1561.038,-11.2080
+2026-06-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1561.777,1617.884,56.1070
+2026-06-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1617.894,1569.48,-48.4140
+2026-07-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1569.799,1630.381,60.5820
+2026-07-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1629.992,1698.75,68.7580
+2026-07-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1698.67,1762.208,63.5380
+2026-07-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1762.208,1788.33,26.1220
+2026-07-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1787.85,1785.272,-2.5780
+2026-07-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1784.982,1813.678,28.6960
+2026-07-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1814.078,1772.78,-41.2980
+2026-07-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1772.88,1736.712,-36.1680
+2026-07-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1736.892,1746.619,9.7270
+2026-07-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1746.579,1793.455,46.8760
+2026-07-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1793.445,1822.993,29.5480
+2026-07-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1822.903,1811.614,-11.2890
+2026-07-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1811.624,1760.251,-51.3730
+2026-07-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1760.191,1875.404,115.2130
+2026-07-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1875.314,1920.837,45.5230
+2026-07-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1920.847,1877.543,-43.3040
+2026-07-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1878.152,1840.463,-37.6890
+2026-07-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1840.453,1859.445,18.9920
+2026-07-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1858.985,1860.344,1.3590
+2026-07-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1860.444,1900.748,40.3040
+2026-07-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1900.698,1922.578,21.8800
+2026-07-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1921.971,1936.855,14.8840
+2026-07-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1937.015,1881.074,-55.9410
+2026-07-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1881.454,1855.998,-25.4560
+2026-07-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1856.064,1870.955,14.8910
+2026-07-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1870.965,1923.662,52.6970
+2026-07-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1924.111,1940.249,16.1380
+2026-07-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1940.249,1921.641,-18.6080
+2026-07-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1921.651,1895.722,-25.9290
+2026-07-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1895.752,1916.176,20.4240
+2026-07-31,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1913.899,1859.772,-54.1270
+2026-08-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1859.762,1843.76,-16.0020
+2026-08-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1844.079,1888.042,43.9630
+2026-08-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1889.11,1861.121,-27.9890
+2026-08-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1860.931,1869.973,9.0420
+2026-08-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1869.794,1906.39,36.5960
+2026-08-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1906.769,1903.812,-2.9570
+2026-08-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1903.802,1914.633,10.8310
+2026-08-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1914.935,1919.413,4.4780
+2026-08-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1919.423,1922.998,3.5750
+2026-08-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1924.127,1872.556,-51.5710
+2026-08-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1873.015,1883.125,10.1100
+2026-08-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1883.334,1876.072,-7.2620
+2026-08-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1875.343,1886.694,11.3510
+2026-08-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1886.843,1877.739,-9.1040
+2026-08-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1877.609,1883.096,5.4870
+2026-08-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1882.897,1873.844,-9.0530
+2026-08-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1873.017,1904.273,31.2560
+2026-08-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1904.343,1910.107,5.7640
+2026-08-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,1910.117,2284.602,374.4850
+2026-08-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2284.312,2316.855,32.5430
+2026-08-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2317.235,2512.586,195.3510
+2026-08-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2512.406,2407.299,-105.1070
+2026-08-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2407.109,2469.476,62.3670
+2026-08-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2472.115,2482.567,10.4520
+2026-08-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2482.737,2440.96,-41.7770
+2026-08-26,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2441.227,2496.371,55.1440
+2026-08-27,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2494.871,2503.98,9.1090
+2026-08-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2504.881,2424.789,-80.0920
+2026-08-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2423.429,2451.301,27.8720
+2026-08-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2451.281,2481.632,30.3510
+2026-08-31,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2481.372,2477.517,-3.8550
+2026-09-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2478.086,2414.494,-63.5920
+2026-09-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2414.504,2389.186,-25.3180
+2026-09-03,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2389.186,2510.412,121.2260
+2026-09-04,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2510.402,2452.1,-58.3020
+2026-09-05,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2453.38,2488.9,35.5200
+2026-09-06,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2489.47,2508.33,18.8600
+2026-09-07,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2508.42,2490.383,-18.0370
+2026-09-08,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2490.463,2481.995,-8.4680
+2026-09-09,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2481.335,2461.048,-20.2870
+2026-09-10,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2461.288,2459.063,-2.2250
+2026-09-11,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2459.103,2516.127,57.0240
+2026-09-12,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2515.077,2523.314,8.2370
+2026-09-13,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2523.354,2508.182,-15.1720
+2026-09-14,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2507.262,2546.222,38.9600
+2026-09-15,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2546.642,2390.419,-156.2230
+2026-09-16,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2390.179,2403.113,12.9340
+2026-09-17,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2403.942,2445.928,41.9860
+2026-09-18,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2445.219,2626.032,180.8130
+2026-09-19,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2626.202,2627.632,1.4300
+2026-09-20,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2627.012,2630.372,3.3600
+2026-09-21,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2630.722,2767.554,136.8320
+2026-09-22,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2767.694,2746.244,-21.4500
 2026-09-23,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2746.184,2676.747,-69.4370
 2026-09-24,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2677.037,2685.948,8.9110
 2026-09-25,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2685.428,2680.913,-4.5150
@@ -3132,6 +4276,8 @@
 2026-09-28,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2684.384,2673.002,-11.3820
 2026-09-29,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2673.573,2678.113,4.5400
 2026-09-30,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2678.113,2682.883,4.7700
+2026-10-01,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2683.183,2692.675,9.4920
+2026-10-02,ETH.V,cryptocurrency,Ethereum / U.S. Dollar,Global,USD/ETH,2692.055,2719.428,27.3730
 2025-01-02,EURUSD,forex,Euro / U.S. Dollar,Global,,1.03563,1.02661,-0.0090
 2025-01-03,EURUSD,forex,Euro / U.S. Dollar,Global,,1.02655,1.03062,0.0041
 2025-01-06,EURUSD,forex,Euro / U.S. Dollar,Global,,1.03011,1.039,0.0089
@@ -4482,6 +5628,27 @@
 2026-09-28,GC.F,commodity_future,Gold Futures,United States,,4315.0,4168.4,-146.6000
 2026-09-29,GC.F,commodity_future,Gold Futures,United States,,4150.1,4179.7,29.6000
 2026-09-30,GC.F,commodity_future,Gold Futures,United States,,4215.8,4190.9,-24.9000
+2026-09-01,GOOGL.US,stock,Alphabet Class A,United States,USD,336.0,335.02,-0.9800
+2026-09-02,GOOGL.US,stock,Alphabet Class A,United States,USD,334.06,337.12,3.0600
+2026-09-03,GOOGL.US,stock,Alphabet Class A,United States,USD,340.56,342.48,1.9200
+2026-09-04,GOOGL.US,stock,Alphabet Class A,United States,USD,342.465,338.46,-4.0050
+2026-09-08,GOOGL.US,stock,Alphabet Class A,United States,USD,335.42,338.36,2.9400
+2026-09-09,GOOGL.US,stock,Alphabet Class A,United States,USD,331.65,330.65,-1.0000
+2026-09-10,GOOGL.US,stock,Alphabet Class A,United States,USD,328.225,332.6,4.3750
+2026-09-11,GOOGL.US,stock,Alphabet Class A,United States,USD,335.03,338.5,3.4700
+2026-09-14,GOOGL.US,stock,Alphabet Class A,United States,USD,343.12,349.39,6.2700
+2026-09-15,GOOGL.US,stock,Alphabet Class A,United States,USD,346.8,344.98,-1.8200
+2026-09-16,GOOGL.US,stock,Alphabet Class A,United States,USD,347.08,342.87,-4.2100
+2026-09-17,GOOGL.US,stock,Alphabet Class A,United States,USD,348.675,347.33,-1.3450
+2026-09-18,GOOGL.US,stock,Alphabet Class A,United States,USD,357.305,349.54,-7.7650
+2026-09-21,GOOGL.US,stock,Alphabet Class A,United States,USD,350.64,354.97,4.3300
+2026-09-22,GOOGL.US,stock,Alphabet Class A,United States,USD,357.65,351.16,-6.4900
+2026-09-23,GOOGL.US,stock,Alphabet Class A,United States,USD,349.86,337.83,-12.0300
+2026-09-24,GOOGL.US,stock,Alphabet Class A,United States,USD,336.22,342.36,6.1400
+2026-09-25,GOOGL.US,stock,Alphabet Class A,United States,USD,342.35,343.92,1.5700
+2026-09-28,GOOGL.US,stock,Alphabet Class A,United States,USD,340.7,342.75,2.0500
+2026-09-29,GOOGL.US,stock,Alphabet Class A,United States,USD,341.95,340.92,-1.0300
+2026-09-30,GOOGL.US,stock,Alphabet Class A,United States,USD,344.15,344.08,-0.0700
 2025-01-02,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,4.031000000000001,4.026000000000001,-0.0050
 2025-01-03,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,4.035,4.0735,0.0385
 2025-01-06,HG.F,commodity_future,High Grade Copper Futures,United States,USD/lb,4.0765,4.1615,0.0850
@@ -5370,6 +6537,48 @@
 2026-09-28,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.5891,4.4953,-0.0938
 2026-09-29,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.5627,4.51,-0.0527
 2026-09-30,HO.F,commodity_future,NY Harbor ULSD Futures,United States,,4.5271,4.68,0.1529
+2026-09-01,HPQ.US,stock,HP,United States,USD,29.75,31.32,1.5700
+2026-09-02,HPQ.US,stock,HP,United States,USD,31.63,31.99,0.3600
+2026-09-03,HPQ.US,stock,HP,United States,USD,31.7,31.93,0.2300
+2026-09-04,HPQ.US,stock,HP,United States,USD,31.95,32.64,0.6900
+2026-09-08,HPQ.US,stock,HP,United States,USD,32.18,31.17,-1.0100
+2026-09-09,HPQ.US,stock,HP,United States,USD,31.17,32.39,1.2200
+2026-09-10,HPQ.US,stock,HP,United States,USD,32.17,32.73,0.5600
+2026-09-11,HPQ.US,stock,HP,United States,USD,32.95,35.48,2.5300
+2026-09-14,HPQ.US,stock,HP,United States,USD,35.115,34.02,-1.0950
+2026-09-15,HPQ.US,stock,HP,United States,USD,33.755,33.82,0.0650
+2026-09-16,HPQ.US,stock,HP,United States,USD,33.8,32.7,-1.1000
+2026-09-17,HPQ.US,stock,HP,United States,USD,33.01,34.66,1.6500
+2026-09-18,HPQ.US,stock,HP,United States,USD,34.74,34.4,-0.3400
+2026-09-21,HPQ.US,stock,HP,United States,USD,33.4,32.95,-0.4500
+2026-09-22,HPQ.US,stock,HP,United States,USD,33.23,32.04,-1.1900
+2026-09-23,HPQ.US,stock,HP,United States,USD,32.335,32.16,-0.1750
+2026-09-24,HPQ.US,stock,HP,United States,USD,32.005,31.14,-0.8650
+2026-09-25,HPQ.US,stock,HP,United States,USD,31.6,31.3,-0.3000
+2026-09-28,HPQ.US,stock,HP,United States,USD,31.29,31.32,0.0300
+2026-09-29,HPQ.US,stock,HP,United States,USD,31.3,30.73,-0.5700
+2026-09-30,HPQ.US,stock,HP,United States,USD,30.69,31.28,0.5900
+2026-09-01,IBM.US,stock,IBM,United States,USD,231.0,231.4,0.4000
+2026-09-02,IBM.US,stock,IBM,United States,USD,230.545,231.7,1.1550
+2026-09-03,IBM.US,stock,IBM,United States,USD,234.38,234.71,0.3300
+2026-09-04,IBM.US,stock,IBM,United States,USD,233.33,234.89,1.5600
+2026-09-08,IBM.US,stock,IBM,United States,USD,232.95,232.09,-0.8600
+2026-09-09,IBM.US,stock,IBM,United States,USD,232.65,239.94,7.2900
+2026-09-10,IBM.US,stock,IBM,United States,USD,238.18,234.02,-4.1600
+2026-09-11,IBM.US,stock,IBM,United States,USD,235.78,243.29,7.5100
+2026-09-14,IBM.US,stock,IBM,United States,USD,249.41,249.09,-0.3200
+2026-09-15,IBM.US,stock,IBM,United States,USD,246.19,248.37,2.1800
+2026-09-16,IBM.US,stock,IBM,United States,USD,240.5,237.49,-3.0100
+2026-09-17,IBM.US,stock,IBM,United States,USD,238.58,237.75,-0.8300
+2026-09-18,IBM.US,stock,IBM,United States,USD,237.85,229.55,-8.3000
+2026-09-21,IBM.US,stock,IBM,United States,USD,231.99,231.93,-0.0600
+2026-09-22,IBM.US,stock,IBM,United States,USD,234.47,231.38,-3.0900
+2026-09-23,IBM.US,stock,IBM,United States,USD,233.47,232.76,-0.7100
+2026-09-24,IBM.US,stock,IBM,United States,USD,232.0,227.06,-4.9400
+2026-09-25,IBM.US,stock,IBM,United States,USD,226.15,225.51,-0.6400
+2026-09-28,IBM.US,stock,IBM,United States,USD,222.5,220.67,-1.8300
+2026-09-29,IBM.US,stock,IBM,United States,USD,220.865,219.99,-0.8750
+2026-09-30,IBM.US,stock,IBM,United States,USD,220.7,219.93,-0.7700
 2025-01-02,JPYTWD,forex,Japanese Yen / Taiwan Dollar,Global,,0.208257,0.209795,0.0015
 2025-01-03,JPYTWD,forex,Japanese Yen / Taiwan Dollar,Global,,0.20928,0.209757,0.0005
 2025-01-06,JPYTWD,forex,Japanese Yen / Taiwan Dollar,Global,,0.209089,0.208466,-0.0006
@@ -5818,6 +7027,8 @@
 2026-09-28,JPYTWD,forex,Japanese Yen / Taiwan Dollar,Global,,0.201494,0.202281,0.0008
 2026-09-29,JPYTWD,forex,Japanese Yen / Taiwan Dollar,Global,,0.202314,0.202674,0.0004
 2026-09-30,JPYTWD,forex,Japanese Yen / Taiwan Dollar,Global,,0.202849,0.20304,0.0002
+2026-10-01,JPYTWD,forex,Japanese Yen / Taiwan Dollar,Global,,0.202144,0.202157,0.0000
+2026-10-02,JPYTWD,forex,Japanese Yen / Taiwan Dollar,Global,,0.201967,0.202121,0.0002
 2025-01-02,KC.F,commodity_future,Coffee Futures,United States,,321.55,326.85,5.3000
 2025-01-03,KC.F,commodity_future,Coffee Futures,United States,,324.75,318.65,-6.1000
 2025-01-06,KC.F,commodity_future,Coffee Futures,United States,,318.65,318.6,-0.0500
@@ -6256,6 +7467,48 @@
 2026-09-28,KC.F,commodity_future,Coffee Futures,United States,,277.9,288.75,10.8500
 2026-09-29,KC.F,commodity_future,Coffee Futures,United States,,289.0,289.45,0.4500
 2026-09-30,KC.F,commodity_future,Coffee Futures,United States,,292.0,290.7,-1.3000
+2026-09-01,KO.US,stock,Coca-Cola,United States,USD,89.59,88.0,-1.5900
+2026-09-02,KO.US,stock,Coca-Cola,United States,USD,87.895,88.24,0.3450
+2026-09-03,KO.US,stock,Coca-Cola,United States,USD,88.11,88.81,0.7000
+2026-09-04,KO.US,stock,Coca-Cola,United States,USD,88.585,88.07,-0.5150
+2026-09-08,KO.US,stock,Coca-Cola,United States,USD,87.55,88.36,0.8100
+2026-09-09,KO.US,stock,Coca-Cola,United States,USD,88.31,87.55,-0.7600
+2026-09-10,KO.US,stock,Coca-Cola,United States,USD,88.58,87.83,-0.7500
+2026-09-11,KO.US,stock,Coca-Cola,United States,USD,88.44,88.29,-0.1500
+2026-09-14,KO.US,stock,Coca-Cola,United States,USD,90.0,89.35,-0.6500
+2026-09-15,KO.US,stock,Coca-Cola,United States,USD,88.53,88.71,0.1800
+2026-09-16,KO.US,stock,Coca-Cola,United States,USD,88.48,87.87,-0.6100
+2026-09-17,KO.US,stock,Coca-Cola,United States,USD,88.075,88.06,-0.0150
+2026-09-18,KO.US,stock,Coca-Cola,United States,USD,87.8,88.25,0.4500
+2026-09-21,KO.US,stock,Coca-Cola,United States,USD,88.32,87.12,-1.2000
+2026-09-22,KO.US,stock,Coca-Cola,United States,USD,87.6,88.61,1.0100
+2026-09-23,KO.US,stock,Coca-Cola,United States,USD,88.95,88.09,-0.8600
+2026-09-24,KO.US,stock,Coca-Cola,United States,USD,88.82,88.1,-0.7200
+2026-09-25,KO.US,stock,Coca-Cola,United States,USD,88.16,87.81,-0.3500
+2026-09-28,KO.US,stock,Coca-Cola,United States,USD,87.605,87.18,-0.4250
+2026-09-29,KO.US,stock,Coca-Cola,United States,USD,86.56,86.84,0.2800
+2026-09-30,KO.US,stock,Coca-Cola,United States,USD,87.35,86.08,-1.2700
+2026-09-01,KR.US,stock,Kroger,United States,USD,56.77,57.94,1.1700
+2026-09-02,KR.US,stock,Kroger,United States,USD,58.0,58.22,0.2200
+2026-09-03,KR.US,stock,Kroger,United States,USD,58.25,58.51,0.2600
+2026-09-04,KR.US,stock,Kroger,United States,USD,58.36,58.59,0.2300
+2026-09-08,KR.US,stock,Kroger,United States,USD,58.21,57.2,-1.0100
+2026-09-09,KR.US,stock,Kroger,United States,USD,57.28,56.44,-0.8400
+2026-09-10,KR.US,stock,Kroger,United States,USD,56.92,56.95,0.0300
+2026-09-11,KR.US,stock,Kroger,United States,USD,56.02,58.49,2.4700
+2026-09-14,KR.US,stock,Kroger,United States,USD,59.31,60.91,1.6000
+2026-09-15,KR.US,stock,Kroger,United States,USD,60.77,62.25,1.4800
+2026-09-16,KR.US,stock,Kroger,United States,USD,61.93,61.14,-0.7900
+2026-09-17,KR.US,stock,Kroger,United States,USD,61.02,60.75,-0.2700
+2026-09-18,KR.US,stock,Kroger,United States,USD,60.52,60.0,-0.5200
+2026-09-21,KR.US,stock,Kroger,United States,USD,60.06,59.69,-0.3700
+2026-09-22,KR.US,stock,Kroger,United States,USD,60.03,58.56,-1.4700
+2026-09-23,KR.US,stock,Kroger,United States,USD,58.56,57.64,-0.9200
+2026-09-24,KR.US,stock,Kroger,United States,USD,58.41,58.92,0.5100
+2026-09-25,KR.US,stock,Kroger,United States,USD,58.63,58.74,0.1100
+2026-09-28,KR.US,stock,Kroger,United States,USD,59.02,59.69,0.6700
+2026-09-29,KR.US,stock,Kroger,United States,USD,59.89,60.79,0.9000
+2026-09-30,KR.US,stock,Kroger,United States,USD,60.96,58.62,-2.3400
 2025-01-02,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,113.15,113.7,0.5500
 2025-01-03,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,113.9,111.85,-2.0500
 2025-01-06,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,111.5,107.7,-3.8000
@@ -6705,6 +7958,132 @@
 2026-09-28,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,137.55,137.85,0.3000
 2026-09-29,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,136.55,136.7,0.1500
 2026-09-30,LU.F,commodity_future,ICE Rotterdam Coal Futures,Netherlands,,138.0,141.4,3.4000
+2026-09-01,MA.US,stock,Mastercard,United States,USD,589.65,581.1,-8.5500
+2026-09-02,MA.US,stock,Mastercard,United States,USD,584.0,588.14,4.1400
+2026-09-03,MA.US,stock,Mastercard,United States,USD,590.69,585.71,-4.9800
+2026-09-04,MA.US,stock,Mastercard,United States,USD,580.73,579.21,-1.5200
+2026-09-08,MA.US,stock,Mastercard,United States,USD,572.67,570.89,-1.7800
+2026-09-09,MA.US,stock,Mastercard,United States,USD,569.0,567.5,-1.5000
+2026-09-10,MA.US,stock,Mastercard,United States,USD,565.0,565.37,0.3700
+2026-09-11,MA.US,stock,Mastercard,United States,USD,568.88,569.19,0.3100
+2026-09-14,MA.US,stock,Mastercard,United States,USD,575.98,574.42,-1.5600
+2026-09-15,MA.US,stock,Mastercard,United States,USD,571.48,573.27,1.7900
+2026-09-16,MA.US,stock,Mastercard,United States,USD,571.59,567.75,-3.8400
+2026-09-17,MA.US,stock,Mastercard,United States,USD,568.07,565.73,-2.3400
+2026-09-18,MA.US,stock,Mastercard,United States,USD,564.95,565.24,0.2900
+2026-09-21,MA.US,stock,Mastercard,United States,USD,567.11,567.65,0.5400
+2026-09-22,MA.US,stock,Mastercard,United States,USD,571.18,555.89,-15.2900
+2026-09-23,MA.US,stock,Mastercard,United States,USD,555.78,559.92,4.1400
+2026-09-24,MA.US,stock,Mastercard,United States,USD,561.0,566.08,5.0800
+2026-09-25,MA.US,stock,Mastercard,United States,USD,567.08,567.65,0.5700
+2026-09-28,MA.US,stock,Mastercard,United States,USD,566.28,568.26,1.9800
+2026-09-29,MA.US,stock,Mastercard,United States,USD,564.0,563.58,-0.4200
+2026-09-30,MA.US,stock,Mastercard,United States,USD,562.26,551.47,-10.7900
+2026-09-01,MCO.US,stock,Moody's,United States,USD,501.89,494.71,-7.1800
+2026-09-02,MCO.US,stock,Moody's,United States,USD,492.35,490.0,-2.3500
+2026-09-03,MCO.US,stock,Moody's,United States,USD,496.13,504.3,8.1700
+2026-09-04,MCO.US,stock,Moody's,United States,USD,492.02,493.55,1.5300
+2026-09-08,MCO.US,stock,Moody's,United States,USD,489.7,481.25,-8.4500
+2026-09-09,MCO.US,stock,Moody's,United States,USD,479.01,474.57,-4.4400
+2026-09-10,MCO.US,stock,Moody's,United States,USD,473.32,467.36,-5.9600
+2026-09-11,MCO.US,stock,Moody's,United States,USD,472.32,474.95,2.6300
+2026-09-14,MCO.US,stock,Moody's,United States,USD,479.18,477.93,-1.2500
+2026-09-15,MCO.US,stock,Moody's,United States,USD,474.0,467.16,-6.8400
+2026-09-16,MCO.US,stock,Moody's,United States,USD,468.845,465.3,-3.5450
+2026-09-17,MCO.US,stock,Moody's,United States,USD,467.83,461.88,-5.9500
+2026-09-18,MCO.US,stock,Moody's,United States,USD,460.0,468.59,8.5900
+2026-09-21,MCO.US,stock,Moody's,United States,USD,472.87,467.22,-5.6500
+2026-09-22,MCO.US,stock,Moody's,United States,USD,471.17,469.25,-1.9200
+2026-09-23,MCO.US,stock,Moody's,United States,USD,468.0,473.85,5.8500
+2026-09-24,MCO.US,stock,Moody's,United States,USD,473.28,467.35,-5.9300
+2026-09-25,MCO.US,stock,Moody's,United States,USD,466.37,468.7,2.3300
+2026-09-28,MCO.US,stock,Moody's,United States,USD,462.88,460.08,-2.8000
+2026-09-29,MCO.US,stock,Moody's,United States,USD,456.35,454.82,-1.5300
+2026-09-30,MCO.US,stock,Moody's,United States,USD,454.65,454.13,-0.5200
+2026-09-01,META.US,stock,Meta Platforms,United States,USD,558.345,578.54,20.1950
+2026-09-02,META.US,stock,Meta Platforms,United States,USD,578.785,592.85,14.0650
+2026-09-03,META.US,stock,Meta Platforms,United States,USD,604.49,610.68,6.1900
+2026-09-04,META.US,stock,Meta Platforms,United States,USD,612.35,616.77,4.4200
+2026-09-08,META.US,stock,Meta Platforms,United States,USD,616.205,613.48,-2.7250
+2026-09-09,META.US,stock,Meta Platforms,United States,USD,648.64,653.69,5.0500
+2026-09-10,META.US,stock,Meta Platforms,United States,USD,653.705,644.38,-9.3250
+2026-09-11,META.US,stock,Meta Platforms,United States,USD,653.51,648.03,-5.4800
+2026-09-14,META.US,stock,Meta Platforms,United States,USD,657.83,665.6,7.7700
+2026-09-15,META.US,stock,Meta Platforms,United States,USD,659.3,670.24,10.9400
+2026-09-16,META.US,stock,Meta Platforms,United States,USD,679.905,673.31,-6.5950
+2026-09-17,META.US,stock,Meta Platforms,United States,USD,682.44,682.31,-0.1300
+2026-09-18,META.US,stock,Meta Platforms,United States,USD,688.62,665.75,-22.8700
+2026-09-21,META.US,stock,Meta Platforms,United States,USD,680.295,741.245,60.9500
+2026-09-22,META.US,stock,Meta Platforms,United States,USD,731.4,736.595,5.1950
+2026-09-23,META.US,stock,Meta Platforms,United States,USD,747.6,744.1,-3.5000
+2026-09-24,META.US,stock,Meta Platforms,United States,USD,744.355,777.59,33.2350
+2026-09-25,META.US,stock,Meta Platforms,United States,USD,768.845,751.66,-17.1850
+2026-09-28,META.US,stock,Meta Platforms,United States,USD,750.04,715.62,-34.4200
+2026-09-29,META.US,stock,Meta Platforms,United States,USD,725.0,738.79,13.7900
+2026-09-30,META.US,stock,Meta Platforms,United States,USD,730.265,725.18,-5.0850
+2026-09-01,MSFT.US,stock,Microsoft,United States,USD,497.52,501.02,3.5000
+2026-09-02,MSFT.US,stock,Microsoft,United States,USD,499.85,496.82,-3.0300
+2026-09-03,MSFT.US,stock,Microsoft,United States,USD,501.66,510.12,8.4600
+2026-09-04,MSFT.US,stock,Microsoft,United States,USD,510.0,499.7,-10.3000
+2026-09-08,MSFT.US,stock,Microsoft,United States,USD,493.01,493.95,0.9400
+2026-09-09,MSFT.US,stock,Microsoft,United States,USD,493.07,491.65,-1.4200
+2026-09-10,MSFT.US,stock,Microsoft,United States,USD,488.32,492.44,4.1200
+2026-09-11,MSFT.US,stock,Microsoft,United States,USD,495.65,495.63,-0.0200
+2026-09-14,MSFT.US,stock,Microsoft,United States,USD,497.06,505.41,8.3500
+2026-09-15,MSFT.US,stock,Microsoft,United States,USD,500.06,497.12,-2.9400
+2026-09-16,MSFT.US,stock,Microsoft,United States,USD,493.03,490.3,-2.7300
+2026-09-17,MSFT.US,stock,Microsoft,United States,USD,497.795,497.75,-0.0450
+2026-09-18,MSFT.US,stock,Microsoft,United States,USD,497.965,493.78,-4.1850
+2026-09-21,MSFT.US,stock,Microsoft,United States,USD,494.945,501.61,6.6650
+2026-09-22,MSFT.US,stock,Microsoft,United States,USD,507.32,498.0,-9.3200
+2026-09-23,MSFT.US,stock,Microsoft,United States,USD,500.755,500.59,-0.1650
+2026-09-24,MSFT.US,stock,Microsoft,United States,USD,495.07,497.93,2.8600
+2026-09-25,MSFT.US,stock,Microsoft,United States,USD,499.035,516.17,17.1350
+2026-09-28,MSFT.US,stock,Microsoft,United States,USD,505.47,509.22,3.7500
+2026-09-29,MSFT.US,stock,Microsoft,United States,USD,508.31,508.96,0.6500
+2026-09-30,MSFT.US,stock,Microsoft,United States,USD,511.61,512.9,1.2900
+2026-09-01,MU.US,stock,Micron Technology,United States,USD,941.125,933.44,-7.6850
+2026-09-02,MU.US,stock,Micron Technology,United States,USD,930.825,956.08,25.2550
+2026-09-03,MU.US,stock,Micron Technology,United States,USD,956.91,958.16,1.2500
+2026-09-04,MU.US,stock,Micron Technology,United States,USD,971.335,1016.59,45.2550
+2026-09-08,MU.US,stock,Micron Technology,United States,USD,1036.4,1000.26,-36.1400
+2026-09-09,MU.US,stock,Micron Technology,United States,USD,998.805,1027.77,28.9650
+2026-09-10,MU.US,stock,Micron Technology,United States,USD,997.0,977.41,-19.5900
+2026-09-11,MU.US,stock,Micron Technology,United States,USD,993.195,975.26,-17.9350
+2026-09-14,MU.US,stock,Micron Technology,United States,USD,906.03,924.03,18.0000
+2026-09-15,MU.US,stock,Micron Technology,United States,USD,937.5,927.6,-9.9000
+2026-09-16,MU.US,stock,Micron Technology,United States,USD,934.23,926.55,-7.6800
+2026-09-17,MU.US,stock,Micron Technology,United States,USD,954.565,977.5,22.9350
+2026-09-18,MU.US,stock,Micron Technology,United States,USD,984.715,1015.8,31.0850
+2026-09-21,MU.US,stock,Micron Technology,United States,USD,1044.99,1043.96,-1.0300
+2026-09-22,MU.US,stock,Micron Technology,United States,USD,1032.85,1096.16,63.3100
+2026-09-23,MU.US,stock,Micron Technology,United States,USD,1100.07,1071.88,-28.1900
+2026-09-24,MU.US,stock,Micron Technology,United States,USD,1049.75,1080.53,30.7800
+2026-09-25,MU.US,stock,Micron Technology,United States,USD,1095.83,1082.28,-13.5500
+2026-09-28,MU.US,stock,Micron Technology,United States,USD,1075.98,1053.98,-22.0000
+2026-09-29,MU.US,stock,Micron Technology,United States,USD,1076.69,1065.08,-11.6100
+2026-09-30,MU.US,stock,Micron Technology,United States,USD,1076.76,1065.11,-11.6500
+2026-09-01,NFLX.US,stock,Netflix,United States,USD,80.165,80.81,0.6450
+2026-09-02,NFLX.US,stock,Netflix,United States,USD,80.55,82.73,2.1800
+2026-09-03,NFLX.US,stock,Netflix,United States,USD,83.18,82.67,-0.5100
+2026-09-04,NFLX.US,stock,Netflix,United States,USD,82.17,78.25,-3.9200
+2026-09-08,NFLX.US,stock,Netflix,United States,USD,77.55,76.77,-0.7800
+2026-09-09,NFLX.US,stock,Netflix,United States,USD,76.34,76.03,-0.3100
+2026-09-10,NFLX.US,stock,Netflix,United States,USD,75.325,76.01,0.6850
+2026-09-11,NFLX.US,stock,Netflix,United States,USD,76.64,77.4,0.7600
+2026-09-14,NFLX.US,stock,Netflix,United States,USD,78.97,80.32,1.3500
+2026-09-15,NFLX.US,stock,Netflix,United States,USD,79.375,77.9,-1.4750
+2026-09-16,NFLX.US,stock,Netflix,United States,USD,77.725,76.41,-1.3150
+2026-09-17,NFLX.US,stock,Netflix,United States,USD,76.905,75.31,-1.5950
+2026-09-18,NFLX.US,stock,Netflix,United States,USD,71.27,71.79,0.5200
+2026-09-21,NFLX.US,stock,Netflix,United States,USD,71.82,73.36,1.5400
+2026-09-22,NFLX.US,stock,Netflix,United States,USD,73.69,72.16,-1.5300
+2026-09-23,NFLX.US,stock,Netflix,United States,USD,72.075,71.36,-0.7150
+2026-09-24,NFLX.US,stock,Netflix,United States,USD,71.62,71.72,0.1000
+2026-09-25,NFLX.US,stock,Netflix,United States,USD,71.63,71.145,-0.4850
+2026-09-28,NFLX.US,stock,Netflix,United States,USD,71.55,69.23,-2.3200
+2026-09-29,NFLX.US,stock,Netflix,United States,USD,70.33,70.3,-0.0300
+2026-09-30,NFLX.US,stock,Netflix,United States,USD,70.2,69.58,-0.6200
 2025-01-02,NG.F,commodity_future,Natural Gas Futures,United States,,3.656,3.66,0.0040
 2025-01-03,NG.F,commodity_future,Natural Gas Futures,United States,,3.669,3.354,-0.3150
 2025-01-06,NG.F,commodity_future,Natural Gas Futures,United States,,3.554,3.672,0.1180
@@ -7149,6 +8528,174 @@
 2026-09-28,NG.F,commodity_future,Natural Gas Futures,United States,,3.148,3.106,-0.0420
 2026-09-29,NG.F,commodity_future,Natural Gas Futures,United States,,3.149,3.011,-0.1380
 2026-09-30,NG.F,commodity_future,Natural Gas Futures,United States,,3.013,3.01,-0.0030
+2026-09-01,NOW.US,stock,ServiceNow,United States,USD,144.55,142.9,-1.6500
+2026-09-02,NOW.US,stock,ServiceNow,United States,USD,140.3,136.72,-3.5800
+2026-09-03,NOW.US,stock,ServiceNow,United States,USD,141.0,145.59,4.5900
+2026-09-04,NOW.US,stock,ServiceNow,United States,USD,143.315,141.26,-2.0550
+2026-09-08,NOW.US,stock,ServiceNow,United States,USD,136.72,134.21,-2.5100
+2026-09-09,NOW.US,stock,ServiceNow,United States,USD,133.58,131.11,-2.4700
+2026-09-10,NOW.US,stock,ServiceNow,United States,USD,130.64,131.17,0.5300
+2026-09-11,NOW.US,stock,ServiceNow,United States,USD,130.5,132.53,2.0300
+2026-09-14,NOW.US,stock,ServiceNow,United States,USD,140.0,142.35,2.3500
+2026-09-15,NOW.US,stock,ServiceNow,United States,USD,139.15,141.9,2.7500
+2026-09-16,NOW.US,stock,ServiceNow,United States,USD,139.2,139.82,0.6200
+2026-09-17,NOW.US,stock,ServiceNow,United States,USD,139.065,138.47,-0.5950
+2026-09-18,NOW.US,stock,ServiceNow,United States,USD,139.71,135.47,-4.2400
+2026-09-21,NOW.US,stock,ServiceNow,United States,USD,136.82,137.68,0.8600
+2026-09-22,NOW.US,stock,ServiceNow,United States,USD,141.83,137.0,-4.8300
+2026-09-23,NOW.US,stock,ServiceNow,United States,USD,137.22,140.78,3.5600
+2026-09-24,NOW.US,stock,ServiceNow,United States,USD,139.9,137.78,-2.1200
+2026-09-25,NOW.US,stock,ServiceNow,United States,USD,137.25,135.62,-1.6300
+2026-09-28,NOW.US,stock,ServiceNow,United States,USD,129.8,131.45,1.6500
+2026-09-29,NOW.US,stock,ServiceNow,United States,USD,130.83,129.94,-0.8900
+2026-09-30,NOW.US,stock,ServiceNow,United States,USD,129.75,134.01,4.2600
+2026-09-01,NVDA.US,stock,NVIDIA,United States,USD,216.75,217.44,0.6900
+2026-09-02,NVDA.US,stock,NVIDIA,United States,USD,218.785,224.41,5.6250
+2026-09-03,NVDA.US,stock,NVIDIA,United States,USD,226.02,228.45,2.4300
+2026-09-04,NVDA.US,stock,NVIDIA,United States,USD,231.09,230.36,-0.7300
+2026-09-08,NVDA.US,stock,NVIDIA,United States,USD,233.11,225.73,-7.3800
+2026-09-09,NVDA.US,stock,NVIDIA,United States,USD,225.275,223.67,-1.6050
+2026-09-10,NVDA.US,stock,NVIDIA,United States,USD,220.525,218.36,-2.1650
+2026-09-11,NVDA.US,stock,NVIDIA,United States,USD,221.235,218.29,-2.9450
+2026-09-14,NVDA.US,stock,NVIDIA,United States,USD,211.24,210.96,-0.2800
+2026-09-15,NVDA.US,stock,NVIDIA,United States,USD,213.375,212.17,-1.2050
+2026-09-16,NVDA.US,stock,NVIDIA,United States,USD,214.14,213.9,-0.2400
+2026-09-17,NVDA.US,stock,NVIDIA,United States,USD,218.375,219.34,0.9650
+2026-09-18,NVDA.US,stock,NVIDIA,United States,USD,219.35,222.27,2.9200
+2026-09-21,NVDA.US,stock,NVIDIA,United States,USD,222.935,227.38,4.4450
+2026-09-22,NVDA.US,stock,NVIDIA,United States,USD,226.85,228.87,2.0200
+2026-09-23,NVDA.US,stock,NVIDIA,United States,USD,228.03,225.51,-2.5200
+2026-09-24,NVDA.US,stock,NVIDIA,United States,USD,222.08,224.58,2.5000
+2026-09-25,NVDA.US,stock,NVIDIA,United States,USD,225.13,225.07,-0.0600
+2026-09-28,NVDA.US,stock,NVIDIA,United States,USD,229.75,228.86,-0.8900
+2026-09-29,NVDA.US,stock,NVIDIA,United States,USD,230.97,227.21,-3.7600
+2026-09-30,NVDA.US,stock,NVIDIA,United States,USD,229.27,228.38,-0.8900
+2026-09-01,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,221.7,222.4,0.7000
+2026-09-02,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,223.1,228.5,5.4000
+2026-09-03,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,225.22,224.99,-0.2300
+2026-09-04,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,228.09,227.835,-0.2550
+2026-09-08,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,230.22,223.87,-6.3500
+2026-09-09,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,221.97,223.32,1.3500
+2026-09-10,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,219.75,226.465,6.7150
+2026-09-11,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,229.84,236.62,6.7800
+2026-09-14,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,226.755,224.23,-2.5250
+2026-09-15,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,226.04,226.35,0.3100
+2026-09-16,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,227.99,218.98,-9.0100
+2026-09-17,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,222.16,227.95,5.7900
+2026-09-18,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,231.36,227.99,-3.3700
+2026-09-21,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,229.14,232.41,3.2700
+2026-09-22,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,231.87,237.57,5.7000
+2026-09-23,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,236.5,235.44,-1.0600
+2026-09-24,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,232.34,230.16,-2.1800
+2026-09-25,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,231.2,238.08,6.8800
+2026-09-28,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,238.69,236.32,-2.3700
+2026-09-29,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,237.58,236.47,-1.1100
+2026-09-30,NXPI.US,stock,NXP Semiconductors,Netherlands,USD,236.48,237.53,1.0500
+2026-09-01,ORCL.US,stock,Oracle,United States,USD,146.75,141.32,-5.4300
+2026-09-02,ORCL.US,stock,Oracle,United States,USD,140.26,145.75,5.4900
+2026-09-03,ORCL.US,stock,Oracle,United States,USD,147.27,154.04,6.7700
+2026-09-04,ORCL.US,stock,Oracle,United States,USD,159.455,158.78,-0.6750
+2026-09-08,ORCL.US,stock,Oracle,United States,USD,167.6,162.52,-5.0800
+2026-09-09,ORCL.US,stock,Oracle,United States,USD,163.54,161.63,-1.9100
+2026-09-10,ORCL.US,stock,Oracle,United States,USD,158.375,152.94,-5.4350
+2026-09-11,ORCL.US,stock,Oracle,United States,USD,164.43,150.28,-14.1500
+2026-09-14,ORCL.US,stock,Oracle,United States,USD,141.42,144.79,3.3700
+2026-09-15,ORCL.US,stock,Oracle,United States,USD,143.46,140.35,-3.1100
+2026-09-16,ORCL.US,stock,Oracle,United States,USD,140.03,143.16,3.1300
+2026-09-17,ORCL.US,stock,Oracle,United States,USD,146.75,150.59,3.8400
+2026-09-18,ORCL.US,stock,Oracle,United States,USD,150.47,147.61,-2.8600
+2026-09-21,ORCL.US,stock,Oracle,United States,USD,148.93,148.56,-0.3700
+2026-09-22,ORCL.US,stock,Oracle,United States,USD,151.25,149.2,-2.0500
+2026-09-23,ORCL.US,stock,Oracle,United States,USD,148.3,144.56,-3.7400
+2026-09-24,ORCL.US,stock,Oracle,United States,USD,137.32,139.54,2.2200
+2026-09-25,ORCL.US,stock,Oracle,United States,USD,138.57,137.1,-1.4700
+2026-09-28,ORCL.US,stock,Oracle,United States,USD,132.725,132.6,-0.1250
+2026-09-29,ORCL.US,stock,Oracle,United States,USD,132.79,137.79,5.0000
+2026-09-30,ORCL.US,stock,Oracle,United States,USD,136.54,137.3,0.7600
+2026-09-01,OXY.US,stock,Occidental Petroleum,United States,USD,61.1,60.95,-0.1500
+2026-09-02,OXY.US,stock,Occidental Petroleum,United States,USD,60.44,60.91,0.4700
+2026-09-03,OXY.US,stock,Occidental Petroleum,United States,USD,60.97,60.61,-0.3600
+2026-09-04,OXY.US,stock,Occidental Petroleum,United States,USD,60.12,60.04,-0.0800
+2026-09-08,OXY.US,stock,Occidental Petroleum,United States,USD,61.06,60.65,-0.4100
+2026-09-09,OXY.US,stock,Occidental Petroleum,United States,USD,61.665,61.3,-0.3650
+2026-09-10,OXY.US,stock,Occidental Petroleum,United States,USD,62.09,61.16,-0.9300
+2026-09-11,OXY.US,stock,Occidental Petroleum,United States,USD,61.04,61.46,0.4200
+2026-09-14,OXY.US,stock,Occidental Petroleum,United States,USD,62.54,61.78,-0.7600
+2026-09-15,OXY.US,stock,Occidental Petroleum,United States,USD,62.11,63.52,1.4100
+2026-09-16,OXY.US,stock,Occidental Petroleum,United States,USD,62.4,59.36,-3.0400
+2026-09-17,OXY.US,stock,Occidental Petroleum,United States,USD,58.67,59.29,0.6200
+2026-09-18,OXY.US,stock,Occidental Petroleum,United States,USD,59.05,58.84,-0.2100
+2026-09-21,OXY.US,stock,Occidental Petroleum,United States,USD,58.07,57.25,-0.8200
+2026-09-22,OXY.US,stock,Occidental Petroleum,United States,USD,56.55,56.31,-0.2400
+2026-09-23,OXY.US,stock,Occidental Petroleum,United States,USD,56.97,57.36,0.3900
+2026-09-24,OXY.US,stock,Occidental Petroleum,United States,USD,58.12,58.05,-0.0700
+2026-09-25,OXY.US,stock,Occidental Petroleum,United States,USD,57.076,56.86,-0.2160
+2026-09-28,OXY.US,stock,Occidental Petroleum,United States,USD,57.46,56.1,-1.3600
+2026-09-29,OXY.US,stock,Occidental Petroleum,United States,USD,55.02,54.94,-0.0800
+2026-09-30,OXY.US,stock,Occidental Petroleum,United States,USD,55.1,55.32,0.2200
+2026-09-01,PLTR.US,stock,Palantir Technologies,United States,USD,182.98,179.92,-3.0600
+2026-09-02,PLTR.US,stock,Palantir Technologies,United States,USD,176.99,169.46,-7.5300
+2026-09-03,PLTR.US,stock,Palantir Technologies,United States,USD,172.5,182.53,10.0300
+2026-09-04,PLTR.US,stock,Palantir Technologies,United States,USD,180.01,174.33,-5.6800
+2026-09-08,PLTR.US,stock,Palantir Technologies,United States,USD,173.6,170.3,-3.3000
+2026-09-09,PLTR.US,stock,Palantir Technologies,United States,USD,171.47,169.53,-1.9400
+2026-09-10,PLTR.US,stock,Palantir Technologies,United States,USD,167.35,165.86,-1.4900
+2026-09-11,PLTR.US,stock,Palantir Technologies,United States,USD,168.1,167.23,-0.8700
+2026-09-14,PLTR.US,stock,Palantir Technologies,United States,USD,169.695,173.31,3.6150
+2026-09-15,PLTR.US,stock,Palantir Technologies,United States,USD,170.5,172.56,2.0600
+2026-09-16,PLTR.US,stock,Palantir Technologies,United States,USD,170.39,174.34,3.9500
+2026-09-17,PLTR.US,stock,Palantir Technologies,United States,USD,175.95,176.24,0.2900
+2026-09-18,PLTR.US,stock,Palantir Technologies,United States,USD,177.18,177.64,0.4600
+2026-09-21,PLTR.US,stock,Palantir Technologies,United States,USD,178.725,183.09,4.3650
+2026-09-22,PLTR.US,stock,Palantir Technologies,United States,USD,185.125,184.99,-0.1350
+2026-09-23,PLTR.US,stock,Palantir Technologies,United States,USD,186.29,191.79,5.5000
+2026-09-24,PLTR.US,stock,Palantir Technologies,United States,USD,189.2,192.59,3.3900
+2026-09-25,PLTR.US,stock,Palantir Technologies,United States,USD,192.71,189.67,-3.0400
+2026-09-28,PLTR.US,stock,Palantir Technologies,United States,USD,186.231,187.48,1.2490
+2026-09-29,PLTR.US,stock,Palantir Technologies,United States,USD,187.34,186.97,-0.3700
+2026-09-30,PLTR.US,stock,Palantir Technologies,United States,USD,187.91,187.05,-0.8600
+2026-09-01,QCOM.US,stock,Qualcomm,United States,USD,165.47,166.61,1.1400
+2026-09-02,QCOM.US,stock,Qualcomm,United States,USD,166.04,169.96,3.9200
+2026-09-03,QCOM.US,stock,Qualcomm,United States,USD,168.5,168.57,0.0700
+2026-09-04,QCOM.US,stock,Qualcomm,United States,USD,169.98,168.74,-1.2400
+2026-09-08,QCOM.US,stock,Qualcomm,United States,USD,180.4,174.09,-6.3100
+2026-09-09,QCOM.US,stock,Qualcomm,United States,USD,174.72,176.4,1.6800
+2026-09-10,QCOM.US,stock,Qualcomm,United States,USD,172.13,176.88,4.7500
+2026-09-11,QCOM.US,stock,Qualcomm,United States,USD,178.25,181.97,3.7200
+2026-09-14,QCOM.US,stock,Qualcomm,United States,USD,170.78,180.15,9.3700
+2026-09-15,QCOM.US,stock,Qualcomm,United States,USD,180.535,187.8,7.2650
+2026-09-16,QCOM.US,stock,Qualcomm,United States,USD,189.165,184.84,-4.3250
+2026-09-17,QCOM.US,stock,Qualcomm,United States,USD,190.345,188.71,-1.6350
+2026-09-18,QCOM.US,stock,Qualcomm,United States,USD,191.34,177.72,-13.6200
+2026-09-21,QCOM.US,stock,Qualcomm,United States,USD,180.61,194.23,13.6200
+2026-09-22,QCOM.US,stock,Qualcomm,United States,USD,192.0,198.27,6.2700
+2026-09-23,QCOM.US,stock,Qualcomm,United States,USD,199.613,197.24,-2.3730
+2026-09-24,QCOM.US,stock,Qualcomm,United States,USD,196.58,194.26,-2.3200
+2026-09-25,QCOM.US,stock,Qualcomm,United States,USD,195.03,201.97,6.9400
+2026-09-28,QCOM.US,stock,Qualcomm,United States,USD,199.16,187.48,-11.6800
+2026-09-29,QCOM.US,stock,Qualcomm,United States,USD,189.48,184.1,-5.3800
+2026-09-30,QCOM.US,stock,Qualcomm,United States,USD,184.88,184.04,-0.8400
+2026-09-01,SAP.US,stock,SAP ADR,Germany,USD,215.86,212.04,-3.8200
+2026-09-02,SAP.US,stock,SAP ADR,Germany,USD,212.5,209.69,-2.8100
+2026-09-03,SAP.US,stock,SAP ADR,Germany,USD,215.71,217.03,1.3200
+2026-09-04,SAP.US,stock,SAP ADR,Germany,USD,219.56,215.11,-4.4500
+2026-09-08,SAP.US,stock,SAP ADR,Germany,USD,213.12,211.49,-1.6300
+2026-09-09,SAP.US,stock,SAP ADR,Germany,USD,215.84,209.14,-6.7000
+2026-09-10,SAP.US,stock,SAP ADR,Germany,USD,206.35,205.95,-0.4000
+2026-09-11,SAP.US,stock,SAP ADR,Germany,USD,204.6,206.36,1.7600
+2026-09-14,SAP.US,stock,SAP ADR,Germany,USD,215.15,218.28,3.1300
+2026-09-15,SAP.US,stock,SAP ADR,Germany,USD,213.55,215.67,2.1200
+2026-09-16,SAP.US,stock,SAP ADR,Germany,USD,213.13,213.2,0.0700
+2026-09-17,SAP.US,stock,SAP ADR,Germany,USD,214.07,213.66,-0.4100
+2026-09-18,SAP.US,stock,SAP ADR,Germany,USD,212.575,209.45,-3.1250
+2026-09-21,SAP.US,stock,SAP ADR,Germany,USD,212.43,209.22,-3.2100
+2026-09-22,SAP.US,stock,SAP ADR,Germany,USD,214.2,210.68,-3.5200
+2026-09-23,SAP.US,stock,SAP ADR,Germany,USD,211.47,210.62,-0.8500
+2026-09-24,SAP.US,stock,SAP ADR,Germany,USD,210.0,209.11,-0.8900
+2026-09-25,SAP.US,stock,SAP ADR,Germany,USD,210.16,210.68,0.5200
+2026-09-28,SAP.US,stock,SAP ADR,Germany,USD,204.53,209.31,4.7800
+2026-09-29,SAP.US,stock,SAP ADR,Germany,USD,209.11,210.85,1.7400
+2026-09-30,SAP.US,stock,SAP ADR,Germany,USD,209.0,208.48,-0.5200
 2025-01-02,SI.F,commodity_future,Silver Futures,United States,USD/ozt,29.31,29.9,0.5900
 2025-01-03,SI.F,commodity_future,Silver Futures,United States,USD/ozt,29.985,30.065,0.0800
 2025-01-06,SI.F,commodity_future,Silver Futures,United States,USD/ozt,30.095,30.583,0.4880
@@ -7593,6 +9140,27 @@
 2026-09-28,SI.F,commodity_future,Silver Futures,United States,USD/ozt,64.66,61.718,-2.9420
 2026-09-29,SI.F,commodity_future,Silver Futures,United States,USD/ozt,61.03,61.153000000000006,0.1230
 2026-09-30,SI.F,commodity_future,Silver Futures,United States,USD/ozt,61.823,60.77,-1.0530
+2026-09-01,SMCI.US,stock,Super Micro Computer,United States,USD,36.43,36.71,0.2800
+2026-09-02,SMCI.US,stock,Super Micro Computer,United States,USD,37.65,37.0,-0.6500
+2026-09-03,SMCI.US,stock,Super Micro Computer,United States,USD,36.5,37.87,1.3700
+2026-09-04,SMCI.US,stock,Super Micro Computer,United States,USD,38.16,39.59,1.4300
+2026-09-08,SMCI.US,stock,Super Micro Computer,United States,USD,39.665,40.26,0.5950
+2026-09-09,SMCI.US,stock,Super Micro Computer,United States,USD,40.005,38.93,-1.0750
+2026-09-10,SMCI.US,stock,Super Micro Computer,United States,USD,37.905,37.38,-0.5250
+2026-09-11,SMCI.US,stock,Super Micro Computer,United States,USD,37.76,40.1,2.3400
+2026-09-14,SMCI.US,stock,Super Micro Computer,United States,USD,37.43,36.74,-0.6900
+2026-09-15,SMCI.US,stock,Super Micro Computer,United States,USD,36.74,35.64,-1.1000
+2026-09-16,SMCI.US,stock,Super Micro Computer,United States,USD,35.95,36.85,0.9000
+2026-09-17,SMCI.US,stock,Super Micro Computer,United States,USD,38.035,40.35,2.3150
+2026-09-18,SMCI.US,stock,Super Micro Computer,United States,USD,40.2,39.09,-1.1100
+2026-09-21,SMCI.US,stock,Super Micro Computer,United States,USD,40.63,41.2,0.5700
+2026-09-22,SMCI.US,stock,Super Micro Computer,United States,USD,41.26,41.54,0.2800
+2026-09-23,SMCI.US,stock,Super Micro Computer,United States,USD,42.27,41.44,-0.8300
+2026-09-24,SMCI.US,stock,Super Micro Computer,United States,USD,40.44,41.51,1.0700
+2026-09-25,SMCI.US,stock,Super Micro Computer,United States,USD,42.0,43.26,1.2600
+2026-09-28,SMCI.US,stock,Super Micro Computer,United States,USD,42.75,41.78,-0.9700
+2026-09-29,SMCI.US,stock,Super Micro Computer,United States,USD,42.6,41.02,-1.5800
+2026-09-30,SMCI.US,stock,Super Micro Computer,United States,USD,42.165,41.07,-1.0950
 2025-01-02,SOXX.US,etf,iShares Semiconductor ETF,United States,,217.68,216.82,-0.8600
 2025-01-03,SOXX.US,etf,iShares Semiconductor ETF,United States,,218.25,222.47,4.2200
 2025-01-06,SOXX.US,etf,iShares Semiconductor ETF,United States,,227.26,228.91,1.6500
@@ -8030,6 +9598,69 @@
 2026-09-28,SOXX.US,etf,iShares Semiconductor ETF,United States,,568.71,560.79,-7.9200
 2026-09-29,SOXX.US,etf,iShares Semiconductor ETF,United States,,569.79,567.44,-2.3500
 2026-09-30,SOXX.US,etf,iShares Semiconductor ETF,United States,,568.725,568.64,-0.0850
+2026-09-01,STX.US,stock,Seagate Technology,Ireland,USD,810.255,816.64,6.3850
+2026-09-02,STX.US,stock,Seagate Technology,Ireland,USD,805.86,808.54,2.6800
+2026-09-03,STX.US,stock,Seagate Technology,Ireland,USD,796.0,798.61,2.6100
+2026-09-04,STX.US,stock,Seagate Technology,Ireland,USD,818.75,849.28,30.5300
+2026-09-08,STX.US,stock,Seagate Technology,Ireland,USD,880.65,904.38,23.7300
+2026-09-09,STX.US,stock,Seagate Technology,Ireland,USD,893.14,885.92,-7.2200
+2026-09-10,STX.US,stock,Seagate Technology,Ireland,USD,860.56,862.33,1.7700
+2026-09-11,STX.US,stock,Seagate Technology,Ireland,USD,869.42,830.17,-39.2500
+2026-09-14,STX.US,stock,Seagate Technology,Ireland,USD,778.12,805.55,27.4300
+2026-09-15,STX.US,stock,Seagate Technology,Ireland,USD,800.24,771.81,-28.4300
+2026-09-16,STX.US,stock,Seagate Technology,Ireland,USD,784.8,783.18,-1.6200
+2026-09-17,STX.US,stock,Seagate Technology,Ireland,USD,809.03,803.13,-5.9000
+2026-09-18,STX.US,stock,Seagate Technology,Ireland,USD,814.69,858.79,44.1000
+2026-09-21,STX.US,stock,Seagate Technology,Ireland,USD,894.27,877.325,-16.9450
+2026-09-22,STX.US,stock,Seagate Technology,Ireland,USD,857.69,919.84,62.1500
+2026-09-23,STX.US,stock,Seagate Technology,Ireland,USD,913.2,923.86,10.6600
+2026-09-24,STX.US,stock,Seagate Technology,Ireland,USD,914.66,905.92,-8.7400
+2026-09-25,STX.US,stock,Seagate Technology,Ireland,USD,924.36,916.83,-7.5300
+2026-09-28,STX.US,stock,Seagate Technology,Ireland,USD,912.1,921.51,9.4100
+2026-09-29,STX.US,stock,Seagate Technology,Ireland,USD,943.5,913.45,-30.0500
+2026-09-30,STX.US,stock,Seagate Technology,Ireland,USD,921.0,922.34,1.3400
+2026-09-01,TSLA.US,stock,Tesla,United States,USD,360.9,356.09,-4.8100
+2026-09-02,TSLA.US,stock,Tesla,United States,USD,360.41,357.01,-3.4000
+2026-09-03,TSLA.US,stock,Tesla,United States,USD,365.82,376.365,10.5450
+2026-09-04,TSLA.US,stock,Tesla,United States,USD,362.07,354.08,-7.9900
+2026-09-08,TSLA.US,stock,Tesla,United States,USD,357.095,368.16,11.0650
+2026-09-09,TSLA.US,stock,Tesla,United States,USD,368.25,367.81,-0.4400
+2026-09-10,TSLA.US,stock,Tesla,United States,USD,360.595,363.56,2.9650
+2026-09-11,TSLA.US,stock,Tesla,United States,USD,364.2,365.44,1.2400
+2026-09-14,TSLA.US,stock,Tesla,United States,USD,359.78,358.97,-0.8100
+2026-09-15,TSLA.US,stock,Tesla,United States,USD,358.75,356.58,-2.1700
+2026-09-16,TSLA.US,stock,Tesla,United States,USD,357.925,358.08,0.1550
+2026-09-17,TSLA.US,stock,Tesla,United States,USD,367.48,366.2,-1.2800
+2026-09-18,TSLA.US,stock,Tesla,United States,USD,369.0,364.27,-4.7300
+2026-09-21,TSLA.US,stock,Tesla,United States,USD,371.635,375.3,3.6650
+2026-09-22,TSLA.US,stock,Tesla,United States,USD,379.069,378.9,-0.1690
+2026-09-23,TSLA.US,stock,Tesla,United States,USD,380.1,380.12,0.0200
+2026-09-24,TSLA.US,stock,Tesla,United States,USD,377.35,377.94,0.5900
+2026-09-25,TSLA.US,stock,Tesla,United States,USD,384.62,372.11,-12.5100
+2026-09-28,TSLA.US,stock,Tesla,United States,USD,368.06,357.45,-10.6100
+2026-09-29,TSLA.US,stock,Tesla,United States,USD,358.4,352.84,-5.5600
+2026-09-30,TSLA.US,stock,Tesla,United States,USD,352.11,354.81,2.7000
+2026-09-01,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,417.8,414.0,-3.8000
+2026-09-02,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,413.2,415.5,2.3000
+2026-09-03,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,413.29,417.01,3.7200
+2026-09-04,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,421.88,428.91,7.0300
+2026-09-08,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,438.02,439.0,0.9800
+2026-09-09,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,434.46,435.36,0.9000
+2026-09-10,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,426.44,428.03,1.5900
+2026-09-11,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,431.55,433.24,1.6900
+2026-09-14,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,416.01,418.01,2.0000
+2026-09-15,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,421.94,413.75,-8.1900
+2026-09-16,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,418.2,417.72,-0.4800
+2026-09-17,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,424.4,430.26,5.8600
+2026-09-18,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,429.04,434.67,5.6300
+2026-09-21,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,440.8,445.14,4.3400
+2026-09-22,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,441.22,452.0,10.7800
+2026-09-23,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,449.79,446.57,-3.2200
+2026-09-24,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,441.8,451.15,9.3500
+2026-09-25,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,452.395,450.61,-1.7850
+2026-09-28,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,448.39,452.88,4.4900
+2026-09-29,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,452.27,456.94,4.6700
+2026-09-30,TSM.US,stock,Taiwan Semiconductor Manufacturing ADR,Taiwan,USD,456.74,456.19,-0.5500
 2025-01-02,USDCNY,forex,U.S. Dollar / Chinese Renminbi,Global,,7.33297,7.32665,-0.0063
 2025-01-03,USDCNY,forex,U.S. Dollar / Chinese Renminbi,Global,,7.34002,7.35125,0.0112
 2025-01-06,USDCNY,forex,U.S. Dollar / Chinese Renminbi,Global,,7.36196,7.34388,-0.0181
@@ -8482,6 +10113,8 @@
 2026-09-28,USDCNY,forex,U.S. Dollar / Chinese Renminbi,Global,,6.72544,6.71318,-0.0123
 2026-09-29,USDCNY,forex,U.S. Dollar / Chinese Renminbi,Global,,6.70936,6.70628,-0.0031
 2026-09-30,USDCNY,forex,U.S. Dollar / Chinese Renminbi,Global,,6.70736,6.70728,-0.0001
+2026-10-01,USDCNY,forex,U.S. Dollar / Chinese Renminbi,Global,,6.70953,6.72152,0.0120
+2026-10-02,USDCNY,forex,U.S. Dollar / Chinese Renminbi,Global,,6.71456,6.7074,-0.0072
 2025-01-02,USDJPY,forex,U.S. Dollar / Japanese Yen,Global,,157.281,157.461,0.1800
 2025-01-03,USDJPY,forex,U.S. Dollar / Japanese Yen,Global,,157.4555,157.342,-0.1135
 2025-01-06,USDJPY,forex,U.S. Dollar / Japanese Yen,Global,,157.3515,157.62,0.2685
@@ -8934,6 +10567,8 @@
 2026-09-28,USDJPY,forex,U.S. Dollar / Japanese Yen,Global,,157.331,157.419,0.0880
 2026-09-29,USDJPY,forex,U.S. Dollar / Japanese Yen,Global,,157.419,157.2825,-0.1365
 2026-09-30,USDJPY,forex,U.S. Dollar / Japanese Yen,Global,,157.282,157.3485,0.0665
+2026-10-01,USDJPY,forex,U.S. Dollar / Japanese Yen,Global,,157.3525,158.0675,0.7150
+2026-10-02,USDJPY,forex,U.S. Dollar / Japanese Yen,Global,,158.072,157.9785,-0.0935
 2025-01-02,USDKRW,forex,U.S. Dollar / South Korean Won,Global,,1476.37,1467.35,-9.0200
 2025-01-03,USDKRW,forex,U.S. Dollar / South Korean Won,Global,,1472.6,1467.94,-4.6600
 2025-01-06,USDKRW,forex,U.S. Dollar / South Korean Won,Global,,1468.74,1470.81,2.0700
@@ -9382,6 +11017,8 @@
 2026-09-28,USDKRW,forex,U.S. Dollar / South Korean Won,Global,,1357.8,1362.44,4.6400
 2026-09-29,USDKRW,forex,U.S. Dollar / South Korean Won,Global,,1360.0,1356.87,-3.1300
 2026-09-30,USDKRW,forex,U.S. Dollar / South Korean Won,Global,,1351.56,1354.69,3.1300
+2026-10-01,USDKRW,forex,U.S. Dollar / South Korean Won,Global,,1357.65,1361.33,3.6800
+2026-10-02,USDKRW,forex,U.S. Dollar / South Korean Won,Global,,1360.78,1358.52,-2.2600
 2025-01-02,USDTWD,forex,U.S. Dollar / Taiwan Dollar,Global,,32.8183,32.8834,0.0651
 2025-01-03,USDTWD,forex,U.S. Dollar / Taiwan Dollar,Global,,32.9069,32.9625,0.0556
 2025-01-06,USDTWD,forex,U.S. Dollar / Taiwan Dollar,Global,,32.9364,32.8697,-0.0667
@@ -9830,6 +11467,8 @@
 2026-09-28,USDTWD,forex,U.S. Dollar / Taiwan Dollar,Global,,31.7915,31.7728,-0.0187
 2026-09-29,USDTWD,forex,U.S. Dollar / Taiwan Dollar,Global,,31.8163,31.9007,0.0844
 2026-09-30,USDTWD,forex,U.S. Dollar / Taiwan Dollar,Global,,31.8611,31.8665,0.0054
+2026-10-01,USDTWD,forex,U.S. Dollar / Taiwan Dollar,Global,,31.9209,32.0149,0.0940
+2026-10-02,USDTWD,forex,U.S. Dollar / Taiwan Dollar,Global,,31.9416,31.9306,-0.0110
 2025-01-02,USDZAR,forex,U.S. Dollar / South African Rand,Global,,18.856,18.738,-0.1180
 2025-01-03,USDZAR,forex,U.S. Dollar / South African Rand,Global,,18.7438,18.7588,0.0150
 2025-01-06,USDZAR,forex,U.S. Dollar / South African Rand,Global,,18.7657,18.5765,-0.1892
@@ -10282,6 +11921,50 @@
 2026-09-28,USDZAR,forex,U.S. Dollar / South African Rand,Global,,16.2866,16.4026,0.1160
 2026-09-29,USDZAR,forex,U.S. Dollar / South African Rand,Global,,16.4049,16.3955,-0.0094
 2026-09-30,USDZAR,forex,U.S. Dollar / South African Rand,Global,,16.4054,16.4228,0.0174
+2026-10-01,USDZAR,forex,U.S. Dollar / South African Rand,Global,,16.4355,16.6999,0.2644
+2026-10-02,USDZAR,forex,U.S. Dollar / South African Rand,Global,,16.7042,16.7048,0.0006
+2026-09-01,V.US,stock,Visa,United States,USD,379.65,372.67,-6.9800
+2026-09-02,V.US,stock,Visa,United States,USD,374.01,378.4,4.3900
+2026-09-03,V.US,stock,Visa,United States,USD,380.17,378.75,-1.4200
+2026-09-04,V.US,stock,Visa,United States,USD,374.89,375.07,0.1800
+2026-09-08,V.US,stock,Visa,United States,USD,371.6,368.64,-2.9600
+2026-09-09,V.US,stock,Visa,United States,USD,368.45,367.39,-1.0600
+2026-09-10,V.US,stock,Visa,United States,USD,366.375,367.21,0.8350
+2026-09-11,V.US,stock,Visa,United States,USD,368.92,370.45,1.5300
+2026-09-14,V.US,stock,Visa,United States,USD,375.07,375.28,0.2100
+2026-09-15,V.US,stock,Visa,United States,USD,374.815,375.62,0.8050
+2026-09-16,V.US,stock,Visa,United States,USD,374.96,370.93,-4.0300
+2026-09-17,V.US,stock,Visa,United States,USD,371.375,369.93,-1.4450
+2026-09-18,V.US,stock,Visa,United States,USD,368.56,368.29,-0.2700
+2026-09-21,V.US,stock,Visa,United States,USD,369.54,369.95,0.4100
+2026-09-22,V.US,stock,Visa,United States,USD,371.76,362.04,-9.7200
+2026-09-23,V.US,stock,Visa,United States,USD,361.24,361.52,0.2800
+2026-09-24,V.US,stock,Visa,United States,USD,362.27,367.98,5.7100
+2026-09-25,V.US,stock,Visa,United States,USD,366.02,367.38,1.3600
+2026-09-28,V.US,stock,Visa,United States,USD,366.7,367.74,1.0400
+2026-09-29,V.US,stock,Visa,United States,USD,366.93,365.88,-1.0500
+2026-09-30,V.US,stock,Visa,United States,USD,364.5,359.33,-5.1700
+2026-09-01,VRSN.US,stock,VeriSign,United States,USD,290.78,288.37,-2.4100
+2026-09-02,VRSN.US,stock,VeriSign,United States,USD,288.37,289.96,1.5900
+2026-09-03,VRSN.US,stock,VeriSign,United States,USD,290.56,293.35,2.7900
+2026-09-04,VRSN.US,stock,VeriSign,United States,USD,292.28,292.08,-0.2000
+2026-09-08,VRSN.US,stock,VeriSign,United States,USD,289.16,282.2,-6.9600
+2026-09-09,VRSN.US,stock,VeriSign,United States,USD,282.2,286.94,4.7400
+2026-09-10,VRSN.US,stock,VeriSign,United States,USD,287.14,288.85,1.7100
+2026-09-11,VRSN.US,stock,VeriSign,United States,USD,289.86,292.71,2.8500
+2026-09-14,VRSN.US,stock,VeriSign,United States,USD,299.37,298.6,-0.7700
+2026-09-15,VRSN.US,stock,VeriSign,United States,USD,295.31,297.26,1.9500
+2026-09-16,VRSN.US,stock,VeriSign,United States,USD,295.89,298.46,2.5700
+2026-09-17,VRSN.US,stock,VeriSign,United States,USD,297.48,302.05,4.5700
+2026-09-18,VRSN.US,stock,VeriSign,United States,USD,302.05,303.12,1.0700
+2026-09-21,VRSN.US,stock,VeriSign,United States,USD,303.59,308.18,4.5900
+2026-09-22,VRSN.US,stock,VeriSign,United States,USD,308.88,299.42,-9.4600
+2026-09-23,VRSN.US,stock,VeriSign,United States,USD,300.57,293.28,-7.2900
+2026-09-24,VRSN.US,stock,VeriSign,United States,USD,294.26,291.88,-2.3800
+2026-09-25,VRSN.US,stock,VeriSign,United States,USD,291.88,287.25,-4.6300
+2026-09-28,VRSN.US,stock,VeriSign,United States,USD,284.02,282.07,-1.9500
+2026-09-29,VRSN.US,stock,VeriSign,United States,USD,279.23,279.84,0.6100
+2026-09-30,VRSN.US,stock,VeriSign,United States,USD,279.76,282.01,2.2500
 2025-01-02,ZC.F,commodity_future,Corn Futures,United States,,457.25,459.5,2.2500
 2025-01-03,ZC.F,commodity_future,Corn Futures,United States,,459.5,450.75,-8.7500
 2025-01-06,ZC.F,commodity_future,Corn Futures,United States,,451.5,457.75,6.2500
