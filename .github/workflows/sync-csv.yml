@@ -1,0 +1,112 @@
+name: Sync CSV files
+run-name: CSV archive ${{ inputs.orchestration_id || 'manual' }}
+
+on:
+  # 手動入口保留；總控只有在五項抓取全部成功後才觸發本工作。
+  workflow_dispatch:
+    inputs:
+      source_ref:
+        description: "來源 snapshot 的完整 commit SHA；留空用 main"
+        type: string
+        default: ""
+      orchestration_id:
+        description: "總控唯一批次識別碼；手動執行可留空"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-all-csv
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Validate immutable source snapshot
+        env:
+          SOURCE_REF: ${{ inputs.source_ref }}
+          ORCHESTRATION_ID: ${{ inputs.orchestration_id }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -n "$SOURCE_REF" ] && [[ ! "$SOURCE_REF" =~ ^[0-9a-f]{40}$ ]]; then
+            echo "::error::source_ref 必須為完整 commit SHA，或留空用 main"
+            exit 1
+          fi
+          if [ -n "$ORCHESTRATION_ID" ] && [[ ! "$ORCHESTRATION_ID" =~ ^daily-[0-9]+-[0-9]+$ ]]; then
+            echo "::error::無效的總控批次識別碼"
+            exit 1
+          fi
+      - name: Validate source repository token
+        shell: bash
+        env:
+          SOURCE_REPO_TOKEN: ${{ secrets.SOURCE_REPO_TOKEN }}
+        run: |
+          if [ -z "$SOURCE_REPO_TOKEN" ]; then
+            echo "::error::缺少 SOURCE_REPO_TOKEN。請建立可讀取 financeworker86/financial-data-pipeline 的 fine-grained PAT，並加入本 repository 的 Actions secret。"
+            exit 1
+          fi
+
+      - name: Checkout archive repository
+        uses: actions/checkout@v7
+        with:
+          path: archive
+          fetch-depth: 1
+
+      - name: Checkout private source repository
+        uses: actions/checkout@v7
+        with:
+          repository: financeworker86/financial-data-pipeline
+          ref: ${{ inputs.source_ref || 'main' }}
+          token: ${{ secrets.SOURCE_REPO_TOKEN }}
+          persist-credentials: false
+          path: source
+          fetch-depth: 1
+
+      - name: Synchronize CSV files except listings
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          find archive -type f -iname "*.csv" -delete
+          # 來源索引與更正紀錄僅留來源庫；封存庫只複製 CSV。
+          rsync -avm --prune-empty-dirs \
+            --exclude="*.json" \
+            --exclude="*.jsonl" \
+            --include="*/" \
+            --exclude="*listings*.csv" \
+            --exclude="*listings*.CSV" \
+            --include="*.csv" \
+            --include="*.CSV" \
+            --exclude="*" \
+            source/ archive/
+
+          csv_count=$(find archive -type f -iname "*.csv" | wc -l | tr -d " ")
+          if [ "$csv_count" -eq 0 ]; then
+            echo "錯誤：來源 repository 找不到符合條件的 CSV，停止同步以避免清空封存庫。"
+            exit 1
+          fi
+
+          echo "同步完成，共找到 $csv_count 個 CSV（已排除 listings 相關檔案）。"
+
+      - name: Commit and push changes
+        working-directory: archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- '*.csv'
+
+          if git diff --cached --quiet; then
+            echo "CSV 沒有變化，無需 commit。"
+            exit 0
+          fi
+
+          git commit -m "sync: update CSV archive ($(date -u +%Y-%m-%d))"
+          git push origin main
