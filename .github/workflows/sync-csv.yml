@@ -2,7 +2,7 @@ name: Sync CSV files
 run-name: CSV archive ${{ inputs.orchestration_id || 'manual' }}
 
 on:
-  # 手動入口保留；總控只有在五項抓取全部成功後才觸發本工作。
+  # 手動入口保留；總控只有在所有必要抓取階段成功後才觸發本工作。
   workflow_dispatch:
     inputs:
       source_ref:
@@ -94,6 +94,37 @@ jobs:
 
           echo "同步完成，共找到 $csv_count 個 CSV（已排除 listings 相關檔案）。"
 
+      - name: Verify CSV paths and content before publication
+        shell: bash
+        run: |
+          python - <<'PYCODE'
+          import hashlib
+          import os
+          from pathlib import Path
+          import subprocess
+          source, archive = Path("source"), Path("archive")
+          commit = subprocess.check_output(["git", "-C", str(source), "rev-parse", "HEAD"], text=True).strip()
+          tracked = subprocess.check_output(["git", "-C", str(source), "ls-tree", "-r", "--name-only", "-z", "HEAD"]).decode().split("\0")
+          expected = {p for p in tracked if p.lower().endswith(".csv") and "listings" not in Path(p).name.lower()}
+          actual = {str(p.relative_to(archive)) for p in archive.rglob("*") if p.is_file() and p.suffix.lower() == ".csv" and ".git" not in p.relative_to(archive).parts}
+          if not expected or expected != actual:
+              raise SystemExit("CSV paths differ; publication blocked")
+          def digest(path):
+              result = hashlib.sha256()
+              with path.open("rb") as handle:
+                  for chunk in iter(lambda: handle.read(1024 * 1024), b""):
+                      result.update(chunk)
+              return result.hexdigest()
+          for name in sorted(expected):
+              if digest(source / name) != digest(archive / name):
+                  raise SystemExit("CSV hash mismatch: " + name)
+          with open(os.environ["GITHUB_ENV"], "a") as out:
+              out.write(f"SOURCE_SNAPSHOT={commit}\n")
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a") as out:
+              out.write(f"Source snapshot: {commit}\n\nVerified CSV files: {len(expected)}\n")
+          print(f"Verified {len(expected)} CSV paths and SHA-256 hashes from {commit}")
+          PYCODE
+
       - name: Commit and push changes
         working-directory: archive
         shell: bash
@@ -101,12 +132,14 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A -- '*.csv'
+          git add -A -- '*.csv' '*.CSV'
 
           if git diff --cached --quiet; then
             echo "CSV 沒有變化，無需 commit。"
             exit 0
           fi
 
-          git commit -m "sync: update CSV archive ($(date -u +%Y-%m-%d))"
+          git commit -m "sync: update CSV archive ($(date -u +%Y-%m-%d))" \
+            -m "Source-Repository: financeworker86/financial-data-pipeline" \
+            -m "Source-Commit: $SOURCE_SNAPSHOT"
           git push origin main
